@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    android:padding="0dp"
+    tools:context="com.example.cubix.alaspurwo.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn_menu_besar"
+            android:layout_width="275px"
+            android:layout_height="300px"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_menu_besar"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="132dp" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="26dp"
+            android:background="@drawable/btn_profil" />
+
+        <Button
+            android:id="@+id/btn_menuutama"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_below="@+id/button5"
+            android:layout_toEndOf="@+id/btn_menu_besar"
+            android:layout_toRightOf="@+id/btn_menu_besar"
+            android:background="@drawable/btn_menu_utama"
+            tools:layout_editor_absoluteX="135dp"
+            tools:layout_editor_absoluteY="142dp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/button2"
+            android:layout_toRightOf="@+id/button2"
+            android:background="@drawable/btn_bantuan"
+            tools:layout_editor_absoluteX="148dp"
+            tools:layout_editor_absoluteY="220dp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_below="@+id/button3"
+            android:layout_marginTop="16dp"
+            android:layout_toEndOf="@+id/btn_menu_besar"
+            android:layout_toRightOf="@+id/btn_menu_besar"
+            android:background="@drawable/btn_keluar"
+            tools:layout_editor_absoluteX="52dp"
+            tools:layout_editor_absoluteY="0dp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_alignLeft="@+id/button5"
+            android:layout_alignStart="@+id/button5"
+            android:layout_below="@+id/btn_menu_besar"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/btn_tentang"
+            tools:layout_editor_absoluteX="256dp"
+            tools:layout_editor_absoluteY="254dp" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
