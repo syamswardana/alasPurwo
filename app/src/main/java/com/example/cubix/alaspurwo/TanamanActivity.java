@@ -2,6 +2,7 @@ package com.example.cubix.alaspurwo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -19,6 +20,12 @@ public class TanamanActivity extends AppCompatActivity {
         TextView txt_klasifikasi = findViewById(R.id.txt_klasifikasi);
         TextView txt_deskripsi = findViewById(R.id.txt_deskripsi);
         TextView txt_manfaat = findViewById(R.id.txt_manfaat);
+
+        Toolbar ToolBarAtas2 = (Toolbar)findViewById(R.id.toolbar_satu);
+        setSupportActionBar(ToolBarAtas2);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         namaTanaman = getIntent().getStringExtra("namaTumbuhan");
         switch (namaTanaman) {

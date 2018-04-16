@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Button btn_menuUtama = (Button) findViewById(R.id.btn_menuutama);
+        Button btn_profil = (Button) findViewById(R.id.btn_profil);
+        Button btn_bantuan = (Button) findViewById(R.id.btn_bantuan);
+        Button btn_tentang = (Button) findViewById(R.id.btn_tentang);
+        Button btn_keluar = (Button) findViewById(R.id.btn_keluar);
 
         btn_menuUtama.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -22,5 +26,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this,MenuUtamaActivity.class));
             }
         });
+
+        btn_keluar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
+        });
+
     }
 }

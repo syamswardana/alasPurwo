@@ -6,29 +6,53 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg2"
     android:padding="0dp"
+    android:layout_margin="0dp"
     tools:context="com.example.cubix.alaspurwo.MenuUtamaActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="507dp"
+        android:layout_height="match_parent"
         android:orientation="vertical"
         tools:layout_editor_absoluteY="4dp">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_satu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/lologo"
+                android:layout_marginRight="70dp"/>
+        </android.support.v7.widget.Toolbar>
+
 
         <TextView
             android:id="@+id/txt_title"
             android:layout_width="match_parent"
             android:layout_height="54dp"
+            android:layout_gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
             android:text="Daftar Tumbuhan dalam Ekosistem Taman Nasional Alas Purwo"
             android:textAlignment="center"
-            android:textSize="14sp"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
             android:typeface="normal" />
 
-        <ListView
-            android:id="@+id/listHutan"
+        <GridView
+            android:id="@+id/grid_hutan"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:dividerHeight="2dp"
-            android:footerDividersEnabled="true"
-            android:headerDividersEnabled="false" />
+            android:columnWidth="80dp"
+            android:numColumns="2"
+            android:gravity="center"
+            android:padding="0dp"/>
+
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

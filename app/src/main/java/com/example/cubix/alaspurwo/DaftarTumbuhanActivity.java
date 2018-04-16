@@ -3,6 +3,7 @@ package com.example.cubix.alaspurwo;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
@@ -24,6 +25,12 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
         setContentView(R.layout.activity_daftar_tumbuhan);
 
         TextView txt_title = (TextView) findViewById(R.id.txt_title);
+
+        Toolbar ToolBarAtas2 = (Toolbar)findViewById(R.id.toolbar_satu);
+        setSupportActionBar(ToolBarAtas2);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         baris = getIntent().getIntExtra("baris",0);
         rowItems = new ArrayList<RowItemTumbuhan>();

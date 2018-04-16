@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg2"
-    android:padding="0dp"
+    android:paddingBottom="10dp"
     tools:context="com.example.cubix.alaspurwo.TanamanActivity">
 
     <ScrollView
@@ -19,40 +19,94 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar_satu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:minHeight="?attr/actionBarSize"
+                android:theme="@style/AppTheme.AppBarOverlay">
+
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/lologo"
+                    android:layout_marginRight="70dp"/>
+            </android.support.v7.widget.Toolbar>
+
             <TextView
                 android:id="@+id/txt_namaTumbuhan"
                 android:layout_width="match_parent"
-                android:layout_height="52dp"
+                android:layout_height="40dp"
                 android:gravity="center_vertical"
                 android:text="Nama tanaman"
                 android:textAlignment="center"
-                android:textSize="16sp"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
                 app:layout_constraintEnd_toStartOf="@+id/linearLayout" />
 
-            <ImageView
-                android:id="@+id/img_tanaman"
+            <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                app:srcCompat="@drawable/adem_ati" />
+                android:layout_height="match_parent">
 
-            <TextView
-                android:id="@+id/txt_klasifikasi"
+                <ImageView
+                    android:id="@+id/img_tanaman"
+                    android:layout_width="250dp"
+                    android:layout_height="175dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    app:srcCompat="@drawable/adem_ati" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Klasifikasi :" />
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp">
 
-            <TextView
-                android:id="@+id/txt_deskripsi"
+                <TextView
+                    android:id="@+id/txt_klasifikasi"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:text="Klasifikasi :"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Deskripsi :" />
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp">
 
-            <TextView
-                android:id="@+id/txt_manfaat"
+                <TextView
+                    android:id="@+id/txt_deskripsi"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="Deskripsi :"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Manfaat :" />
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp">
 
+                <TextView
+                    android:id="@+id/txt_manfaat"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="Manfaat :"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp" />
+
+            </RelativeLayout>
         </LinearLayout>
     </ScrollView>
 

@@ -14,8 +14,8 @@
 
         <Button
             android:id="@+id/btn_menu_besar"
-            android:layout_width="275px"
-            android:layout_height="300px"
+            android:layout_width="185dp"
+            android:layout_height="205dp"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_centerVertical="true"
@@ -24,56 +24,57 @@
             tools:layout_editor_absoluteY="132dp" />
 
         <Button
-            android:id="@+id/button5"
-            android:layout_width="100px"
-            android:layout_height="100px"
-            android:layout_alignParentTop="true"
+            android:id="@+id/btn_profil"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_above="@+id/btn_menuutama"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="26dp"
             android:background="@drawable/btn_profil" />
 
         <Button
             android:id="@+id/btn_menuutama"
-            android:layout_width="100px"
-            android:layout_height="100px"
-            android:layout_below="@+id/button5"
-            android:layout_toEndOf="@+id/btn_menu_besar"
-            android:layout_toRightOf="@+id/btn_menu_besar"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_above="@+id/btn_bantuan"
+            android:layout_marginBottom="16dp"
+            android:layout_toEndOf="@+id/btn_profil"
+            android:layout_toRightOf="@+id/btn_profil"
             android:background="@drawable/btn_menu_utama"
-            tools:layout_editor_absoluteX="135dp"
-            tools:layout_editor_absoluteY="142dp" />
+            tools:layout_editor_absoluteX="130dp"
+            tools:layout_editor_absoluteY="100dp" />
 
         <Button
-            android:id="@+id/button3"
-            android:layout_width="100px"
-            android:layout_height="100px"
+            android:id="@+id/btn_bantuan"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginStart="24dp"
             android:layout_centerVertical="true"
-            android:layout_toEndOf="@+id/button2"
-            android:layout_toRightOf="@+id/button2"
+            android:layout_toEndOf="@+id/btn_keluar"
+            android:layout_toRightOf="@+id/btn_keluar"
             android:background="@drawable/btn_bantuan"
             tools:layout_editor_absoluteX="148dp"
             tools:layout_editor_absoluteY="220dp" />
 
         <Button
-            android:id="@+id/button4"
-            android:layout_width="100px"
-            android:layout_height="100px"
-            android:layout_below="@+id/button3"
-            android:layout_marginTop="16dp"
-            android:layout_toEndOf="@+id/btn_menu_besar"
-            android:layout_toRightOf="@+id/btn_menu_besar"
+            android:id="@+id/btn_keluar"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_below="@+id/btn_tentang"
+            android:layout_toLeftOf="@+id/btn_menuutama"
+            android:layout_toStartOf="@+id/btn_menuutama"
             android:background="@drawable/btn_keluar"
             tools:layout_editor_absoluteX="52dp"
             tools:layout_editor_absoluteY="0dp" />
 
         <Button
-            android:id="@+id/button2"
-            android:layout_width="100px"
-            android:layout_height="100px"
-            android:layout_alignLeft="@+id/button5"
-            android:layout_alignStart="@+id/button5"
-            android:layout_below="@+id/btn_menu_besar"
-            android:layout_marginTop="16dp"
+            android:id="@+id/btn_tentang"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_below="@+id/btn_bantuan"
+            android:layout_marginTop="20dp"
+            android:layout_toEndOf="@+id/btn_keluar"
+            android:layout_toRightOf="@+id/btn_keluar"
             android:background="@drawable/btn_tentang"
             tools:layout_editor_absoluteX="256dp"
             tools:layout_editor_absoluteY="254dp" />

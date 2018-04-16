@@ -5,8 +5,10 @@ import android.content.Intent;
 import android.content.res.TypedArray;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.GridView;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -18,7 +20,7 @@ public class MenuUtamaActivity extends AppCompatActivity implements AdapterView.
     String[] text;
     TypedArray imagehutan;
     List<RowItem> rowItems;
-    ListView listHutan;
+    GridView grid_hutan;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +28,12 @@ public class MenuUtamaActivity extends AppCompatActivity implements AdapterView.
         setContentView(R.layout.activity_menu_utama);
 
         TextView txt_title = (TextView) findViewById(R.id.txt_title);
+
+        Toolbar ToolBarAtas2 = (Toolbar)findViewById(R.id.toolbar_satu);
+        setSupportActionBar(ToolBarAtas2);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         rowItems = new ArrayList<RowItem>();
         text = getResources().getStringArray(R.array.hutan);
@@ -36,11 +44,11 @@ public class MenuUtamaActivity extends AppCompatActivity implements AdapterView.
             rowItems.add(item);
 //            txt_title.append(text[i]+", ");
         }
-        listHutan = (ListView) findViewById(R.id.listHutan);
+        grid_hutan = (GridView) findViewById(R.id.grid_hutan);
         AdapterHutanActivity adapter = new AdapterHutanActivity(this, rowItems);
-        listHutan.setAdapter(adapter);
+        grid_hutan.setAdapter(adapter);
 
-        listHutan.setOnItemClickListener(this);
+        grid_hutan.setOnItemClickListener(this);
     }
 
     @Override

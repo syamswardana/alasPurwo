@@ -15,7 +15,9 @@
             android:id="@+id/txt_namaTumbuhan"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:padding="10dp"
             android:text="TextView"
-            android:textSize="18sp" />
+            android:textColor="@android:color/white"
+            android:textSize="16dp" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
