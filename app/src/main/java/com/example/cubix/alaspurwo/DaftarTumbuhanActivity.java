@@ -40,7 +40,6 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
 
         searchView = (MaterialSearchView) findViewById(R.id.search_view);
 
-
         baris = getIntent().getIntExtra("baris", 0);
         rowItems = new ArrayList<RowItemTumbuhan>();
         if (baris == 0) {
@@ -70,6 +69,48 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
         listTumbuhan = (ListView) findViewById(R.id.list_tumbuhan);
         AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(this, rowItems);
         listTumbuhan.setAdapter(adapter);
+
+        searchView.setOnSearchViewListener(new MaterialSearchView.SearchViewListener() {
+            @Override
+            public void onSearchViewShown() {
+
+            }
+
+            @Override
+            public void onSearchViewClosed() {
+                listTumbuhan = (ListView) findViewById(R.id.list_tumbuhan);
+                AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, rowItems);
+                listTumbuhan.setAdapter(adapter);
+            }
+        });
+
+        searchView.setOnQueryTextListener(new MaterialSearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String query) {
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String newText) {
+                if (newText != null && !newText.isEmpty()){
+                    List<RowItemTumbuhan> hasil = new ArrayList<RowItemTumbuhan>();
+                    for (int i = 0; i < namaTumbuhan.length; i++) {
+                        if (namaTumbuhan[i].toLowerCase().contains(newText.toLowerCase())){
+                            RowItemTumbuhan item = new RowItemTumbuhan(namaTumbuhan[i]);
+                            hasil.add(item);
+                        }
+                    }
+                    AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, hasil);
+                    listTumbuhan.setAdapter(adapter);
+                } else {
+                    listTumbuhan = (ListView) findViewById(R.id.list_tumbuhan);
+                    AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, rowItems);
+                    listTumbuhan.setAdapter(adapter);
+                }
+
+                return true;
+            }
+        });
 
         listTumbuhan.setOnItemClickListener(this);
     }

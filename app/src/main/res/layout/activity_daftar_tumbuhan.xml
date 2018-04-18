@@ -22,22 +22,25 @@
         android:background="@android:color/transparent"
         android:minHeight="?attr/actionBarSize"
         android:theme="@style/AppTheme.AppBarOverlay">
-
-        <ImageView
-            android:id="@+id/imageView4"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginRight="70dp"
-            app:srcCompat="@drawable/lologo" />
     </android.support.v7.widget.Toolbar>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/lologo" />
     <com.miguelcatalan.materialsearchview.MaterialSearchView
         android:id="@+id/search_view"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
-        app:searchBackground="@color/colorPrimary"
+        app:searchBackground="@color/green"
         app:searchSuggestionBackground="@color/colorPrimary"
         app:searchCloseIcon="@drawable/ic_action_navigation_close_inverted"
         app:searchBackIcon="@drawable/ic_action_navigation_arrow_back_inverted"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
         app:searchSuggestionIcon="@drawable/ic_suggestion"/>
 </RelativeLayout>
 
