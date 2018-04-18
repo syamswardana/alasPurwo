@@ -5,6 +5,75 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.cubix.alaspurwo.ProfilActivity">
+    tools:context="com.example.cubix.alaspurwo.ProfilActivity"
+    android:background="@drawable/bg2">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="-35dp"
+        tools:layout_editor_absoluteY="42dp"
+        tools:ignore="MissingConstraints">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_satu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/lologo"
+                android:layout_marginRight="70dp"/>
+        </android.support.v7.widget.Toolbar>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:id="@+id/imageView6"
+                        android:layout_width="175dp"
+                        android:layout_height="275dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        app:srcCompat="@drawable/logo_alas_purwo" />
+
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:text="Kawasan Alas Purwo, sebelum ditetapkan sebagai taman nasional, semula berstatus Suaka Margasatwa Banyuwangi Selatan berdasarkan Surat Keputusan Gubernur Jenderal Hindia Belanda Nomor 6 stbl 456 tanggal 01 September 1939 dengan luas areal 62.000 ha. Kemudian, diubah menjadi Taman Nasional Alas Purwo.dengan luas 43.420 ha melalui Surat Keputusan Menteri Kehutanan pada tahun 1992.\n\nTaman Nasional Alas Purwo, sebagaimana diamanatkan dalam Undang-Undang Nomor 5 tahun 1990 tentang Konservasi Sumberdaya Alam Hayati dan Ekosistemnya mempunyai tiga fungsi pokok, yaitu\n
+        1. Perlindungan proses ekologis sistem penyangga kehidupan.\n
+        2. Pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya.\n
+        3. Pemanfaatan secara lestari sumberdaya alam hayati dan ekosistemnya dalam bentuk penelitian, ilmu pengetahuan, pendidikan, penunjang budidaya, dan pariwisata alam\n\n
+        Taman Nasional Alas Purwo merupakan kawasan hutan yang mempunyai berbagai macam tipe ekosistem yang tergolong utuh di Pulau Jawa. Ekosistem yang dimiliki mulai dari pantai (hutan pantai) sampai hutan hujan  dataran rendah, hutan mangrove, hutan bambu, savana dan hutan tanaman\n\n
+        Keanekaragaman jenis flora darat di kawasan Taman Nasional Alas Purwo termasuk tinggi. Diketahui lebih dari 700 jenis tumbuhan mulai dari tingkat tumbuhan bawah sampai tumbuhan tingkat pohon dari berbagai tipe/formasi vegetasi.  Tumbuhan khas dan endemik pada taman nasional ini yaitu sawo kecik (Manilkara kauki). Selain itu tumbuhan yang sering dijumpai yaitu ketapang (Terminalia catapa), nyamplung (Calophyllum inophyllum), kepuh (Sterculia foetida), keben (Barringtonia asiatica), dan 10 jenis bambu."
+
+                    android:gravity="fill"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
 </android.support.constraint.ConstraintLayout>
