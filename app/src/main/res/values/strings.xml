@@ -2,6 +2,23 @@
     <string name="app_name">Alas Purwo</string>
     <string name="title_activity_adapter_hutan">AdapterHutanActivity</string>
 
+    <string name="next">Lanjut</string>
+    <string name="skip">Lewati</string>
+    <string name="start">Selesai</string>
+    <string name="slide_1_title">Daily Workout</string>
+    <string name="slide_1_desc">Set your daily workout routine by the help of trainer</string>
+    <string name="slide_2_title">Meditation Techniques </string>
+    <string name="slide_2_desc">Learn about the different meditation techniques and practice them</string>
+    <string name="slide_3_title">Diet Chart</string>
+    <string name="slide_3_desc">Make your diet chart by the help of health experts</string>
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+
+
+
+
     <string-array name="hutan">
         <item>Hutan Bambu</item>
         <item>Hutan Daratan Rendah</item>

@@ -39,14 +39,18 @@
         <activity
             android:name=".SplashScreen2Activity"
             android:noHistory="true"
-            android:theme="@style/fullscreen"></activity>
+            android:theme="@style/fullscreen" />
         <activity
             android:name=".ProfilActivity"
             android:parentActivityName=".MainActivity"
-            android:theme="@style/noActionBar"></activity>
-        <activity android:name=".TentangActivity"
+            android:theme="@style/noActionBar" />
+        <activity
+            android:name=".TentangActivity"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/noActionBar" />
+        <activity android:name=".BantuanActivity"
             android:theme="@style/noActionBar"
-            android:parentActivityName=".MainActivity"></activity>
+            android:noHistory="true"></activity>
     </application>
 
 </manifest>
