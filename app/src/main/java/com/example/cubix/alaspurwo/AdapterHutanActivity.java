@@ -19,6 +19,9 @@ public class AdapterHutanActivity extends BaseAdapter {
     List<RowItem> rowItems;
     private RowItem row_pos;
 
+    public AdapterHutanActivity() {
+    }
+
     public AdapterHutanActivity(Context context, List<RowItem> rowItems) {
         this.context = context;
         this.rowItems = rowItems;

@@ -3,6 +3,7 @@ package com.example.cubix.alaspurwo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.text.Html;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -29,6 +30,7 @@ public class TanamanActivity extends AppCompatActivity {
 
         namaTanaman = getIntent().getStringExtra("namaTumbuhan");
         switch (namaTanaman) {
+            //hutan pantai
             case "Keben":
                 Tanaman = getResources().getStringArray(R.array.keben);
                 img_tanaman.setImageResource(R.drawable.keben);
@@ -49,13 +51,33 @@ public class TanamanActivity extends AppCompatActivity {
                 Tanaman = getResources().getStringArray(R.array.sawoKecik);
                 img_tanaman.setImageResource(R.drawable.sawo_kecik);
                 break;
+
+            //hutan bambu
             case "Bambu Ampel":
                 Tanaman = getResources().getStringArray(R.array.bambuAmpel);
                 img_tanaman.setImageResource(R.drawable.bambu_ampel);
                 break;
-            case "Bambu Wuluh":
-                Tanaman = getResources().getStringArray(R.array.bambuWuluh);
-                img_tanaman.setImageResource(R.drawable.bambu_wuluh);
+            case "Bambu Apus":
+                Tanaman = getResources().getStringArray(R.array.bambuApus);
+                img_tanaman.setImageResource(R.drawable.bambu_apus);
+                break;
+            case "Bambu Petung":
+                Tanaman = getResources().getStringArray(R.array.bambuPetung);
+                img_tanaman.setImageResource(R.drawable.bambu_petung);
+                break;
+            case "Bambu Wulung":
+                Tanaman = getResources().getStringArray(R.array.bambuWulung);
+                img_tanaman.setImageResource(R.drawable.bambu_wulung);
+                break;
+
+            //hutan Daratan Rendah
+            case "Andong":
+                Tanaman = getResources().getStringArray(R.array.andong);
+                img_tanaman.setImageResource(R.drawable.andong);
+                break;
+            case "Anting-Anting":
+                Tanaman = getResources().getStringArray(R.array.antingAnting);
+                img_tanaman.setImageResource(R.drawable.anting_anting);
                 break;
             case "Asam":
                 Tanaman = getResources().getStringArray(R.array.asam);
@@ -85,44 +107,46 @@ public class TanamanActivity extends AppCompatActivity {
                 Tanaman = getResources().getStringArray(R.array.kepuh);
                 img_tanaman.setImageResource(R.drawable.kepuh);
                 break;
+
+            //hutan mangrove
             case "Api Api Pantai":
                 Tanaman = getResources().getStringArray(R.array.apiApiPantai);
                 img_tanaman.setImageResource(R.drawable.api_api_pantai);
+                break;
+            case "Bakau":
+                Tanaman = getResources().getStringArray(R.array.bakau);
+                img_tanaman.setImageResource(R.drawable.bakau);
                 break;
             case "Bako Bako":
                 Tanaman = getResources().getStringArray(R.array.bakoBako);
                 img_tanaman.setImageResource(R.drawable.bako_bako);
                 break;
-            case "Cordia Bantamensi":
-                Tanaman = getResources().getStringArray(R.array.cordiaBantamensis);
-                img_tanaman.setImageResource(R.drawable.cordia_bantamensis);
-                break;
-            case "Heritiera Littoralis":
-                Tanaman = getResources().getStringArray(R.array.heritieraLittoralis);
-                img_tanaman.setImageResource(R.drawable.heritiera_littoralis);
-//                fail
+            case "Dungun":
+                Tanaman = getResources().getStringArray(R.array.dungun);
+                img_tanaman.setImageResource(R.drawable.dungun);
                 break;
             case "Mangrove Pedada":
                 Tanaman = getResources().getStringArray(R.array.mangrovePedada);
                 img_tanaman.setImageResource(R.drawable.mangrove_pedada);
                 break;
-            case "Rhizophora Mucronata":
-                Tanaman = getResources().getStringArray(R.array.rhizophoraMucronata);
-                img_tanaman.setImageResource(R.drawable.rhizophora_mucronata);
-//                fail
+            case "Nyiri Agang":
+                Tanaman = getResources().getStringArray(R.array.nyiriAgang);
+                img_tanaman.setImageResource(R.drawable.nyiri_agang);
                 break;
-            case "Soneratia Alba":
-                Tanaman = getResources().getStringArray(R.array.soneratiaAlba);
-                img_tanaman.setImageResource(R.drawable.soneratia_alba);
+            case "Pohon Kendal":
+                Tanaman = getResources().getStringArray(R.array.pohonKendal);
+                img_tanaman.setImageResource(R.drawable.pohon_kendal);
+                break;
+            case "Apel Mangrove":
+                Tanaman = getResources().getStringArray(R.array.mangroveApel);
+                img_tanaman.setImageResource(R.drawable.apel_mangrove);
                 break;
             case "Tanjang":
                 Tanaman = getResources().getStringArray(R.array.tanjang);
                 img_tanaman.setImageResource(R.drawable.tanjang);
                 break;
-            case "Xylocarpus Granatum":
-                Tanaman = getResources().getStringArray(R.array.xylocarpusGranatum);
-                img_tanaman.setImageResource(R.drawable.xylocarpus_granatum);
-                break;
+
+            //hutan Tanaman
             case "Adem Ati":
                 Tanaman = getResources().getStringArray(R.array.ademAti);
                 img_tanaman.setImageResource(R.drawable.adem_ati);
@@ -135,18 +159,19 @@ public class TanamanActivity extends AppCompatActivity {
                 Tanaman = getResources().getStringArray(R.array.jati);
                 img_tanaman.setImageResource(R.drawable.jati);
                 break;
+            //Savana
             case "Alang-Alang":
                 Tanaman = getResources().getStringArray(R.array.alangAlang);
                 img_tanaman.setImageResource(R.drawable.alang_alang);
                 break;
         }
 
-        txt_namaTanaman.setText(Tanaman[0]);
-        for (int i=1;i<10;i++){
+        txt_namaTanaman.setText(Html.fromHtml(Tanaman[0]+" <i>"+Tanaman[1]+"</i>"));
+        for (int i=2;i<10;i++){
             txt_klasifikasi.append("\n"+Tanaman[i]);
         }
-        txt_deskripsi.append("\n"+Tanaman[10]);
-        txt_manfaat.append("\n"+Tanaman[11]);
+        txt_deskripsi.append("\n"+Tanaman[11]);
+        txt_manfaat.append("\n"+Tanaman[12]);
 
     }
 }

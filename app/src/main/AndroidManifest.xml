@@ -29,7 +29,7 @@
         <activity android:name=".AdapterHutanActivity" />
         <activity
             android:name=".DaftarTumbuhanActivity"
-            android:parentActivityName=".MenuUtamaActivity"
+            android:parentActivityName=".DeskripsiActivity"
             android:theme="@style/noActionBar" />
         <activity android:name=".AdapterTumbuhanActivity" />
         <activity
@@ -48,9 +48,17 @@
             android:name=".TentangActivity"
             android:parentActivityName=".MainActivity"
             android:theme="@style/noActionBar" />
-        <activity android:name=".BantuanActivity"
-            android:theme="@style/noActionBar"
-            android:noHistory="true"></activity>
+        <activity
+            android:name=".BantuanActivity"
+            android:noHistory="true"
+            android:theme="@style/noActionBar" />
+        <activity
+            android:name=".DeskripsiActivity"
+            android:parentActivityName=".MenuUtamaActivity"
+            android:theme="@style/noActionBar" />
+        <activity android:name=".IsiDeskripsiActivity"
+            android:parentActivityName=".DeskripsiActivity"
+            android:theme="@style/noActionBar"></activity>
     </application>
 
 </manifest>

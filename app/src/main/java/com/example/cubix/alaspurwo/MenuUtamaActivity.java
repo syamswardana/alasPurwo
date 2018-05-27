@@ -54,7 +54,7 @@ public class MenuUtamaActivity extends AppCompatActivity implements AdapterView.
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         int baris = position;
-        Intent intent = new Intent(MenuUtamaActivity.this, DaftarTumbuhanActivity.class);
+        Intent intent = new Intent(MenuUtamaActivity.this, DeskripsiActivity.class);
         intent.putExtra("baris", baris);
         startActivity(intent);
     }

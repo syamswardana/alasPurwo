@@ -20,6 +20,9 @@ public class AdapterTumbuhanActivity extends BaseAdapter {
     List<RowItemTumbuhan> rowItems;
     private RowItemTumbuhan row_pos;
 
+    public AdapterTumbuhanActivity() {
+    }
+
     public AdapterTumbuhanActivity(Context contetxt, List<RowItemTumbuhan> rowItems) {
         this.context = contetxt;
         this.rowItems = rowItems;
