@@ -167,10 +167,10 @@ public class TanamanActivity extends AppCompatActivity {
         }
 
         txt_namaTanaman.setText(Html.fromHtml(Tanaman[0]+" <i>"+Tanaman[1]+"</i>"));
-        for (int i=2;i<10;i++){
-            txt_klasifikasi.append("\n"+Tanaman[i]);
+        for (int i=2;i<11;i++){
+            txt_klasifikasi.append(Html.fromHtml("<br/>"+Tanaman[i]));
         }
-        txt_deskripsi.append("\n"+Tanaman[11]);
+        txt_deskripsi.append(Html.fromHtml("<br/>"+Tanaman[11]));
         txt_manfaat.append("\n"+Tanaman[12]);
 
     }
