@@ -94,7 +94,7 @@
     </string-array>
 
     <!--Hutan Bambu-->
-    <string-array name="bambuAmpel">
+    <string-array name="bambuampel">
         <item>Bambu Ampel </item>
         <item>(Bambusa vulgaris)</item>
         <item>Kingdom      : Plantae</item>
@@ -116,7 +116,7 @@ Rumpun bambu mempunyai potensi dalam melestarikan lingkungan, pertumbuhannya cep
 Daun dari bambu ini dapat digunakan sebagai obat penurun panas dan agen sudorfic.
 Getahnya dapat digunakan untuk mengobati demam dan hematuria.</item>
     </string-array>
-    <string-array name="bambuApus">
+    <string-array name="bambuapus">
         <item>Bambu Apus </item>
         <item>(Gigantochloa apus)</item>
         <item>Kingdom      : Plantae</item>
@@ -135,7 +135,7 @@ Akar serabut berwarna putih kotor.</item>
         <item>Batang bambu apus dimanfaatkan sebagai bahan bangungan, misalnya dibuat sebagai rangka atap rumah, alat bantu/tangga, bahan pembuat peralatan dapur, sebagai kayu bakar, membuat pagar jalan/pekarangan, dan sebagai tempat merambatnya tanaman.
 Rebung bambu apus berkhasiat sebagai obat demam dan untuk peluruh air seni.</item>
     </string-array>
-    <string-array name="bambuPetung">
+    <string-array name="bambupetung">
         <item>Bambu Petung</item>
         <item>(Dendrocalamus asper)</item>
         <item>Kingdom      : Plantae</item>
@@ -150,7 +150,7 @@ Rebung bambu apus berkhasiat sebagai obat demam dan untuk peluruh air seni.</ite
         <item>Bambu petung adalah salah satu jenis bambu yang memiliki ukuran lingkar batang yang cukup besar dan termasuk ke dalam suku rumput&#8211;rumputan. Bambu petung yang masih muda ditutupi oleh lapisan berwarna coklat dan bertekstur seperti kain beludru. Tinggi bambu petung dapat mencapai 10 kaki sedangkan lingkar batangnya dapat mencapai 8 inchi. Bambu petung memiliki batang berkayu dan berdinding tebal yaitu antara 11&#8211;20 mm. Bagian batang bambu petung bagian bawah terdapat node dan terdapat akar udara. Batang bambu petung terdiri dari ruas-ruas, panjang setiap ruas bambu antara 20&#8211;45 cm serta berwarna hijau pucat dan tertutup rambut coklat pendek. Daun tumbuhan ini berbentuk tombak dengan panjang sekitar 15&#8211;30 cm dan lebarnya antara 10&#8211;25 mm.</item>
         <item>Rebungnya dapat digunakan untuk sayur, batangnya dapat digunakan sebagai tiang penyangga rumah, penyangga rangka atap, dan alat kesenian.</item>
     </string-array>
-    <string-array name="bambuWulung">
+    <string-array name="bambuwulung">
         <item>Bambu Wulung</item>
         <item>(Gigantochloa atroviolacea)</item>
         <item>Kingdom      : Plantae</item>
@@ -165,6 +165,200 @@ Rebung bambu apus berkhasiat sebagai obat demam dan untuk peluruh air seni.</ite
         <item>Bambu wulung adalah bambu yang warna kulitnya wulung/hitam/hujai kehitaman/ungu tua dan ada garis berwarna kuning di sepanjang batang maupun rantingnya. Diameter bambu wulung mayoritas antara 5&#8211;12 cm dengan panjang/tinggi antara 7&#8211;18 m.</item>
         <item>Tunas bambu wulung yang masih muda atau baru muncul dengan ketinggian sekitar maksimal 20 cm dari permukaan tanah, dapat dimanfaatkan sebagai sayur. Selain itu bambu wulug juga dapat dimanfaatkan sebagai bahan bangunan, kerajinan, pagar, membuat kursi dan meja bambu, anyaman, dan lain-lain.</item>
     </string-array>
+    <string-array name="bambugesing">
+        <item>Bambu Gesing</item>
+        <item>(Bambusa spinosa)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Liliopsida</item>
+        <item>Ordo            : Poales</item>
+        <item>Famili          : Poaceae</item>
+        <item>Genus           : &lt;i&gt;Bambusa&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Bambusa spinosa Roxb.&lt;/i&gt;</item>
+        <item>
+            Buluh tegak dan rapat serta berduri, tinggi buluh dapat mencapai 25 m, buluh muda diselimuti dengan lilin putih, warna rebung jingga dan tertutup bulu coklat.
+        </item>
+        <item>
+            Dapat digunakan untuk perabot rumah tangga, perabotan dapur, kerajinan, bahan bangunan, serta peralatan lainnya dari yang sederhana sampai dengan industri bambu lapis, laminasi bambu, maupun industri kertas yang sudah modern.&#8814;br&#8815;
+Karakteristik perakaran bambu yang mempunyai sistem perakaran serabut dengan akar rimpang yang sangat kuat. Karakteristik ini memungkinkan tanaman bambu menjaga sistem hidroorologis sebagai pengikat tanah dan air, sehingga dapat digunakan sebagai tanaman konservasi.
+        </item>
+        <item>
+            1. https://www.gbif.org/species/7370875 &lt;br&gt;
+            2. https://www.dominicagardens.com/bambusa-spinosa.html
+        </item>
+    </string-array>
+    <string-array name="bambujajang">
+        <item>Bambu Jajang</item>
+        <item>(Gigantochloa hasskarliana)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Poales</item>
+        <item>Famili          : Poaceae</item>
+        <item>Genus           : &lt;i&gt;Gigantochloa&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Gigantochloa hasskarliana L. &lt;/i&gt;</item>
+        <item>
+            Bambu ini memiliki habitus/perawakan tegak dan rapat. Buluh tingginya mencapai 12 m dengan panjang ruas 27-50 cm, diameter 3-6 cm, dan tebal mencapai 10 mm.&#8814;br&#8815;
+Bambu ini memiliki sifat percabangan un equal atau salah satu cabang lebih besar dari cabang lainnya. Pelepah buluh tertutup warna hitam hingga coklat, mudah luruh, kuping pelepah buluh seperti bingkai, daun pelepah buluh berketuk balik menyegitiga dengan pangkal menyempit. Daun gundul, kuping pelepah daun kecil tinggi kurang dari 1 mm, ligula menggerigi dan buluh kejur pendek. Rebung berwarna hijau degan bulu coklat dan hitam.
+        </item>
+        <item>
+           Dapat digunakan untuk membuat keranjang dan berbagai jenis anyaman, serta dapat digunakan sebagaib bahan untuk membuat dinding rumah sederhana atau rangka atap.
+        </item>
+        <item>
+            1. https://eol.org/pages/5837481/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Gigantochloa+hasskarliana
+        </item>
+    </string-array>
+    <string-array name="bambujalar">
+        <item>Bambu Jalar</item>
+        <item>(Dinochloa matmat)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Poales</item>
+        <item>Famili          : Poaceae</item>
+        <item>Genus           : &lt;i&gt;Dinochloa&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Dinochloa matmat S.Dransf. &amp; Widjaja &lt;/i&gt;</item>
+        <item>
+            Merupakan salah satu dari 2 jenis bambu endemik di Jawa yang ada di kawasan TN Alas Purwo. Bambu ini adalah satu-satunya jenis bambu dengan habitus memanjat di TN Alas Purwo.
+        </item>
+        <item>
+          Dapat digunakan untuk perabot rumah tangga, perabotan dapur, kerajinan, bahan bangunan, serta peralatan lainnya dari yang sederhana sampai dengan industri bambu lapis, laminasi bambu, maupun industri kertas yang sudah modern. &lt;br&gt;
+Karakteristik perakaran bambu yang mempunyai sistem perakaran serabut dengan akar rimpang yang sangat kuat. Karakteristik ini memungkinkan tanaman bambu menjaga sistem hidroorologis sebagai pengikat tanah dan air, sehingga dapat digunakan sebagai tanaman konservasi.
+        </item>
+        <item>
+            1. https://eol.org/pages/5845357 &lt;br&gt;
+        </item>
+    </string-array>
+    <string-array name="bambujawa">
+        <item>Bambu Jawa</item>
+        <item>(Gigantochloa atter)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Liliopsida</item>
+        <item>Ordo            : Poales</item>
+        <item>Famili          : Poaceae</item>
+        <item>Genus           : &lt;i&gt;Gigantochloa&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Gigantochloa atter (Hassk.) Kurz.&lt;/i&gt;</item>
+        <item>
+            Buluh tegak dan rapat, tinggi dapat mencapai 22 m, percabangan jauh di atas permukaan tanah, warna rebung hijau hingga keunguan dan tertutup bulu hitam.
+        </item>
+        <item>
+          Dapat digunakan untuk perabot rumah tangga, perabotan dapur, kerajinan, bahan bangunan, serta peralatan lainnya dari yang sederhana sampai dengan industri bambu lapis, laminasi bambu, maupun industri kertas yang sudah modern.&lt;br&gt;
+Karakteristik perakaran bambu yang mempunyai sistem perakaran serabut dengan akar rimpang yang sangat kuat. Karakteristik ini memungkinkan tanaman bambu menjaga sistem hidroorologis sebagai pengikat tanah dan air, sehingga dapat digunakan sebagai tanaman konservasi.
+        </item>
+        <item>
+            1. https://eol.org/pages/5837539 &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Gigantochloa+atter &lt;br&gt;
+            3. http://tropical.theferns.info/plantimages/d/9/d9f499c10843b8b408b7d29430144b89e4b3c220.jpg
+        </item>
+    </string-array>
+    <string-array name="bambumanggong">
+        <item>Bambu Manggong</item>
+        <item>(Bambusa jacobsii)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Liliopsida</item>
+        <item>Ordo            : Poales</item>
+        <item>Famili          : Poaceae</item>
+        <item>Genus           : &lt;i&gt;Bambusa&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Bambusa jacobsii &lt;/i&gt; Widjaja.</item>
+        <item>
+            Buluh tegak, percabangan 1 m di atas permukaan tanah dan percabangan tidak sama (unequal), pelepah buluh tidak mudah luruh, kadang luruh ditutupi bulu hitam, bagian tengah cekung ke atas, kedua ujung kuping pelepah buluh melengkung keluar dan melebar sampai pada pangkal daun pelepah buluh, daun pelepah buluh seperti tanduk. Rebung berwarna hijau ditutupi bulu hitam hingga coklat yang tersebar.
+        </item>
+        <item>
+         Dapat digunakan untuk perabot rumah tangga, perabotan dapur, kerajinan, bahan bangunan, serta peralatan lainnya dari yang sederhana sampai dengan industri bambu lapis, laminasi bambu, maupun industri kertas yang sudah modern.&lt;br&gt;
+Karakteristik perakaran bambu yang mempunyai sistem perakaran serabut dengan akar rimpang yang sangat kuat. Karakteristik ini memungkinkan tanaman bambu menjaga sistem hidroorologis sebagai pengikat tanah dan air, sehingga dapat digunakan sebagai tanaman konservasi.
+        </item>
+        <item>
+            1. https://eol.org/pages/5800295/names
+        </item>
+    </string-array>
+    <string-array name="bambuori">
+        <item>Bambu Ori</item>
+        <item>(Bambusa arundinacea)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Poales</item>
+        <item>Famili          : Poaceae</item>
+        <item>Genus           : &lt;i&gt;Bambusa&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Bambusa arundinacea &lt;/i&gt; (Retz.) Willd.</item>
+        <item>
+            Merupakan bambu berduri dengan buluh bambu yang tegak. Ciri khas bambu ini yang membedakan dengan bambu gesing adalah pelepah buluh bercuping keriput.
+        </item>
+        <item>
+         Dapat digunakan untuk perabot rumah tangga, perabotan dapur, kerajinan, bahan bangunan, serta peralatan lainnya dari yang sederhana sampai dengan industri bambu lapis, laminasi bambu, maupun industri kertas yang sudah modern.&lt;br&gt;
+Karakteristik perakaran bambu yang mempunyai sistem perakaran serabut dengan akar rimpang yang sangat kuat. Karakteristik ini memungkinkan tanaman bambu menjaga sistem hidroorologis sebagai pengikat tanah dan air, sehingga dapat digunakan sebagai tanaman konservasi.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=506673# &lt;br&gt;
+            2. https://indiabiodiversity.org/species/show/32973
+        </item>
+    </string-array>
+    <string-array name="bamburampal">
+        <item>Bambu Rampal</item>
+        <item>(Schizostrachyum zollingeri)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Liliopsida</item>
+        <item>Ordo            : Poales</item>
+        <item>Famili          : Poaceae</item>
+        <item>Genus           : &lt;i&gt;Schizostrachyum&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Schizostrachyum zollingeri&lt;/i&gt; Steud.</item>
+        <item>
+           Bambu jenis ini merupakan salah satu jenis bambu dengan percabagan sama (equal) di TN Alas Purwo. Bambu ini memiliki habitus/perawakan tegak lurus dengan ujung melengkung. Buluh tingginya dapat mencapai 10 m, dengan panjang ruas 40-80 cm, diameter 2-5 cm, tebal 3-7 mm, ada cincin putih melingkar dibawah buku-buku (ruas) tampak jelas. Percabangan bambu berada jauh di atas permukaan tanah, percabangan termasuk dalam percabangan yang sama (equal) dan memiliki cabang cukup banyak. Pelepah buluh tidak mudah luruh, tertutup bulu coklat dan pucat, kuping cukup besar dengan bulu rambut, daun pelepah buluh tegak dan menyegitiga pangkal lebar.&lt;br&gt;
+Daun pelepah buluh pada bambu jenis rampal ini seperti kubah masjid. Daun gundul, kuping pelepah daun sangat kecil , ligula menggerigi dengan tinggi 1 mm dan buluh kejur panjangnya kurang lebih 2 mm. Rebung berwarna hijau tertutup bulu coklat.
+        </item>
+        <item>
+        Dapat digunakan untuk perabot rumah tangga, perabotan dapur, kerajinan, bahan bangunan, serta peralatan lainnya dari yang sederhana sampai dengan industri bambu lapis, laminasi bambu, maupun industri kertas yang sudah modern.&lt;br&gt;
+        Karakteristik perakaran bambu yang mempunyai sistem perakaran serabut dengan akar rimpang yang sangat kuat. Karakteristik ini memungkinkan tanaman bambu menjaga sistem hidroorologis sebagai pengikat tanah dan air, sehingga dapat digunakan sebagai tanaman konservasi.
+        </item>
+        <item>
+            1. https://www.gbif.org/species/4122838 &lt;br&gt;
+            2. http://www.bambooland.com.au/schizostachyum-zollingeri &lt;br&gt;
+            3. http://tropical.theferns.info/viewtropical.php?id=Schizostachyum+zollinger
+        </item>
+    </string-array>
+    <string-array name="bambuwuluh">
+        <item>Bambu Wuluh</item>
+        <item>(Schizostrachyum iraten)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Liliopsida</item>
+        <item>Ordo            : Poales</item>
+        <item>Famili          : Poaceae</item>
+        <item>Genus           : &lt;i&gt;Schizostrachyum&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Schizostrachyum iraten&lt;/i&gt; Steud.</item>
+        <item>
+           Bambu ini memiliki habitus tegak lurus dengan ujung melengkung. Buluh tingginya dapat mencapai 12 m, dengan panjang ruas 50-120 cm, diameter 2-5 cm, tebal 3-7 mm, ada cincin putih melingkar di bawah buku-buku (ruas) tampak jelas. Percabangan bambu berada jauh di atas permukaan tanah, percabangan termasuk dalam percabangan yang sama (equal) dan memiliki cabang cukup banyak. Pelepah buluh tidak mudah luruh, tertutup bulu coklat dan pucat, kuping pelepah buluh tidak tampak, daun pelepah buluh tegak dan menyegitiga pangkal melebar. Daun pelepah buluh terkadang lebih panjang dari pelepah buluhnya. Daun gundul, kuping pelepah daun sangat kecil, ligula menggerigi dengan tinggi 1 mm, dan buluh kejur panjangnya lebih kurang 2 mm. Rebung berwarna hijau tertutup bulu coklat.
+        </item>
+        <item>
+        Dapat digunakan untuk perabot rumah tangga, perabotan dapur, kerajinan, bahan bangunan, serta peralatan lainnya dari yang sederhana sampai dengan industri bambu lapis, laminasi bambu, maupun industri kertas yang sudah modern.&lt;br&gt;
+Karakteristik perakaran bambu yang mempunyai sistem perakaran serabut dengan akar rimpang yang sangat kuat. Karakteristik ini memungkinkan tanaman bambu menjaga sistem hidroorologis sebagai pengikat tanah dan air, sehingga dapat digunakan sebagai tanaman konservasi.
+        </item>
+        <item>
+            1. https://www.gbif.org/species/4123254 &lt;br&gt;
+            2. http://www.bambooland.com.au/schizostachyum-iraten
+        </item>
+    </string-array>
+    <!--done-->
 
     <!--Hutan daratan rendah-->
     <string-array name="andong">

@@ -19,6 +19,7 @@ import java.util.List;
 public class DaftarTumbuhanActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
 
     String namaTumbuhan[];
+    String namaLatin[];
     List<RowItemTumbuhan> rowItems;
     ListView listTumbuhan;
     int baris;
@@ -62,6 +63,12 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
             txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Savana");
         }
 
+        namaLatin = new String[namaTumbuhan.length];
+
+        for (int i=0;i < namaTumbuhan.length;i++){
+//            String tanaman[] = getResources().getStringArray();
+//            namaLatin[i] = tanaman[1];
+        }
         for (int i = 0; i < namaTumbuhan.length; i++) {
             RowItemTumbuhan item = new RowItemTumbuhan(namaTumbuhan[i]);
             rowItems.add(item);

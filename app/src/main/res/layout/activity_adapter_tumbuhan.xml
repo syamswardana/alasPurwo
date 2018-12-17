@@ -19,5 +19,14 @@
             android:text="TextView"
             android:textColor="@android:color/white"
             android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/txt_namaLatin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="TextView"
+            android:textColor="@android:color/white"
+            android:textSize="14dp" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

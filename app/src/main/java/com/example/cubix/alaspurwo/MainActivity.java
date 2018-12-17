@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -37,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
         btn_profil.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+//                Toast.makeText(getBaseContext(),String.valueOf(getResources().getIdentifier("ademAti","array",getPackageName())),Toast.LENGTH_LONG).show();
+                Toast.makeText(getBaseContext(),String.valueOf(R.array.ademAti),Toast.LENGTH_LONG).show();
                 startActivity(new Intent(MainActivity.this,ProfilActivity.class));
             }
         });
