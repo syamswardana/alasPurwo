@@ -378,7 +378,7 @@ Daun tanaman andong merupakan daun tunggal yang berwarna hijau atau merah kecokl
 Bunga tanaman andong berbentuk malai besar dan muncul dari tengah kluster daun. Bunganya berwarna keunguan atau kuning muda dan terdiri dari kelopak bunga yang berukuran sempit.</item>
         <item>Selain digunakan untuk tanaman hias, tanaman andong mempunyai fungsi untuk menyembuhkan berbagai penyakit disentri, nyeri lambung, diare, memar, radang gusi, dan asma.</item>
     </string-array>
-    <string-array name="antingAnting">
+    <string-array name="antinganting">
         <item>Anting-Anting </item>
         <item>(Acalypha australis)</item>
         <item>Kingdom      : Plantae</item>
@@ -471,7 +471,7 @@ Buahnya berbentuk polong, panjang buah 15-40 cm, apabila sudah tua kulit luar be
 Memiliki biji berwarna hitam, bentuknya bulat telur, pipih, keras, danpanjangnya sekitar 1-2 cm.</item>
         <item>Dapat menghilangkan nyeri lambung, mengatasi infeksi kulit, diare dan cacingan, dan obat antidisentri.</item>
     </string-array>
-    <string-array name="kedondongHutan">
+    <string-array name="kedondonghutan">
         <item>Kedondong Hutan </item>
         <item>(Spondias pinnata)</item>
         <item>Kingdom      : Plantae</item>
@@ -526,9 +526,870 @@ Buah besar agak lonjong 7-9 cm, lebar sekitar 5 cm. Kulit buah tebal, keras warn
 Kayu pohon kepuh dapat digunakan sebagai konstruksi bangunan, bahan pembuat kapal, kotak kontainer, dan kertas pulp. Biji kepuh mengandung minyak nabati yang terdiri atas asam lemak (asam sterkulat) yang dapat dimanfaatkan sebagai ramuan kosmetik, sabun, shampo, pelembut kain, pewarna alami, dan plastik.
 Asam lemak minyak kepuh juga dapat digunakan sebagai zat adaptif biodiesel (biofuel). Bahkan beberapa masyarakat sejak dulu telah mengolah biji kepuh untuk diambil minyaknya, yang berguna sebagai minyak lampu, maupun minyak goreng.</item>
     </string-array>
+    <string-array name="antidesmaghaesembilla">
+        <item>Antidesma ghaesembilla </item>
+        <item>(Antidesma ghaesembilla)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Euphorbiales</item>
+        <item>Famili          : Euphorbiaceae</item>
+        <item>Genus           : &lt;i&gt;Antidesma&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Antidesma ghaesembilla&lt;/i&gt;</item>
+        <item>
+            Tanaman ini tumbuh sebagai pohon kecil dan tinggi 3-8 m, dengan daun berbentuk oval dengan panjang 10 cm dan lebar 4 cm. Bunganya muncul pada ujung cabang. Bunga jantan memiliki 4-5 benang sari dengan kepala sari berbentuk U, sementara bunga betina memiliki ovarium yang ditutupi dengan rambut lembut.
+        </item>
+        <item>Tanaman ini diperoleh dari alam untuk pengunaan lokal sebagai makanan dan obat-obatan. Buah yang sudah matang dapat dimakan mentah, dimasak atau dibuat menjadi selai dan jeli. Juga dapat digunakan sebagai obat pencahar. Daun digunakan sebagai tapal untuk mengobati sakit kepala, ketombe, pembengkakan perut, dan demam.&lt;br&gt;
+        Kegunaan lain yaitu kayunya yang murah tapi lembut dapat digunakan untuk atap konstruksi.
+        </item>
+        <item>
+            1. http://www.uniprot.org/taxonomy/1095265 &lt;br&gt;
+            2. http://www.phytoimages.siu.edu/imgs/benctan/r/Phyllanthaceae_Antidesma_ghaesembilla_32316.html &lt;br&gt;
+            3. http://en.wikipedia.org/wiki/Antidesma_ghaesembilla
+        </item>
+    </string-array>
+    <string-array name="budengan">
+        <item>Budengan</item>
+        <item>(Diospyros maritima)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Dilleniales</item>
+        <item>Famili          : Dilleniaceae</item>
+        <item>Genus           : &lt;i&gt;Diospyros&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Diospyros maritima&lt;/i&gt; Tunb..</item>
+        <item>
+            Sejenis pohon, perdu atau semak, biasanya berumah dua (dioecious)  tetapi ada yang berumah tunggal, dengan percabangan monopodial, serta biasanya tanpa banir (akar papan). Kulit batang hitam atau kehitaman di luar, keras dan agak rapuh, dengan permukaan retak-retak, beralur atau bahkan memecah, tidak licin, di bagian dalam berwarna pucat. Daun tanpa stipula. Daun tunggal, bertepi rata, terletak berseling dalam dua deretan, bertulang daun menyirip.
+        </item>
+        <item>
+            Pohon ini memiliki manfaat yang bernilai komersial, baik untuk buahnya yang dapat dimakan maupun kayunya yang berkualitas tinggi. Teras kayu yaitu dyosperos biasanya keras dan berwarna gelap (hitam), sehingga banyak daerah di Indonesia dinamai sebagai kayu arang.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN%search_value=565137#null &lt;br&gt;
+            2. http://tropical.theferns.info/image.php?id=Diospyros+maritima &lt;br&gt;
+            3. http://tropical.theferns.info/viewtropical.php?id=Diospyros+maritima
+        </item>
+    </string-array>
+    <string-array name="buni">
+        <item>Buni</item>
+        <item>(Antidesma bunius)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Euphorbiales</item>
+        <item>Famili          : Euphorbiaceae</item>
+        <item>Genus           : &lt;i&gt;Antidesma&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Diospyros maritima&lt;/i&gt; (L.) Spreng</item>
+        <item>
+            Buni berbentuk pohon yang meluruhkan daunnya, tumbuhnya sesuai dengan model arsitektur Rauh, tingginya 3-10(-30) m, batang pokoknya tegak, biasanya bercabang rendah. Daun-daunnya berseling, berbentuk lanset-lonjong, berukuran (19-25) cm X (4-10) cm, pangkalnya tumpul atau membundar, ujungnya luncip (acuminate) atau tumpul, pinggirannya rata, teksturnya menjangat, berkilap, tulang daun utama menonjol di lembaran bawah daun, panjang tangkai daun mencapai 1 cm. Perbungaan berada dl ujung atau di ketiak daun, berbentuk bulir sempit atau tandan, berbunga banyak, panjang perbungaan 6-20 cm; bunga jantan tidak bertangkai, daun kelopak mirip cawan, memiliki 3-4 cuping yang pendek, membundar, bersilia, berwarna kemerah-merahan; bakal buah yang rudimenter, berada di atas cakram berdaging; bunga betina bertangkai, daun kelopak mirip cawan-genta, bercuping 3-4, berukuran kira-kira 1 mm x 2 mm, tidak rontok; bakal buah berbentuk bulat telur sungsang, kepala putik 3-4 butir, cakramnya kecil; pada pohon betina seringkali sebagian besar bunganya sempurna. Buah berupa buah batu, berbentuk bulat atau bulat telur, berdiameter 8-10 mm, berwarna merah kekuning-kuningan sampai ungu kebiru-biruan, mengandung banyak sari buah. Biji berbentuk bulat telur-Ionjong, berukuran (6-8) mm x (4,5-5,5) mm.
+        </item>
+        <item>
+           Buah dapat dimakan dan kadang-kadang difermentasi menjadi wine. Kandungan buah buni memiliki gizi dan fitonutrien yang tinggi. Buah buni mengandung banyak nutrisi seperti vitamin C, provitamin A, vitamin B1, vitamin B2, vitamin E, mineral besi, fosfor, kalium, dan serat-serat. Para herbalis menyebut buni sebagai obat penyakit-penyakit seperti kurang darah, darah kotor, hipertensi, jantung, batuk, gangguan pencernaan, dan lain-lain.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=506448#null &lt;br&gt;
+            2. http://infoherbalis.com/2015/12/manfaat-dan-khasiat-dahsyat-buni-antidesma-bunius-bagi=kesehatan.html &lt;br&gt;
+            3. http://tropical.theferns.info/image.php?id=Antidesma+bunius
+        </item>
+    </string-array>
+    <string-array name="ceri">
+        <item>Ceri</item>
+        <item>(Microcos tomentosa)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malvales</item>
+        <item>Famili          : Malvaceae</item>
+        <item>Genus           : &lt;i&gt;Microcos&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Microcos tomentosa&lt;/i&gt;</item>
+        <item>
+           Pohon dengan tinggi mencapai 20 m, ranting berbulu. Daun tunggal, berselang seling, tepi daun bergerigi, helaian bawah daun dengan rambut seperti bintang. Pangkal daun berurat tiga, daun muda berwarna merah muda. Tidak mempunyai getah.
+        </item>
+        <item>
+           Tumbuhan ini bisa dimanfaatkan untuk pencegah erosi, buahnya bisa dimakan oleh burung dan beberapa mamalia ssperti monyet ekor panjang.
+        </item>
+        <item>
+            1. http://www.uniprot.org/taxonomy/1489754 &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Microcos+tomentosa &lt;br&gt;
+            3. http://www.biodiversitywarriors.org/isi-katalog.php?idk=1214&amp;judul=jeluak
+        </item>
+    </string-array>
+    <string-array name="dandanggulo">
+        <item>Dandang Gulo</item>
+        <item>(Aphanamixis grandifolia)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Meliaceae</item>
+        <item>Genus           : &lt;i&gt;Aphanamixis&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Aphanamixis grandifolia&lt;/i&gt;Blume.</item>
+        <item>
+           Merupakan tanaman evergreen, kadang-kadang berbentuk semak setinggi 2 m atau lebih, dan lebih sering berbentuk pohon yang bisa tumbuh setinggi 32 m. Batang dapat lurus atau bengkok. Panjang cabang bisa mencapai 15 m, dengan diameter 70-100 cm. Mempunyai akar banir dengan tinggi hingga 4 m.
+        </item>
+        <item>
+           Kulit pohon bisa dijadikan sebagai astrigent yang digunakan dalam pengobatan limpa, penyakit hati, tumours dan gangguan perut. Bisa juga digunakan untuk mengobati rematik, pilek, dan nyeri dada. Biji menghasilkan minyak yang digunakan untuk penerangan, pembuatan sabun dan minyak pelumas. Ekstrak daun
+        </item>
+        <item>
+            1. https://eol.org/pages/49016223/names &lt;br&gt;
+            2. https://indiabiodiversity.org/species/show/7585 &gt;br&lt;
+            3. http://tropical.theferns.info/viewtropical.php?id=Aphanamixis+polystachya
+        </item>
+    </string-array>
+    <string-array name="girang">
+        <item>Girang</item>
+        <item>(Leea indica)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Vitales</item>
+        <item>Famili          : Vitaceae</item>
+        <item>Genus           : &lt;i&gt;Leea&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Leea indica (Burm.f.)&lt;/i&gt; Merr.</item>
+        <item>
+           Biasanya berupa semak atau pohon kecil, beberapa cabang. Tumbuh tinggi 2-10 m, kadang-kadang sampai 16 m, dengan diameter batang sekitar 19 cm. Daun menyirip bentuk ukuran panjang 11-14 cm x lebar 2-5 cm, berbentuk lonjong elips, ujung meruncing, tepi daun bergerigi, daun penumpu obovate dengan ujung tumpul. Bunga bertipe tabung, stamen berwarna hijau keputihan berlobus. Buah berbentuk berry berwarna ungu kehitaman dengan diameter 5-10 mm, ada juga yang sampai 15 mm, dan mengandung 6 biji.
+        </item>
+        <item>
+           Tunas tanaman ini digunakan sebagai sayuran. Tanaman ini dikumpulkan dari alam untuk penggunaan masyarakat lokal sebagai makanan dan obat-obatan. Sering ditanam sebagai tanaman hias, dan juga sebagai pupuk hijau. Tunas yang dikunyah dapat diguankan untuk meredakan batuk yang parah. Daun ditumbuk digunakan untuk menutup luka kulit dan keluhan kulit lainnya. Dapat juga diletakkan di atas kepala pada orang yang terkena demam, sakit kepala, dan juga dapat digunakan sebagai pereda nyeri di tubuh. Akar memiliki sifat antipiretik. Rebusan akar digunakan untuk meringankan sakit perut, kolik, disentri, dan diare.
+        </item>
+        <item>
+            1. https://eol.org/pages/2889301/names &lt;br&gt;
+            2. https://indiabiodiversity.org/species/show/14130 &lt;br&gt;
+            3. http://tropical.theferns.info/viewtropical.php?id=Leea+indica
+        </item>
+    </string-array>
+    <string-array name="johokeling">
+        <item>Joho Keling</item>
+        <item>(Terminalia bellirica)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Myrtales</item>
+        <item>Famili          : Combretaceae</item>
+        <item>Genus           : &lt;i&gt;Terminalia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Terminalia bellirica&lt;/i&gt; (Gaertn.) Roxb.</item>
+        <item>
+           Pohon besar hingga sedang, dengan tinggi 25-50 m dan diameter batang mencapai 2 m. Batang silindris, lurus, kulit luar kebiruan atau keabu-abuan dan kekuning-kuningan pada bagian dalamnya. Ranting muda menebal dan tertutup bulu-bulu halus yang lebat. Daun tunggal, melonjong, tersusun dalam spiral, terkumpul di bagian ujung ranting. Perbungaan tersusun dalam bulir, muncul di ketiak daun, bunga krem. Buah bulat atau membulat telur, berwarna hijau kekuningan saat masak.
+        </item>
+        <item>
+           Kayunya dapat digunakan sebagai kayu gelondongan, kayu bakar, dan pembuatan arang. Bijinya dapat dimakan tetapi beberapa ada yang berbahaya karena berdampak seperti obat bius.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=506158#null &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Terminalia+bellirica &lt;br&gt;
+            3. http://www.flowersofindia.net/catalog/slides/Baheda.html
+        </item>
+    </string-array>
+    <string-array name="katimaha">
+        <item>Katimaha</item>
+        <item>(Kleinhovia hospita)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malvales</item>
+        <item>Famili          : Malvaceae</item>
+        <item>Genus           : &lt;i&gt;Kleinhovia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Kleinhovia hospita&lt;/i&gt;</item>
+        <item>
+           Pohon kecil hingga sedang, tingginya antara 5-20 m. Pepagan berwarna kelabu, dengan ranting abu-abu kehijauan dan berambut jarang. Daun-daun bertangkai panjang, 3-5,5(-10) cm. Helaian daun bentuk jantung lebar, 4,5-27 × 3-24 cm, pada pangkalnya bertulang daun menjari. Bunga-bunga berkumpul dalam malai di ujung ranting, lebar, berambut halus; daun pelindungnya bundar telur. Kelopak bunga bertaju-5, lanset, 6-10  mm, merah (merah jambu), sisi luar berambut bintang; daun mahkota 5 helai, empat daripadanya bentuk pita lebar, dengan pangkal lk. bentuk kantung, duduk, panjang 6 mm, merah, yang ke-5 lebih pendek, oval melintang, dengan tepi yang terlipat ke dalam dan satu dengan yang lainnya melekat, berujung kuning. Dasar bunga diperpanjang menjadi tiang (androginofor) tipis, berambut, pangkalnya dikelilingi oleh tonjolan dasar bunga bentuk cawan. Benang sari dalam 5 berkas tiga-tiga di ujung tiang.  Buah kotak bentuk buah pir, bertaju 5, panjang lk. 2 cm, membuka menurut ruang, berwarna merah jambu kehijauan dan menggantung. Biji hampir bulat, garis tengahnya 1,5-2 mm, hitam atau cokelat gelap.
+        </item>
+        <item>
+           Daun dan bunga muda dimakan sebagai sayuran. Daun yang dihancurkan digunakan untuk mengobati penyakit kulit dan digosokkan pada dahi untuk menghilangkan sakit kepala. Jus dari daun digunakan untuk membersihkan mata. Daunnya juga digunakan untuk menyingkirkan kutu. Kulit yang dikikis dicampur dengan air kemudian disaring dan cairan diminum sebagai pengobatan untuk batuk dan tuberkulosis. Ekstrak daun telah menunjukkan aktivitas anti-tumor.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=508062#null &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Kleinhovia+hospita &lt;br&gt;
+        </item>
+    </string-array>
+    <string-array name="kayuaro">
+        <item>Kayu Aro</item>
+        <item>(Ficus variegata)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Rosales</item>
+        <item>Famili          : Moraceae</item>
+        <item>Genus           : &lt;i&gt;Ficus&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Ficus variegata&lt;/i&gt;</item>
+        <item>
+           Pohon berukuran sedang, tinggi sampai dengan 40 m, dengan diameter mencapai 110 cm, batang bergetah putih. Letak daun spiral teratur, daun panjang menguntai dan kasar seperti pisau, berbentuk bulat telur dengan ujung yang lancip, daun muda lebih besar. Tanaman ini merupakan dioeceus dengan setiap individu memiliki bantalan bunga jantan dan betina, bunga-bunganya berukuran kecil dan berkembang dalam syconium. Buah merupakan syconia yang panjang menguntai dan berbentuk buah pir, berwarna hijau dengan garis-garis merah mawar ketika matang, lebar sekitar 5 cm, dan berkembang di dalam kelompok yang padat pada ranting yang pendek.
+        </item>
+        <item>
+           Kayu digunakan sebagai sarung pisau. Lateks digunakan untuk aditif makanan, dan buahnya dapat dimakan.
+        </item>
+        <item>
+            1. https://eol.org/pages/2906834/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Ficus+variegata
+        </item>
+    </string-array>
+    <string-array name="kelerak">
+        <item>Kelerak</item>
+        <item>(Sapindus rarak)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malvales</item>
+        <item>Famili          : Moraceae</item>
+        <item>Genus           : &lt;i&gt;Sapindus&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Sapindus rarak &lt;/i&gt;Dc.</item>
+        <item>
+           Tumbuhan lerak berbentuk pohon dan rata-rata tinggi pohon lerak adalah sekitar 10 meter bahkan bisa mencapai hampir 50 meter dengan diameter 1 meter, bentuk daunnya bulat-telur berujung runcing, bertepi rata, bertangkai pendek dan berwarna hijau. Biji terbungkus kulit cukup keras bulat seperti kelereng, kalau sudah masak warnanya coklat kehitaman, permukaan buah licin dan mengkilat. Buah lerak yang tua (masak) berwarna cokelat kehitaman, dengan permukaan buah yang licin dan mengkilap. Biji lerak berbentuk bundar dan berwarna hitam. Daging buah lerak sedikit berlendir, tetapi mengeluarkan aroma wangi.
+        </item>
+        <item>
+           Buah-buahan digunakan secara eksternal dalam pengobatan kudis. Pohon ini ditanam sebagai spesies perintis di Thailand utara dalam proyek-proyek reboisasi untuk memulihkan hutan asli - ditanam di lahan berhutan yang terdegradasi dan area terbuka dalam campuran dengan berbagai spesies lain yang semuanya memiliki kemampuan untuk tumbuh cepat; menghasilkan mahkota yang padat dan gulma gulma; dan menarik margasatwa yang menyebar benih, terutama burung dan kelelawar. Buahnya kaya saponin dan digunakan oleh masyarakat setempat sebagai pengganti sabun. Buah dan biji digunakan sebagai kancing dan manik-manik. Buah-buahan digunakan sebagai insektisida.
+        </item>
+        <item>
+            1. https://eol.org/pages/2889091/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Sapindus+rarak
+        </item>
+    </string-array>
+    <string-array name="kemuning">
+        <item>Kemuning</item>
+        <item>(Murraya paniculata)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Rutaceae</item>
+        <item>Genus           : &lt;i&gt;Murraya&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Murraya paniculata&lt;/i&gt;(L.) Jack.</item>
+        <item>
+           Merupakan tumbuhan tropis yang dapat mencapai tinggi 7 m dan berbunga sepanjang tahun. Daunnya seperti daun jeruk, cuma berukuran lebih kecil, sering digunakan sebagai tumbuhan hias atau tumbuhan pagar. Bunganya terminal dan harum, petal 12-18 mm, panjang, dan berwarna putih. Buahnya akan berwarna merah sampai oranye jika sudah matang.
+        </item>
+        <item>
+           Daun kemuning digunakan untuk obat diare dan disentri. Akar kemuning digunakan untuk tangkai pisau atau golok. Urat kemuning warnanya bagus dan kayunya liat, sehingga tidak mudah pecah jika digunakan. Kayu kemuning juga bisa digunakan untuk sempoa, tangkai kuas dan juga untuk tongkat.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=825225#null &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Murraya+paniculata
+        </item>
+    </string-array>
+    <string-array name="keranji">
+        <item>Keranji</item>
+        <item>(Pongamia pinnata)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Fabales</item>
+        <item>Famili          : Fabaceae</item>
+        <item>Genus           : &lt;i&gt;Pongamia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Pongamia pinnata&lt;/i&gt;(L.) Pierre</item>
+        <item>
+           Merupakan pohon legum yang tumbuh dengan tinggi sekitar 15-25 m. Daun rimbun membentuk kanopi besar yang menyebar sama lebar. Memiliki batang lurus atau bengkok, dengan diameter 50-80 cm, dengan kulit abu-abu-coklat yang halus. Daun dari pohon ini pendek menguntai, bulat, dan tidak bergerigi. Berbunga umumnya dimulai setelah 3-4 tahun dengan kelompok kecil dari bunga putih, ungu, dan merah muda mekar sepanjang tahun. Perbungaan segugusan seperti beruang 2-4 bunga yang sangat harum. Kelopak bunga berbentuk lonceng.
+        </item>
+        <item>
+           Minyak biji diberikan sebagai obat perut dan cholagogue dalam pengobatan dispepsia dan kasus hati yang lamban. Digunakan secara eksternal sebagai obat gosok untuk menggosok pada penyakit kulit dan sendi rematik. Telah terbukti efektif dalam meningkatkan pigmentasi kulit yang dipengaruhi oleh leucoderma atau kudis. Biji bubuk diberikan sebagai ekspektoran dalam pengobatan bronkitis dan batuk rejan, dan juga diresepkan sebagai obat penurun panas dan tonik. Rebusan daun digunakan sebagai obat batuk. Bunganya diklaim memiliki aksi anti-diabetes. Daunnya dihancurkan dan digunakan sebagai tapal untuk pengobatan penyakit kulit parasit dan untuk menghentikan perdarahan wasir. Kulit akar mengandung alkaloid pahit dan digunakan sebagai abortifasium. Karena jaringan luas dari akar lateral, dan kemampuannya untuk memperbaiki nitrogen atmosfer, ini adalah spesies yang disukai untuk mengendalikan erosi tanah dan mengikat bukit pasir.
+        </item>
+        <item>
+            1. https://eol.org/pages/687068/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Pongamia+pinnata
+        </item>
+    </string-array>
+    <string-array name="laban">
+        <item>Laban</item>
+        <item>(Vitex pinnata)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Lamiales</item>
+        <item>Famili          : Lamiaceae</item>
+        <item>Genus           : &lt;i&gt;Vitex&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Vitex pinnata&lt;/i&gt;L.</item>
+        <item>
+           Pohon dengan tinggi mencapai 1-15 m dan diameter 10-45 cm. Kulit berwarna kekuningan abu-abu atau coklat muda, halus hingga bersisik dan kadang-kadang bergalur. Daun majemuk, biasanya dengan 3 lembar atau 1-5 lembar. Lembaran tengah berbentuk bulat panjang, sedangkan lembaran daun bagian samping lebih kecil. Daun memiliki rambut hijau kekuningan yang menjadi lebih jelas ketika kering. Kelenjar muncul pada bagian bawah daun. Perbungaan terdiri dari banyak bunga kecil, setiap bunga memiliki 5 kelopak berwarna putih hingga ungu yang harum, kelopak berwarna kekuningan atau hijau kecoklatan, 5 lobus dan memiliki rambut yang rata. Buah berwarna hitam keunguan, bulat mengkilap dan berdaging dengan biji tertutup dalam endocarp yang keras.
+        </item>
+        <item>
+           Kayu sangat kuat dan tahan lama, bahkan jika kontak langsung dengan air dan tanah. kayu digunakan untuk keperluan konstruksi bangunan, gagang pisau, pintu, dan beberapa perabot. Daun dan kulit kayu digunakan untuk mengobati sakit perut, demam, dan malaria.
+        </item>
+        <item>
+            1. https://eol.org/pages/5388332/names &lt;br&gt;
+            2. https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=5628
+        </item>
+    </string-array>
+    <string-array name="lamtoro">
+        <item>Lamtoro</item>
+        <item>(Leucaena leucocephala)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Fabales</item>
+        <item>Famili          : Fabaceae</item>
+        <item>Genus           : &lt;i&gt;Leucaena&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Leucaena leucocephala&lt;/i&gt;(Lam.) de Wit</item>
+        <item>
+           Pohon atau perdu memiliki tinggi hingga 20 m. Percabangan banyak dan rendah, berwarna kecoklatan atau keabu-abuan, berbintil-bintil dan berlentisel. Ranting-rantingnya berbentuk bulat torak, dengan ujung yang berambut rapat. Daunnya majemuk dan berbentuk menyirip rangkap, siripnya berjumlah 3-10 pasang, kebanyakan dengan kelenjar poros daun tepat sebelum pangkal sirip bawah, daun penumpu kecil, bentuk segitiga. Anak daun tiap sirip 5-20 pasang, berhadapan, bentuk garis memanjang dengan ujung runcing dan pangkal miring, permukaannya berambut halus dan tepinya berjumbai.&lt;br&gt;
+Bunganya majemuk berupa bongkol bertangkai panjang yang berkumpul dalam malai berisi 2-6 bongkol, tiap-tiap bongkol tersusun dari 100-180 kuntum bunga, membentuk pola berwarna putih atau kekuningan berdiamater 12-21 mm, di atas tangkai sepanjang 2-5 cm.&lt;br&gt;
+Buahnya polong berbentuk pita lurus, pipih dan tipis. Bijinya mirip petai namun berukuran lebih kecil dan berpenampang lebih kecil.&lt;br&gt;
+        </item>
+        <item>
+           Dimanfaatkan sebagai pohon peneduh, pencegah erosi, sumber kayu bakar, dan pakan ternak. Tumbuhan ini meupakan peluruh air seni (diuretik) dan cacing usus. Kunyaha pucuk daun lamtoro digunakan untuk ditempelkan pada luka yang disebabkan benda tajam.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=820835#null &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Leucaena+leucocephala
+        </item>
+    </string-array>
+    <string-array name="mahangketam">
+        <item>Mahang Ketam</item>
+        <item>(Macaranga conifera)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malpighiales</item>
+        <item>Famili          : Euphorbiaceae</item>
+        <item>Genus           : &lt;i&gt;Macaranga&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Macaranga conifera&lt;/i&gt;</item>
+        <item>
+          Pohon kadang tinggi mencapai 30 m, dengan besar diameter batang 60 cm. Batang lurus. Daun sederhana, permukaan daun licin, tangkai daun atau rumpun bunga licin atau mempunyai bulu halus, daun berbentuk bulat telur yang lebar, sering terdapat 2 kelenjar yang berbentuk seperti mata berwarna kuning pada bagian pangkal di permukaan atas.&lt;br&gt;
+Bunga dalam berkumpul dalam satu rumpu, terlihat seperti ekor kucing, terletak dan dihasilkan pada ketiak daun atau pada ruas terbawah dari buku.&lt;br&gt;
+Buah berwarna hijau dan ada serbuk lengket yang berwarna hijau kekuning-kuningan.
+        </item>
+        <item>
+           Kayu dapat dimanfaatkan untuk bahan kayu bakar.
+        </item>
+        <item>
+            1. https://eol.org/pages/1155436/names &lt;br&gt;
+            2. http://www.asianplant.net/Euphorbiaceae/Macaranga_conifera.htm
+        </item>
+    </string-array>
+    <string-array name="majapahit">
+        <item>Maja Pahit</item>
+        <item>(Aegle marmelos)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Rutaceae</item>
+        <item>Genus           : &lt;i&gt;Aegle&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Aegle marmelos&lt;/i&gt;(L.) Corr.</item>
+        <item>
+          Tanaman ini mampu tumbuh dalam kondisi lingkungan yang keras, seperti suhu yang ekstrem. Pohon maja pahit adalah semak daun atau pohon yang tumbuh lambat yang dapat mencapai ketinggian 10 - 15 meter. Tiang, yang biasanya bergalur di pangkalan, dapat berdiameter 50cm. Pohon ini memiliki duri sepanjang 1 – 2 cm di cabang yang lebih tua dan juga menghasilkan pengisap basal yang sangat berduri.
+        </item>
+        <item>
+           Aroma dan warna perasan buah maja mudah berubah karena buah maja biasanya dimakan setelah matang. Buahnya yang masih muda dimanfaatkan sebagai bahan pengawet. Aroma buahnya harum dan cairannya manis, bertentangan dengan anggapan orang bahwa rasa buah maja adalah pahit. Buah maja dapat diolah menjadi serbat, selai, sirup, atau nektar. Kulitnya dibuat marmalade.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=506380#null &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Aegle+marmelos
+        </item>
+    </string-array>
+    <string-array name="mangga">
+        <item>Mangga</item>
+        <item>(Mangifera indica)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Anacardiaceae</item>
+        <item>Genus           : &lt;i&gt;Mangifera&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Mangifera indica&lt;/i&gt; L.</item>
+        <item>
+          Pohon selalu hijau sepanjang tahun, tinggi mencapai 25 m, dengan diameter batang bisa mencapai 1,5 m. Kulit batang coklat, percabangan ke atas dan membentuk kanopi yang tebal dan rapat. Batang bergetah saat dilukai. Daun berbentuk lonjong hingga lanset, kasar dan mengkilap hijau di bagian atas dan hijau gelap di bagian bawah daun. Perbungaan terminal, malai tegak dengan panjang 25-40 cm, dan bunga dengan diameter 10 mm. Buah berbentuk bulat telur atau drupes (buah batu) berbentuk ginjal, berwarna kuning pucat atau kuning kehijauan.
+        </item>
+        <item>
+           Manfaat mangga di bidang kuliner sangat banyak, mangga bermanfaat untuk digunakan dalam bermacam olahan makanan maupun dimakan langsung sebagai buah. Meskipun manfaat mangga tidak umum diperoleh dari buah yang mentah, namun beberapa orang menyukai mangga mentah yang dimakan bersama garam, lada hitam, atau cabai. Manfaat mangga di bidang kuliner lainnya adalah untuk dibuat sebagai jus buah, potongan buahnya dapat dicampur dengan es krim. &lt;br&gt;
+Manfaat mangga di bidang kesehatan diperoleh karena buah mangga mengandung beragam zat gizi penting dan senyawa lainnya yang berkhasiat secara farmakologis. Buah mangga mengandung vitamin A, vitamin B1, vitamin B2, vitamin B6, asam folat, serta vitamin C. Buah mangga juga mengandung mineral seperti kalsium, zat besi, magnesium, kalium, dan zink. Dapat disimpulkan bahwa manfaat mangga adalah sebagai buah yang menyehatkan. &lt;br&gt;
+Manfaat mangga lainnya adalah dapat digunakan sebagai sumber serat, karena daging buahnya mengandung banyak serat. Mangga juga bermanfaat sebagai sumber antioksidan, karena mengandung antioksidan berupa vitamin A dan C. Antioksidan pada mangga bermanfaat menangkal radikal bebas. Kulit buah mangga mengandung senyawa polifenol, seperti xanthonoid, mangiferin, dan asam galat. Senyawa triterpen mangga, yakni lupeol, bermanfaat untuk menghambat kanker kulit dan prostat.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=28803#null &lt;br&gt;
+            2. http://tropical.theferns.info/image.php?id=Mangifera+indica#plantimages/8/d/8d27dabbe9fa1a2327a29fc2cc17cc3a75ca01cb.jpg &lt;br&gt;
+            3. http://www.farmakoterapi.com/manfaat-mangga/
+        </item>
+    </string-array>
+    <string-array name="mangir">
+        <item>Mangir</item>
+        <item>(Ganophyllum falcatum)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Rutaceae</item>
+        <item>Genus           : &lt;i&gt;Ganophyllum&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Ganophyllum falcatum &lt;/i&gt;Blume.</item>
+        <item>
+          Mangir merupakan tumbuhan berhabitus pohon. Tinggi pohonnya mencapai 40 m. Daunnya majemuk dan tersusun secara melingkar. Warna buahnya merah dengan permukaan licin. Pohon ini tumbuh secara baik di daerah hutan jati dengan ketinggian 800 m diatas permukaan laut.
+        </item>
+        <item>
+           Kayu mangir termasuk dalam golongan kayu yang kuat dan dapat menjadi bahan penting dalam industri seperti korek api, kayu lapis, bahan bangunan, dan pembuatan jembatan. Sementara kulit batangnya dapat digunakan untuk sabun dan obat pembunuh kutu. Biji mangir mengandung semacam minyak.
+        </item>
+        <item>
+            1. https://eol.org/pages/5630291/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Ganophyllum+falcatum
+        </item>
+    </string-array>
+    <string-array name="mengkudu">
+        <item>Mengkudu</item>
+        <item>(Morinda citrifolia)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Gentianales</item>
+        <item>Famili          : Rutaceae</item>
+        <item>Genus           : &lt;i&gt;Morinda&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Morinda citrifolia &lt;/i&gt;L.</item>
+        <item>
+          Pohon mengkudu tidak begitu besar, tingginya antara 4-6 m, batang bengkok-bengkok, berdahan kaku, kasar, dan memiliki akar tunggang yang tertancap dalam. Kulit batang coklat keabu-abuan atau cokelat kekuning-kuningan, berbelah dangkal, tidak berbulu, anak cabangnya bersegi empat. Tajuknya selalu hijau sepanjang tahun. Berdaun tebal mengkilap. Daun mengkudu terletak berhadap-hadapan. Ukuran daun besar-besar, tebal, dan tunggal. Bentuknya jorong-lanset, berukuran 15-50 x 5-17 cm, tepi daun rata, ujung lancip pendek. Pangkal daun berbentuk pasak. Urat daun menyirip. Warna hijau mengkilap, tidak berbulu. Pangkal daun pendek. Ukuran daun penumpu bervariasi, berbentuk segitiga lebar. Bunga tersusun majemuk, perbungaan bertipe bongkol bulat, bertangkai 1-4 cm, tumbuh di ketiak daun penumpu yang berhadapan dengan daun yang tumbuh normal. Bunga banci, mahkota bunga putih, berbentuk corong, panjangnya bisa mencapai 1,5 cm. Benang sari tertancap di mulut mahkota. Bunga berwarna putih dan harum. Buah majemuk, terbentuk dari bakal-bakal buah yang menyatu dan bongkol di bagian dalamnya, berdiameter 7,5-10 cm. Permukaan buah majemuk seperti terbagi dalam sekat-sekat poligonal yang berbintik-bintik dan berkutil, yang berasal dari sisa bakal buah tunggalnya. Daging buah lunak, tersusun dari buah-buah batu berbentuk piramida dengan daging buah berwarna putih, terbentuk dari mesokarp.
+        </item>
+        <item>
+           Secara keseluruhan mengkudu merupakan buah makanan bergizi lengkap. Zat nutrisi yang dibutuhkan tubuh, seperti protein, vitamin, dan mineral penting, tersedia dalam jumlah cukup pada buah dan daun mengkudu.selenium, salah satu mineral yang terdapat pada mengkudu merupakan antioksidan yang hebat. Zat anti bakteri yang terkandung dalam sari buah mengkudu dapat mematikan bakteri penyebab infeksi. Zat anti kanker yang terdapat dalam buah mengkudu efektif melawan sel-sel abnormal.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=35071#null &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Morinda+citrifolia
+        </item>
+    </string-array>
+    <string-array name="menjalin">
+        <item>Menjalin</item>
+        <item>(Celtis wightii)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Urticales</item>
+        <item>Famili          : Ulmaceae</item>
+        <item>Genus           : &lt;i&gt;Celtis&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Celtis wightii &lt;/i&gt;Planch.</item>
+        <item>
+          Pohon ini memiliki banyak percabangan. Sejenis semak cemara atau pohon. Dapat tumbuh tinggi 3-30 m. Batangnya sering agak pendek, meskipun dapat bercabang hingga 20 m.
+        </item>
+        <item>
+           Dapat digunakan sebagai obat, makanan, dan sumber kayu. Kayunya dimanfaatkan untuk kayu dan diekspor. Selain itu juga dapat dijadikan tanaman hias, dan sebagai tanaman peneduh.
+        </item>
+        <item>
+            1. http://plantamor.com/species/info/celtis/wightii &lt;br&gt;
+            2. https://indiabiodiversity.org/biodiv/img//Celtis_philippensis_wightii/Celtis-philippensis-11_gall.jpg &lt;br&gt;
+            3. http://tropical.theferns.info/viewtropical.php?id=Celtis+philippensis
+        </item>
+    </string-array>
+    <string-array name="mimba">
+        <item>Mimba</item>
+        <item>(Azadirachta indica)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Meliaceae</item>
+        <item>Genus           : &lt;i&gt;Azadirachta&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Azadirachta indica &lt;/i&gt;A. Juss.</item>
+        <item>
+          Merupakan pohon yang tinggi batangnya dapat mencapai 20 m. Kulit tebal, batang agak kasar, daun menyirip genap, dan berbentuk lonjong dengan tepi bergerigi dan runcing, sedangkan buahnya merupakan buah batu dengan panjang 1 cm. Buah mimba dihasilkan dalam satu sampai dua kali setahun, berbentuk ovsl, bila masak berwarna kuning, biji tertutupi kulit keras berwarna coklat dan didalamnya melekat kulit buah berwarna putih.batangnya agak bengkok dan pendek. Daun tersusun spiralis, mengumpul di ujung tangkai, dengan jumlah helaian 8-16. Tulang daun menyirip. Ujung daun meruncing, pangkal daun miring, tepi daun bergerigi kasar.
+        </item>
+        <item>
+           Daun mimba mengandung senyawa-senyawa di antaranya adalah β-sitosterol, hyperoside, nimbolide, quercetin, quercitrin, rutin, azadirachtin, dan nimbine. Beberapa diantaranya diungkapkan memiliki aktivitas antikanker. Daun mimba juga digunakan sebagai repelan, obat penyakit kulit, hipertensi, diabetes, anthelmintika, ulkus peptik, dan antifungi. Seduhan batangnya digunakan sebagai obat malaria. Minyak untuk mengatasi eksim, kepala yang kotor, kudis, cacing, menghambat perkembangan dan pertumbuhan kuman. Kulit batang digunakan untuk mengatasi nyeri lambung, penguat, penurun demam. Buah dan getah digunakan sebagai penguat.
+        </item>
+        <item>
+            1. https://eol.org/pages/581909/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Azadirachta+indica
+        </item>
+    </string-array>
+    <string-array name="nipah">
+        <item>Nipah</item>
+        <item>(Nypa fruticans)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Liliopsida</item>
+        <item>Ordo            : Arecales</item>
+        <item>Famili          : Arecaceae</item>
+        <item>Genus           : &lt;i&gt;Nypa&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Nypa fruticans &lt;/i&gt;Wurmb</item>
+        <item>
+          Batang pohon nipah menjalar di tanah, membentuk rimpang yang terendam oleh lumpur. Hanya roset daunnya yang muncul di atas tanah, sehingga nipah nampak seolah-olah tak berbatang. Akar serabutnya dapat mencapai panjang 13 m.&lt;br&gt;
+Dari rimpangnya muncul daun-daun majemuk menyirip khas palma, tegak atau hampir tegak, menjulang hingga 9 m di atas tanah. panjang tangkainya 1-1,5 m; dengan kulit yang mengkilap dan keras, berwarna hijau pada yang muda dan berangsur menjadi cokelat sempai cokelat tua sesuai perkembangan umurnya; bagian dalamnya lunak seperti gabus. Anak daun berbentuk pita memanjang dan meruncing di bagian ujung.&lt;br&gt;
+Karangan bunga majemuk muncul di ketiak daun, berumah satu, dengan bunga betina terkumpul di ujung membentuk bola dan bunga jantan tersusun dalam malai serupa untai, merah, jingga atau kuning pada cabang di bawahnya.&lt;br&gt;
+Buah tipe batu dengan mesokarp bersabut, bulat telur terbalik dan gepeng dengan 2-3 rusuk, coklat kemerahan. Struktur buah mirip buah kelapa, dengan esokarp halus, mesokarp berupa sabut, dan endokarp keras yang disebut tempurung. Dalam satu tandan buahnya dapat mencapai antara 30-50 butir.&lt;br&gt;
+        </item>
+        <item>
+           Daun nipah yang telah tua banyak dimanfaatkan secara tradisional untuk membuat atap rumah yang daya tahannya mencapai 3-5 tahun. Tangkai daun dan pelepah nipah dapat digunakan sebagai bahan kayu bakar yang baik. Pelepah nipah dapat digunakan pembuatan pulp. Nipah dapat pula disadap niranya dan dimasak menjadi gula nipah.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=507457#null &lt;br&gt;
+            2. https://www.biodiversitywarriors.org/pemanfaatan-nipah-nypa-fruticans.html &lt;br&gt;
+            3. https://id.wikipedia.org/wiki/Nipah
+        </item>
+    </string-array>
+    <string-array name="nyatoh">
+        <item>Nyatoh</item>
+        <item>(Palaquium amboinense)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Sapindaceae</item>
+        <item>Genus           : &lt;i&gt;Palaquium&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Palaquium amboinense &lt;/i&gt;</item>
+        <item>
+          Pohon dengan tinggi samai 30 m dan berdiameter 0,5 m. Berbatang tegak dengan warna merah kecoklatan. Pepagannya berwarna kuning sampai merah dan bergetah putih. Berdaun tunggal dengan bentuk bundar telur sungsang sampai jorong. Bunga mengelopak pada ketiak daun. Tumbuh di hutan dataran rendah.
+        </item>
+        <item>
+           Baik untuk digunakan sebagai bahan bangunan, alat rumah tangga, alat olahraga maupun alat musik tradisional. Getahnya dapat disadap untuk membuat mainan anak-anak. Bijinya mengandung kadar lemak yang tinggi.
+        </item>
+        <item>
+            1. https://eol.org/pages/1153516/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Palaquium+amboinense
+        </item>
+    </string-array>
+    <string-array name="pancalkidang">
+        <item>Pancal kidang</item>
+        <item>(Aglaia odoratissima)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malvales</item>
+        <item>Famili          : Malvaceae</item>
+        <item>Genus           : &lt;i&gt;Aglaia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Aglaia odoratissima &lt;/i&gt;</item>
+        <item>
+          Pohon kecil atau semak, tinggi mencapai 12 m, bergetah putih. Batang coklat atau keunguan, halus bersisik. Daun majemuk, panjang 7,5-118 cm, anak daun melonjong, panjang 3-9 cm dan lebar 1,5-3,5 cm, 2-5 pasang. Bunga kuning dan sangat harum. Buah lonjong, kuning sampai jingga jika sudah masak, daging buah berair, dan manis.
+        </item>
+        <item>
+           Daun berkhasiat sebagai obat penghilang bau badan, obat mencret, dan obat luka. Bunganya sering digunakan untuk mengharumkan teh atau pakaian. Biasa digunakan sebagai bahan dasar dalam pembuatan biopestisida.
+        </item>
+        <item>
+            1. https://eol.org/pages/6954196/names &lt;br&gt;
+            2. http://www.phytoimages.siu.edu/imgs/benctan/r/Meliaceae_Aglaia_odoratissima_27127.html &lt;br&gt;
+            3. http://tropical.theferns.info/viewtropical.php?id=Aglaia+odoratissima
+        </item>
+    </string-array>
+    <string-array name="popohan">
+        <item>Popohan</item>
+        <item>(Buchanania arborescens)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Anacardiaceae</item>
+        <item>Genus           : &lt;i&gt;Buchanana&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Buchanania arborescens &lt;/i&gt;Bl.</item>
+        <item>
+          Buchanania arborescens, pohon semak perdu kecil dan ramping, adalah tanaman asli untuk hutan hujan di utara Australia, Asia Tenggara, dan Kepulauan Solomon. &lt;br&gt;
+Daun spiral teratur, halus, kasar, panjang memanjang lonjong dengan ukuran 5-26 cm. Bunga yang sangat kecil putih kekuningan. Buah dapat dimakan berbentuk bulat, kecil dengan panjang sekitar 1 cm, berwarna kemerahan atau ungu kehitaman. Biasanya dimakan oleh burung merpati atau burung lainnya.
+        </item>
+        <item>
+           Masyarakat Aborigin biasanya memakan buahnya untuk dikonsumsi. Tanaman ini juga digunakan sebagai obat tradisional di Australia dan Malaysia.
+        </item>
+        <item>
+            1. http://www.uniprot.org/taxonomy/991122 &lt;br&gt;
+            2. http://tropical.theferns.info/image.php?id=Buchanania+obovata &lt;br&gt;
+            3. https://en.wikipedia.org/wiki/Buchanania_arborescens &lt;br&gt;
+            4. http://www.natureloveyou.sg/Buchanania%20arborescens/DSC06643%20(15).JPG
+        </item>
+    </string-array>
+    <string-array name="pulai">
+        <item>Pulai</item>
+        <item>(Alstonia scholaris)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Gentinales</item>
+        <item>Famili          : Apocynaceae</item>
+        <item>Genus           : &lt;i&gt;Alstonia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Alstonia scholaris &lt;/i&gt;(L.) R. Br.</item>
+        <item>
+          Berupa pohon dengan tinggi 10–50 m. Batang tegak, berkayu, percabangan menggarpu dan berwarna hijau gelap. Daun tunggal, bentuknya lanset, ujungnya membulat dan pangkalnya meruncing, tepinya rata, panjang daun 10-20 cm dan lebar 3-6 cm, pertulangan daun menyirip, permukaan atas licin, panjang tangkai kurang lebih 1 cm dan berwarna hijau. &lt;br&gt;
+Bunga majemuk, bentuknya malai, terdapat di ujung batang, bentuk kelopak bunga bulat telur, panjang tangkainya 2,5-5 cm, berambut dan berwarna hijau. Benang sari melekat pada tabung mahkota dengan panjang tangkai putik 3-5 mm, kepala putik meruncing, bakal buah berbulu dan berwarna putih. Bentuk tabung mahkota bunga bulat telur dengan panjang 7-9 mm dan berwarna putih kekuningan. Buah bumbung dengan bentuk pita dan panjangnya 20-50 mm berwarna putih. Biji kecil dengan panjang 1,5-2 cm berwarna putih. Akar tunggang dan berwarna coklat.
+        </item>
+        <item>
+           Kayunya dapat digunakan sebagai peti, papan acuan beton dan pekerjan ruangan. Selain itu kayu dari jenis ini baik untuk digunakan sebagai bahan baku pada pabrik korek api. Daun dan kayu digunakan sebagai obat-obatan.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=184803#null &lt;br&gt;
+            2. http://tropical.theferns.info/image.php?id=Alstonia+scholaris#plantimages/d/d/dd470cd36045bf9366c8fb4f0030ef1e755b0f3d.jpg &lt;br&gt;
+            3. https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=2705
+        </item>
+    </string-array>
+    <string-array name="putatrowo">
+        <item>Putat Rowo</item>
+        <item>(Barringtonia racemosa)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Ericales</item>
+        <item>Famili          : Lecythidaceae</item>
+        <item>Genus           : &lt;i&gt;Barringtonia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Barringtonia racemosa&lt;/i&gt;</item>
+        <item>
+          B. racemosa memiliki daun yang sederhana dengan panjang daunnya sekitar 20 cm. Bunganya besar dengan banyak benang sari. Buah berwarna hijau, berbentuk elips 3 dimensi, dengan panjang buahnya sekitar 8 cm, dan berubah menjadi warna merah ketika sudah gugur . Tumbuhan B. racemosa berbunga sepanjang tahun. Pada umumnya, bunga ini mekar secara bersamaan. Penyerbukan bunga dilakukan oleh kelelawar atau serangga karena tertarik dengan aroma yang kuat serta nektar yang berlimpah. Buah B. racemosa memiliki lapisan tebal yang tersusun atas spon dan jaringan fibrosa membuat buah tersebut dapat terbawa oleh aliran air, sehingga sering terbawa jauh dan tersebar di tempat lainnya.
+        </item>
+        <item>
+           Daun B. racemosa digunakan untuk gatal-gatal dan cacar air, serta untuk mengobati sakit tenggorokan. Selain itu, buah B. racemosa sering digunakan untuk mengobati batuk, asma dan diare dan bijinya digunakan untuk pengobatan kolik, penyakit kuning dan gangguan mata. &lt;br&gt;
+Semua bagian dari tanaman B. racemosa telah banyak digunakan sebagai racun ikan dan ekstraknya telah terbukti efektif sebagai insektisida. Di Malaysia, buah B. racemosa digunakan untuk meracuni babi liar. Racun tersebut tidak hanya terdapat pada buah dan biji, tetapi juga ditemukan di bagian lain dari tumbuhan B. racemosa. Ekstrak air buah dan biji B. Racemosa menunjukkan adanya flavonoid, terpenoid, dan saponin. Kulit tumbuhan B. racemosa mengandung tanin dan juga saponin.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=896469#null &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Barringtonia+racemosa
+        </item>
+    </string-array>
+    <string-array name="rau">
+        <item>Putat Rowo</item>
+        <item>(Dracontomelon dao)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Anacardiaceae</item>
+        <item>Genus           : &lt;i&gt;Dracontomelon&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Dracontomelon dao &lt;/i&gt;(Blanco) Merr.</item>
+        <item>
+          Pohon besar dengan ketinggian mencapai 45-55 m dengan diamater mencapai 1 m. Berbanir kecil dan tinggi mencapai 6 m. Permukaan kulit batang tidak teratur dan bersisik, berwarna coklat keabu-abuan hingga coklat atau belang kehijauan, bagian dalam kulit berwarna merah muda atau merah. Daun tersusun spiral, permukaan gundul dengan domatia yang berbulu. Bunga majemuk. Perbungaan aksiler atau terminal. Buah berbiji dan berdaging.
+        </item>
+        <item>
+           Kayu sangat lembut dan tidak tahan lama, sehingga sering digunakan untuk bahan furniture, lantai dan kotak. Buah dapat dimakan, meskipun tidak populer. Bunga dan daun dapat dimakan. Kulit bisa menjadi bahan obat-obatan.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=506452#null &lt;br&gt;
+            2. http://tropical.theferns.info/image.php?id=Dracontomelon+dao#plantimages/f/2/f28cc2579c93ef7f942207648ea1cbb573d7ca66.jpg &lt;br&gt;
+            3. https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=3287
+        </item>
+    </string-array>
+    <string-array name="sempu">
+        <item>Sempu</item>
+        <item>(Dillenia pentagyna)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Dilleniales</item>
+        <item>Famili          : Dilleniaceae</item>
+        <item>Genus           : &lt;i&gt;Dillenia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Dillenia pentagyna &lt;/i&gt;L.</item>
+        <item>
+          &lt;i&gt;Dillenia pentagyna &lt;/i&gt; termasuk pohon gugur yang tumbuhnya bisa mencapai 25 meter. Batang biasanya agak bengkok, dan mempunyai percabangan yang panjang cabangnya hingga 12 meter dengan diameter 100 cm.
+        </item>
+        <item>
+           Tanaman ini dapat digunakan untuk mengobati anal fistula, luka, diabetes, carbuncle diabetes, neuritis, pleuritis, dan pneumonia. Daun yang sudah tua mengandung banyak silika dan digunakan sebagai kertas pasir. Kulit mengandung sekitar 6% tanin. Dan kayunya dapat digunakan untuk bahan furnitur.
+        </item>
+        <item>
+            1. http://www.uniprot.org/taxonomy/1747698 &lt;br&gt;
+            2. http://tropical.theferns.info/image.php?id=Dillenia+pentagyna &lt;br&gt;
+            3. http://tropical.theferns.info/viewtropical.php?id=Dillenia+pentagyna
+        </item>
+    </string-array>
+    <string-array name="serut">
+        <item>Serut</item>
+        <item>(Streblus asper)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Meliaceae</item>
+        <item>Genus           : &lt;i&gt;Streblus&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Streblus asper &lt;/i&gt;Lour.</item>
+        <item>
+          merupakan sebuah pohon evergreen dengan kanopi yang seperti payung, dapat tumbuh tinggi sekitar 15 m. Batang dapat berdiameter 30 cm. Pohon memiliki berbagai serat yang baik untuk membuat kertas amplas, daun dapat digunakan seperti amplas. Daun serut berbentuk bulat telur, lonjong, dengan panjang 4-12 cm. Berwarna hijau dengan permukaan daun kasar, tepi daun bergerigi, ujung daun meruncing, pangkal daun meruncing, dan pertulangan daun menyirip. Termasuk jenis monoecious (berumah satu) di mana bunga jantan dan bunga betina terpisah namun masih dalam satu pohon. Bunga berwarna hijau kekuningan di mana bunga jantan
+        </item>
+        <item>
+           Kulit batang digunakan dalam pengobatan disentri, diare, dan penyakit kulit culebra. Air rebusan kulit pohon digunakan untuk desinfektan luka. Bubuk kulit akar digunakan untuk mengobati sakit gigi dan untuk menyembuhkan peritonitis. Asap dari kayu digunakan untuk mengobati polip hidung. Rebusan akar untuk mengobati difteri. Lateks dari pohon jika digosokkan ke kulit dapat mengobati neuralgia. Serat dari tanaman ini digunakan untuk membuat kertas. Daun yang kasar digunakan sebagai amplas.
+        </item>
+        <item>
+            1. https://eol.org/pages/2872512/names  &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Streblus+asper
+        </item>
+    </string-array>
+    <string-array name="talok">
+        <item>Talok</item>
+        <item>(Grewia eriocarpa)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malvales</item>
+        <item>Famili          : Tiliaceae</item>
+        <item>Genus           : &lt;i&gt;Grewia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Grewia eriocarpa &lt;/i&gt;Juss.</item>
+        <item>
+          Berbentuk semak atau pohon kecil dengan tinggi 8 m. Berbatang lembut berwarna abu-abu. Daun penumpu berbentuk lanset, ukuran 5-10 mm, ukuran tangkai daun 5-10 mm, bentuk daun bulat telur atau bulat telur-lonjong, dengan ukuran 6-13 x 3-6 cm, tipis, tepi daun bergigi kecil, dan ujung meruncing. Perbungaan sederhana berjumlah 1-3, berukuran 1,5-3 cm, panjang tangkai bunga 3-8 mm. Bunga biseksual.
+        </item>
+        <item>
+           Tanaman ini dapat digunakan untuk obat-obatan dan sebagai sumber serat. Pepagan sebagai bahan untuk mencegah sakit kulit. Hal ini dikarenakan di dalam pepagan terkandung alkohol untuk mengobati kondisi kulit tertentu. Membunyai serat yang berkualitas sehingga sering dimanfaatkan untuk pembuatan tali.
+        </item>
+        <item>
+            1. https://eol.org/pages/2889374/names &lt;br&gt;
+            2. https://www.flickr.com/photos/eddingrid/17080997837 &lt;br&gt;
+            3. http://tropical.theferns.info?viewtropical.php?id=Grewia+eriocarpa
+        </item>
+    </string-array>
+    <string-array name="trangguli">
+        <item>Trangguli</item>
+        <item>(Pithecellobium umbellatum)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Fabales</item>
+        <item>Famili          : Fabaceae</item>
+        <item>Genus           : &lt;i&gt;Pithecellobium&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Pithecellobium umbellatum&lt;/i&gt;</item>
+        <item>
+          Pohon ini memiliki batang yang berduri kecil. Pohon ini sangat kasar dan memiliki serpihan kulit hingga 20x10 cm. Daun selebaran sesil, yang ukurannya 2,1-4,3 x 0,9-2,7 cm. Bunga individu pada pedicels yang panjangnya 3-4 mm. Stamen berbentuk filamen dengan panjang 15-20 mm. Buah polong datar, dengan lebar 10-20 cm, memiliki sekat antara biji dan bersatu ketika matang. Bibit kotiledon berdagig tanpa terlihat sekatnya. Terdapat lentisel pada batang.
+        </item>
+        <item>
+           Semua tumbuhan dari famili ini mempunyai bintil akar dengan bakteri yang dapat memfiksasi nitrogen sehingga membuat tumbuhan tersebut menjadi spesies pelopor yang baik pada tanah-tanah yang miskin nitrogen atau baik untuk pupuk hijau. Tumbuhan ini mempunyai peranan yang sangat penting bagi manusia, terutama sebagai makanan yang mengandung nutrisi yang tinggi, dan juga fungsi lainnya yang tidak kalah pentingnya, yaitu sebagai tanaman pelindung atau naungan, tanaman penutup tanah, pupuk, mulsa, tanaman perintis, tanaman pagar, tanaman pemecah angin, tanaman pengendali erosi, sebagai kayu bakar, dan sebagai tiang pancang.
+        </item>
+        <item>
+            1. http://www.uniprot.org/taxonomy/138051 &lt;br&gt;
+            2. http://keys.trin.org.au/key-server/data/0e0f0504-0103-430d-8004-060d07080d04/media/Html/taxon/Cathormion_umbellatum_subsp._moniliforme.htm
+        </item>
+    </string-array>
+    <string-array name="trenggulun">
+        <item>Trenggulun</item>
+        <item>(Protium javanicum)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Sapindales</item>
+        <item>Famili          : Burseraceae</item>
+        <item>Genus           : &lt;i&gt;Protium&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Protium javanicum&lt;/i&gt;Burm.</item>
+        <item>
+          Trenggulun merupakan tumbuhan khas di pulau Jawa. Pohon ini mempunyai batang yang kokoh dan kuat namun berduri. Pohon ini juga memiliki buah kecil seperti anggur dan berwarna merah. Rasa buahnya manis asam.
+        </item>
+        <item>
+           Daun trenggulun diketahui dapat dijadikan sebagai pestisida dan insektisida alami. Kandungan senyawa dari daun trenggulung efektif untuk menekan nafsu makan serangga juga mampu mengusir hama pengganggu tanaman.
+        </item>
+        <item>
+            1. http://www.uniprot.org/taxonomy/173698 &lt;br&gt;
+            2. https://organikilo.co/2016/03/manfaat-daun-trenggulun-sebagai-pestisida-organik.html &lt;br&gt;
+            3. https://organikilo.co/2016/03/ciri-ciri-tanaman-protium-javanicum-burm.html.
+        </item>
+    </string-array>
+    <string-array name="turi">
+        <item>Turi</item>
+        <item>(Sesbania grandiflora)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Fabales</item>
+        <item>Famili          : Fabaceae</item>
+        <item>Genus           : &lt;i&gt;Sesbania&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Sesbania grandiflora &lt;/i&gt;(L.) Pers.</item>
+        <item>
+          Turi merupakan pohon yang berkayu lunank dan berumur pendek. Tingginya dapat mencapai 5-12 m. Akarnya berbintil-bintil dan berguna menyuburkan tanah. bunganya besar dan keluar dari rantingnya. Bunganya apabila mekar berbentuk seperti kupu-kupu. Warna bunganya ada yang merah dan ada yang putih. Ada juga yang berwarna gabungan keduanya. Letaknya menggantung dengan 2-4 bunga dan bertangkai, kuncupnya berbentuk sabit. Rantingnya menggantung, kulit luar berwarna kelabu hingga kecoklatan. Kulit luarnya ini tidak rata dengan alur membujur atau melintang tidak beraturan dengan lapisan gabus yang mudah terkelupas. Pada bagian dalam, batangnya berlendir dan berair yang berwarna merah, dan rasanya pahit.&lt;br&gt;
+Daunnya majemuk dan tersebar. Memiliki daun penumpu sepanjang 1-2 cm. Anak daunnya bentuknya jorong memanjang, rata, dan menyirip genap. Panjang tangkai daun 20-30 cm. Tangkainya pendek, dan setiap tangkai berisi 20-40 pasang anak daun. Buahnya berbentuk polong, menggantung, bersekat, dengan panjang 20-55 cm, sewaktu muda berwarna hijau, dan sudah tua berwarna kuning keputih-putihan. Sedangkan bijinya berbentuk bulat panjang dan berwarna coklat muda.
+        </item>
+        <item>
+           Bunga ditambahkan ke salad, direbus sebagai potherb, digoreng atau digunakan dalam kari. Daun-daunnya bersifat aperient dan diuretik. Daun kering digunakan sebagai tapal untuk keseleo dan memar dari segala jenis, pembengkakan, rematik, gatal dll. Teh yang terbuat dari daun diyakini memiliki sifat antibiotik, anthelmintik, antitumor dan kontrasepsi. Kulit pahit dianggap sebagai astringent, obat penurun panas, tonik dan antipiretik, obat untuk masalah lambung, kolik dengan diare dan disentri. Akar digunakan sebagai obat malaria.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=26953#null &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Sesbania+grandiflora
+        </item>
+    </string-array>
+    <string-array name="walangan">
+        <item>Walangan</item>
+        <item>(Pterospremum diversifolium)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malvales</item>
+        <item>Famili          : Sterculiaceae</item>
+        <item>Genus           : &lt;i&gt;Pterospremum &lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Pterospremum diversifolium &lt;/i&gt;Bl.</item>
+        <item>
+          Pohon besar yang tingginya dapat mencapai 45 m dan gemang batangnya 1 m. Pepagan berwarna kabu-abuan, halus hingga memecah dangkal. Ranting-ranting berambut halus. Daun tunggal terletak berseling dan bertangkai pendek. Helaian daun bundar telur sampai lanset, dengan ujung lancip dan pangkal asimetris, sebelah membundar dan sebelahnya menyempit runcing. Sisi atas berwarna hijau terang, sisi bawah daun berambut bintang halus dan kecoklatan, pada pangkal dengan tiga tulang daun. Perbungaan berupa malai terletak terminal atau di ketiak. Bunga panjang hingga 6 cm, kuning, dan berambut halus. Buah kotak silindris, mula-mula berambut, namun kemudian gundul. Bijinya banyak dan bersayap.
+        </item>
+        <item>
+           Kayunya digunakan untuk kayu bakar, pembuatan kertas, dan tali.
+        </item>
+        <item>
+            1. http://www.gbif.org/species/7910941 &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Pterospermum+diversifolium
+        </item>
+    </string-array>
+    <string-array name="walikukun">
+        <item>Walikukun</item>
+        <item>(Schoutenia ovata)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malvales</item>
+        <item>Famili          : Malvaceae</item>
+        <item>Genus           : &lt;i&gt;Schoutenia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Schoutenia ovata&lt;/i&gt;</item>
+        <item>
+          Walikukun berperawakan semak, perdu atau pohon kecil, bercabang mulai dari dekat tanah, dengan tinggi mencapai 25 m dan gemang batang hingga 40–45 cm, namun umumnya kurang daripada itu. Daun-daunnya terletak berseling, bundar telur atau lonjong, 1–17 × 1–8 cm, dengan bagian sebelah ujung kadang-kadang berlekuk atau berbagi, berambut halus, hijau di atas dan coklat kemerahan di sebelah bawah. Bunganya putih kekuningan, tersusun dalam tandan. Sementara buahnya kecil, sekitar 6 mm, berbiji tunggal.&lt;br&gt;
+Tumbuh sampai ketinggian 900 m dpl., walikukun umumnya ditemukan di dataran rendah yang panas dan kering, di hutan-hutan gugur daun, hutan jati, sabana dan padang rumput. Kadang-kadang ditemukan di tanah yang berat dan kurang baik, yang becek secara periodik. Walikukun tahan terhadap naungan dan biasa tumbuh sebagai tajuk lapis kedua, sering ditemukan tumbuh menggerombol.
+        </item>
+        <item>
+           Kayunya keras, padat, dan halus, serta tidak tidak mudah patah. Berwarna coklat kemerahan. Karena tingkat keuletannya yang baik, kayu walikukun banyak digunakan sebagai gandar kereta, pedati, gagang perkakas, dan lain-lain. Awet dan mudah dibelah, namun umumnya kayu ini sukar dikerjakan. Walikukun dimanfaatkan pula batangnya untuk membuat gagang tombak, dan sebagai kayu bakar.
+        </item>
+        <item>
+            1. https://eol.org/pages/49894996/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Schoutenia+ovata &lt;br&gt;
+            3. https://id.wikipedia.org/wiki/Walikukun
+        </item>
+    </string-array>
 
     <!--Hutan Mangrove-->
-    <string-array name="apiApiPantai">
+    <string-array name="apiapipantai">
         <item>Api Api Pantai </item>
         <item>(Avicennia marina)</item>
         <item>Kingdom      : Plantae</item>
@@ -564,7 +1425,7 @@ Gagang kepala bunga seperti cagak, bersifat biseksual, masing-masing menempel pa
 Buah lonjong/panjang hingga berbentuk telur berukuran 5-7 cm, berwarna hijaukecoklatan, seringkali kasar di bagian pangkal, berbiji tunggal. Hipokotil silindris, kasar dan berbintil. Leher kotilodon kuning ketika matang. Ukuran: Hipokotil: panjang 36-70 cm dan diameter 2-3 cm.</item>
         <item>Kayu digunakan sebagai bahan bakar dan arang. Tanin dari kulit kayu digunakan untuk pewarnaan, dan kadang-kadang digunakan sebagai obat dalam kasus hematuria (perdarahan pada air seni). Kadang-kadang ditanam di sepanjang tambak untuk melindungi pematang.</item>
     </string-array>
-    <string-array name="bakoBako">
+    <string-array name="bakobako">
         <item>Bako-bako </item>
         <item>(Rhizophora apiculata)</item>
         <item>Kingdom      : Plantae</item>
@@ -600,7 +1461,7 @@ Bunga jantan lebih banyak, tetapi lebih kecil dibanding bunga betina (pada pohon
 Buah berwarna hijau hingga coklat mengkilat, berkayu. Memiliki 1 biji dan masak pada tandan yang tergantung. Ukuran: panjang 6-8 cm; lebar 5-6 cm.</item>
         <item>Kayu bakar yang baik. Kayu tahan lama dan digunakan untuk bahan perahu, rumah, tiang telepon. Buah digunakan untuk mengobati diare dan disentri. Biji digunakan untuk pengolahan ikan.</item>
     </string-array>
-    <string-array name="mangroveApel">
+    <string-array name="mangroveapel">
         <item>Apel Mangrove </item>
         <item>(Sonneratia alba)</item>
         <item>Kingdom      : Plantae</item>
@@ -619,7 +1480,7 @@ Akarnya berbentuk kabel di bawah tanah dan muncu di atas permukaan tanah sebagai
 Daunnya berkulit, bentuknya bulat telur terbalik ujungnya membundar.</item>
         <item>Dapat mentolerir lebar fluktuasi salinitas. Sebagai perlindungan dan makanan untuk berbagai macam flora dan fauna, filter air alami, dan stabilizer penting dari pesisir dan sungai.</item>
     </string-array>
-    <string-array name="mangrovePedada">
+    <string-array name="mangrovepedada">
         <item>Mangrove Pedada </item>
         <item>(Sonneratia caseolaris)</item>
         <item>Kingdom      : Plantae</item>
@@ -637,7 +1498,7 @@ Pucuk bunga bulat telur, saat mkar penuh, tabung kelopak bunga berbenuk magkok, 
 Buah berbentuk seperti bola, ujungnya bertangkai dan bagian dasarnya terbungkus kelopak bunga</item>
         <item>Batang pohon ini dapat digunakan untuk menyembuhkan luka. Bunganya dapat digunakan sebagai obat penyakit cacar, sedangkan daunnya digunakan sebagai obat penurun demam dan menghentikan pendarahan. Selain itu tumbuhan ini dapat mengurang laju gelombang air laut sehingga melindungi ekosistem tepi pantai dari badai dan angin taifun.</item>
     </string-array>
-    <string-array name="nyiriAgang">
+    <string-array name="nyiriagang">
         <item>Nyiri Agang </item>
         <item>(Xylocarpus granatum)</item>
         <item>Kingdom      : Plantae</item>
@@ -655,7 +1516,7 @@ Bunga terdiri dari dua jenis kelamin ata betina saja. Tandan bunga panjang 1-7 c
 Buah berbentuk seperti kelapa, berat 1-2 kg, berwarna hijau kecoklatan. Buanya bergelantungan pada dahan yang dekat permukan taah dan agak tersembunyi. Buah akan pecah pada saat kering.</item>
         <item>Kayu biasanya digunakan sebagai bahan pembuatan perahu. Kulit batang kaya akan tannin dan dapat digunakan sebagai bahan pewarna pakaian. Batangnya, seperti kayu aoni, berpotensi sebagai bahan bangunan dan sumber kayu bakar. Tumbuhan ini dapat juga dipakai untuk merehabilitasi lahan atau mereklamasi kawasan pantai.</item>
     </string-array>
-    <string-array name="pohonKendal">
+    <string-array name="pohonkendal">
         <item>Pohon Kendal </item>
         <item>(Cordia obliqua)</item>
         <item>Kingdom      : Plantae</item>
@@ -691,6 +1552,147 @@ Daun berkulit, berwarna hijau pada lapisan atas dan hijau kekuningan pada bagian
 Bunga bergelantungan dengan panjang tangkai bunga antara 9-25 mm. Letak: di ketiak daun, menggantung. Formasi: soliter. Daun Mahkota: 10-14; putih dan coklat jika tua, panjang 13-16 mm. Kelopak Bunga: 10-14; warna merah muda hingga merah; panjang 30-50
 Buah melingkar spiral, bundar melintang, panjang 2-2,5 cm. Hipokotil lurus, tumpul dan berwarna hijau tua keunguan. Ukuran: Hipokotil: panjang 12-30 cm dan diameter 1,5-2 cm.</item>
         <item>Bagian dalam hipokotil dimakan (manisan kandeka), dicampur dengan gula. Kayunya yang berwarna merah digunakan sebagai kayu bakar dan untuk membuat arang.</item>
+    </string-array>
+    <string-array name="apiapi">
+        <item>Api-Api</item>
+        <item>(Avicennia alba)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Lamiales</item>
+        <item>Famili          : Acanthaceae</item>
+        <item>Genus           : &lt;i&gt;Avicennia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Avicennia alba&lt;/i&gt;Blume.</item>
+        <item>Belukar atau pohon yang tumbuh menyebar dengan ketinggian mencapai 25 m. Kumpulan pohon membentuk sistem perakaran horisontal dan akar nafas yang rumit. Akar nafas biasanya tipis, berbentuk jari (atau seperti asparagus) yang ditutupi oleh lentisel. Kulit kayu luar berwarna keabu-abuan atau gelap kecoklatan, beberapa ditumbuhi tonjolan kecil, sementara yang lain kadangkadang memiliki permukaan yang halus. Pada bagian batang yang tua, kadangkadang ditemukan serbuk tipis. &lt;br&gt;
+Permukaan daun halus, bagian atas hijau mengkilat, bawahnya pucat. Letak sederhana dan berlawanan. Berbentuk lanset (seperti daun akasia) kadang elips. Ujung: meruncing. Berukuran 16 x 5 cm. Bunga berbentuk seperti trisula dengan gerombolan bunga (kuning) hampir di sepanjang ruas tandan. Letak di ujung/pada tangkai bunga. Formasi bulir (ada 10-30 bunga per tandan). Daun Mahkota 4, kuning cerah, 3-4 mm. Kelopak Bunga 5. Benang sari 4. Buah seperti kerucut/cabe/mente, berwarna hijau muda kekuningan berukuran: 4 x 2 cm.
+        </item>
+        <item>
+            Kayu bakar dan bahan bangunan bermutu rendah. Getah dapat digunakan untuk mencegah kehamilan. Buah dapat dimakan. Resin ini digunakan untuk berbagai tujuan medis. Spesies perintis alami di alam liar, dapat berguna untuk mencoba membangun kembali bakau di daerah pesisir. Kayunya agak keras. Sering digunakan untuk bahan konstruksi, tiang, perabotan, pembangunan kapal dan untuk tujuan dekoratif.
+        </item>
+        <item>
+            1. https://eol.org/pages/49897759/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Avicennia+alba &lt;br&gt;
+            3. http://www.wetlands.or.id/mangrove/mangrove_species.php?id=11
+        </item>
+    </string-array>
+    <string-array name="bakauputih">
+        <item>Bakau Putih</item>
+        <item>(Bruguiera cylindrica)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malpighiales</item>
+        <item>Famili          : Rhizophoraceae</item>
+        <item>Genus           : &lt;i&gt;Bruguiera&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Bruguiera cylindrica&lt;/i&gt;(L.) Blume.</item>
+        <item>Pohon selalu hijau, berakar lutut dan akar papan yang melebar ke samping di bagian pangkal pohon, ketinggian pohon kadang-kadang mencapai 23 m, kulit kayu abu-abu, relatif halus dan memiliki sejumlah lentisel kecil. Permukaan atas daun hijau cerah bagian bawahnya hijau agak kekuningan, letak sederhana dan berlawanan, bentuk elips ujung agak meruncing, ukuran 7-17 x 2-8 cm. &lt;br&gt;
+Bunga mengelompok, muncul di ujung tandan (panjang tandan 1-2 cm). Sisi luar bunga bagian bawah biasanya memiliki rambut putih, letak di ujung atau ketiak tangkai daun atau tandan bunga formasi di ujung atau ketiak tangkai atau tandan bunga.
+        </item>
+        <item>
+            Hipokotil muda kadang direbus dan dimakan sebagai sayuran. Radikula muda kadang dimakan dengan gula dan kelapa. Spesies ini mampu tumbuh di tanah yang baru terbentuk di sepanjang oantai yang cocok untuk bakau, sehingga dapat menstabilkan tanah dan membawa kondisi untuk memungkinkan pohon lain untuk menjadi mapan. &lt;br&gt;
+        </item>
+        <item>
+            1. https://eol.org/pages/2890117/names &lt;br&gt;
+            2. https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=3264 &lt;br&gt;
+            3. http://www.wetlands.or.id/mangrove/mangrove_species.php?id=16
+        </item>
+    </string-array>
+    <string-array name="bakautampusing">
+        <item>Bakau Tampusing</item>
+        <item>(Bruguiera sexangula)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malpighiales</item>
+        <item>Famili          : Rhizophoraceae</item>
+        <item>Genus           : &lt;i&gt;Bruguiera&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Bruguiera sexangula&lt;/i&gt;(Lour.) Poir.</item>
+        <item>Pohon yang selalu hijau dengan ketinggian lebih kurang mencapai 30 m, kulit kayu coklat muda abu-abu, halus hingga kasar, memiliki sejumlah lentisel berukuran besar, dan pangkal batang yang membengkak. Akar lutut, dan kadang-kadang akar papan, daun agak tebal, berkulit, dan memiliki bercak hitam di bagian bawah, letak sederhana dan berlawanan, bentuk elips, ujung meruncing, berukuran 8-16 x 3-6 cm. Bunga terletak di ketiak daun dengan formasi soliter (1 bunga per tandan). Daun mahkota 10-11 berwarna putih dan kecoklatan sat tua, panjang 15 mm, kadang berambut halus pada tepinya, kelopak bunga 10-12 berwana kuning kehijauan atau kemerahan atau kecoklatan, panjang tabung 10-15 mm, buah hipokotil menyempit di kedua ujungnya.
+        </item>
+        <item>
+            Untuk kayu bakar, tiang, dan arang. Buahnya digunakan untuk mengobati penyakit herpes, akar serta daunnya digunakan untuk mengatasi kulit terbakar. Di Sulawesi buahnya dimakan setelah direndam dan dididihkan.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=847567#null &lt;br&gt;
+            2. http://www.wetlands.or.id/mangrove/mangrove_species.php?id=21
+        </item>
+    </string-array>
+    <string-array name="biduri">
+        <item>Bakau Tampusing</item>
+        <item>(Calotropis gigantea)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Gentianales</item>
+        <item>Famili          : Apocynaceae</item>
+        <item>Genus           : &lt;i&gt;Calotropis&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Calotropis gigantea &lt;/i&gt;(L.) W.T. Aiton</item>
+        <item>
+            Tumbuhan perdu, berumur menahun, tinggi lebih kurang 2 m. Akr tunggang, batang aerial, berkayu, silindris, warna putih kotor, permukaan halus, percabangan simpodial. Daun tunggal tidak bertangkai, tersusun berhadapan, warna hijau keputih-putihan, panjang 8-20 cm, lebar 4-15 cm, helaian daun agak tebal, bentuk bulat telurm ujung tumpul, pangkal berlekuk, tepi rata dan pertulangan daun menyirip, permukaan kasap. Bunga majemuk, bentuk payung, muncul dari ketiak daun, bertangkai panjang, kelopak berwarna hijau, mahkota berwarna putih sedikit keunguan, panjang mahkota lebih kuran 4 mm. Buah bumbung, berbentuk bulat telur, berwarna hijau, biji lonjong, kecil berwarna coklat.
+        </item>
+        <item>
+            Tanaman ini digunakan dalam pengobatan sifilis, daun diterapkan sebagai tapal untuk luka dan jus jatuh ke telinga tuli dan sakit mata. Asap dari daun yang terbakar dihirup untuk mengobati ulserasi hidung dan lateks dijatuhkan ke gigi dengan karies dan juga bisul.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=506010#null &lt;br&gt;
+            2. https://lkcnhm.nus.edu.sg/dna/organisms/details/543 &lt;br&gt;
+            3. http://tropical.theferns.info/image.php?id=Calotropis+gigantea#plantimages/d/2/d2adaea4a96d8847fb2f07ced282242f15708450.jpg
+        </item>
+    </string-array>
+    <string-array name="bikobiko">
+        <item>Biko-Biko</item>
+        <item>(Ceriops decandra)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malpighiales</item>
+        <item>Famili          : Rhizophoraceae</item>
+        <item>Genus           : &lt;i&gt;Ceriops&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Ceriops decandra &lt;/i&gt;(Griff.) W. Theob.</item>
+        <item>
+            Pohon atau semak kecil dengan ketinggian lebih kurang hingga 15 m, kulit kayu berwarna coklat, jarang berwarna abu-abu atau putih kotor, permukaan halus, rapuh, dan menggelmbung di bagian pangkal. Daun hijau mengkilap, letak sangat sederhana dan berlawanan arah, berbentuk elips bulat memanjang dan ujung membundar, berukuran sekitar 3-10 x 1-4,5 cm. Bunga mengelompok, menempel dengan gagang yang pendek, tebal dan bertakik, letak di ketiak daun, formasi kelompok (2-4 bunga per kelompok). Buah berbentuk silinder, ujungnya menggelembung tajam dan berbintil, berwarna hijau hingga coklat, berukuran lebih kuran 15 cm dan diameter 8-12 mm.
+        </item>
+        <item>
+            Menghasilkan kayu yang cukup kuat dan awet, kayunya paling kuat di antara jenis bakau lainnya. Kayu pohon ini kerap digunakan dalam konstruksi bangunan, bantalan rel kereta api, gagang peralatan rumah tangga, dan lain-lain. Juga merupakan bahan kayu bakar dan arang yang baik. Kulit kayunya menghasilkan tanin yang kerap digunakan sebagai bahan penyamak kulit, dan juga bahan pewarna untuk cat.
+        </item>
+        <item>
+            1. https://eol.org/pages/3062587/names &lt;br&gt;
+            2. http://www.wetlands.or.id/mangrove/mangrove_species.php?id=24 &lt;br&gt;
+        </item>
+    </string-array>
+    <string-array name="sogatingi">
+        <item>Soga Tingi</item>
+        <item>(Ceriops tagal)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malpighiales</item>
+        <item>Famili          : Rhizophoraceae</item>
+        <item>Genus           : &lt;i&gt;Ceriops&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Ceriops tagal &lt;/i&gt;(Perr.) C.B.Rob.</item>
+        <item>
+            Pohon kecil atau semak dengan ketinggian mencapai 25 m, kulit kayu berwarna abu-abu, kadang-kadang coklat, halus dan pangkalnya menggelembung, pohon seringkali memiliki akr tunjang yang kecil. Daun hijau mengkilap dan memiliki pinggiran yang melingkar ke dalam letak sederhana dan berlawanan, berbentuk bulat telur terbalik/elips, ujungnya membundar ukuran 1-10 x 2-3,5 cm. Bunga mengelompok di ujung tandan, gagang bunga panjang dan tipis, berresin pada ujung cabang bari atau pada ketiak cabang yang lebih tua, terletak di ketiak daun, formasi kelompok (5-10 bunga per kelompok). &lt;br&gt;
+Buah berbentuk telur hingga mengerucut, berwarna kecoklatan dengan panjang 2 cm dan akan berwarna kuning saat sudah matang.
+        </item>
+        <item>
+            Berbagai aplikasi dalam pengobatan tradisional telah menggunakan kulit pohon ini yang mengandung tanin dan secara umum digunakan sebagai zat hemostatik dan sebagai pengganti kina untuk menyembuhkan malaria. Selain itu juga dapat digunakan untuk mengobati diabetes. Secara eksternal, digunakan dalam lotion untuk mengobat bisul ganas dan penyakit perut.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=507282#null &lt;br&gt;
+            2. http://www.wetlands.or.id/mangrove/mangrove_species.php?id=25
+        </item>
     </string-array>
 
     <!--Hutan Pantai-->
@@ -732,7 +1734,7 @@ Buahnya batu berbentuk bulat telur agak gepeng dan bersegi. Saat masih muda buah
 Sangat cocok sebagai pohon yang ditanam di tepi jalan, yang dapat mentolerir panas matahari.
 Kulit luar dan daunnya dapat digunakan sebagai pewarna alami dan tinta.</item>
     </string-array>
-    <string-array name="legaranPantai">
+    <string-array name="legaranpantai">
         <item>Legaran pantai </item>
         <item>(Ochrosia oppositifolia)</item>
         <item>Kingdom      : Plantae</item>
@@ -767,7 +1769,7 @@ Buah nyamplung berbentuk bulat seperti peluru dengan diameter sekitar 2,5-3,5 cm
         <item>Secara ekologis, nyamplung memiliki fungsi sebagai tanaman penahan abrasi, pengendali intrusi air laut, pemelihara kualitas air, dan sebagai wind breaker (pemecah angin).
 Biji nyamplung dijadikan sumber energi alternatif (biodiesel))</item>
     </string-array>
-    <string-array name="sawoKecik">
+    <string-array name="sawokecik">
         <item>Sawo kecik </item>
         <item>(Malnikara kauki)</item>
         <item>Kingdom      : Plantae</item>
@@ -783,6 +1785,200 @@ Biji nyamplung dijadikan sumber energi alternatif (biodiesel))</item>
 Daun-daun Sawo Kecik mengelompok pada bagian ujung batang. Di permukaan bawah daun Sawo Kecik berwarna keputihan dan halus seperti beludru dengan tangkai daun tidak menebal, panjang kelopak daun 7 mm.. Kuncup bunga Sawo Kecik berbentuk bulat telur.
 Buah Sawo Kecik berbentuk bulat telur atau bulat telur sungsang berukuran kecil dengan panjang berkisar 3.7 cm. Buah Sawo Kecik mempunyai kulit pembungkus yang sangat tipis namun mudah dikelupas. Buah Sawo Kecik, bila mask mempunyai rasa yang manis dan kadang-kadang terasa sedikit agak sepat.</item>
         <item>Buah sawo kecik dapat digunakan untuk menurunkan kolesterol, menurunkan tekanan darah, melancarkan BAB, meringankan tumor, mengatasi diare, mengatasi anorexia, menjaga kesehatan mata, dan lain-lain.</item>
+    </string-array>
+    <string-array name="dadaplaut">
+        <item>Dadap Laut</item>
+        <item>(Erythrina variegata)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Fabales</item>
+        <item>Famili          : Fabaceae</item>
+        <item>Genus           : &lt;i&gt;Erythrina&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Erythrina variegata &lt;/i&gt;(L.)</item>
+        <item>
+            Jenis pohon ini yaitu pohon gugur berduri tumbuh hingga tingginya mencapai 27 cm. Daunnya menyirip dengan tangkai daun yang panjangnya 20 cm dan tiga selebaran, setiap daunnya mempunyai panjang 20 cm. Pohon ini memiliki kelompok bunga yang berwarna merah pekat atau bunga merah dan biji hitam.
+        </item>
+        <item>
+            Daun dan kulit kayu banyak digunakan sebagai obat di banyak negara. Alkaloid yang ada namun dalam konsentrasi rendah di daun dan biji yang memberikan sifat narkotika. Bijinya mengandung hypaphorine, erysodine, dan erysopine. Daun dan kulit kayu mengandung erythirine racun, yang bertindak pada sistem saraf. Kayu pada pohon ini yaitu berwarna putih, ringan, lembut, kenyal, dan berserat. Kayu jenis ini digunakan secara lokal untuk membuat tombak, perisai, palung, cadik untuk kano, dan sebagai pengapung untuk memancing. Kayu digunakan sebagai sumber pulp untuk industri kertas.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=502440#null  &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Erythrina+variegata
+        </item>
+    </string-array>
+    <string-array name="jatipasir">
+        <item>Jati Pasir</item>
+        <item>(Guettarda speciosa)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Tracheobionta</item>
+        <item>Superdivisi  : Spermatophyta</item>
+        <item>Divisi           : Magnoliophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Rubiales</item>
+        <item>Famili          : Rubiaceae</item>
+        <item>Genus           : &lt;i&gt;Guettarda&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Guettarda speciosa &lt;/i&gt;Linn.</item>
+        <item>
+            Pohon kecil, tingginya antara 5-10 m. Bercabang besar, berambut halus di ujungnya, menimbulkan bekas daun pada cabang. Daun penumpu bulat, runcing, dan panjang 1,2-2 cm, dan rontok. Daun-daun terletak berhadapan, bertangkai panjang, berkumpul di ujung ranting. Bunganya berbau harum. Kelopak bunga berambut, berbentuk lonceng bergigi pendek, sesudah bunga mekar akan muncul sobekan di sekitar pangkalnya.
+        </item>
+        <item>
+            Kulit batang dapat digunakan sebagai anti tumor. Kayu digunakan untuk pondasi dan dalam membangun rumah-rumah tradisional.
+        </item>
+        <item>
+            1. https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=845981#null &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Guettarda+speciosa
+        </item>
+    </string-array>
+    <string-array name="katangkatang">
+        <item>Katang-Katang</item>
+        <item>(Ipomoea pes-caprae)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Gentianales</item>
+        <item>Famili          : Apocynaceae</item>
+        <item>Genus           : &lt;i&gt;Ipomoea&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Ipomoea pes-caprae &lt;/i&gt;(L.) R. Br.</item>
+        <item>
+            Herba tahunan dengan akar yang tebal, panjang batangnya 5-30 m dan menjalar, akar tumbuh pada ruas batang, batang berbentuk bulat, basah dan berwarna hijau kecoklatan. Berdaun tunggal, tebal, licin dan mengkilap, letak sederhana dan bersilangan, bentuk bulat telur seperti tapak kuda, ujung membundar membelah, ukuran 3-10 x 3-10,5 cm. Bunga berwarna merah muda, ungu, dan agak gelap di bagian pangkal bunga. Bunga membuka penuh sebelum tengah hari, lalu menguncup setelah lewat tengah hari. Letak bunga di ketiak daun pada gagang yang panjangnya 3-16 cm, formasi soliter, daun mahkota berbentuk seperti terompet dengan panjang 3-5 cm. &lt;br&gt;
+Buah berbentuk kapsul bundar hingga agak datar degan 4 biji berwarna hitam dan berambut rapat, berukuran 12-17 mm.
+        </item>
+        <item>
+            Daun dan buah dapat dikonsumsi. Digunakan sebagai obat di mana sari yang diperas dari tanaman digunakan di Malaysia untuk mengobati sengatan ikan. Daun digunakan di Indonesia untuk mempercepat semburan bisul; getah dari daun muda direbus dalam minyak kelapa dan digunakan untuk mengobati luka dan bisul; dan biji-bijian, dikunyah dengan pinang, kesegaran sakit perut dan kram. Di Filipina, daun rebus digunakan untuk mengobati rematik.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=30787#null &lt;br&gt;
+            2. https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=1431 &lt;br&gt;
+            3. https://eol.org/media/9195062
+        </item>
+    </string-array>
+    <string-array name="pandanduri">
+        <item>Pandan Duri</item>
+        <item>(Pandanus tectorius)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Pandanales</item>
+        <item>Famili          : Pandanaceae</item>
+        <item>Genus           : &lt;i&gt;Pandanus&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Pandanus tectorius &lt;/i&gt;Parkinson ex Zucc.</item>
+        <item>
+            Termasuk ke dalam tanaman perdu atau pohon yang dapat bervariasi. Kadang-kadang juga ada yang semak yang tingginya tidak lebih dari 1,5 m. Batangnya berdiamater lebih dari 30 cm.
+        </item>
+        <item>
+            Kulit kayu digunakan sebagai penangkal untuk racun. Kulit kayu ini juga memumngkinkan untuk mengobati muntah para korban yang disebabkan oleh racun. Kulit akar yang ditekan ke dalam rongga gigi yang sakit untuk meredakan nyeri gigi. Daun yang dikunyah secara tradisional dan dicampur dengan kulit pohon dan diteteskan ke dalam hidung untuk mengobati limpa malaria dan untuk mengobati sakit perut.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=504095#null &lt;br&gt;
+            2. http://krbogor.lipi.go.id/id/Pandan-tikar-Pandanus-tectorius.html
+        </item>
+    </string-array>
+    <string-array name="pandanusdubius">
+        <item>Pandan Duri</item>
+        <item>(Pandanus tectorius)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Pandanales</item>
+        <item>Famili          : Pandanaceae</item>
+        <item>Genus           : &lt;i&gt;Pandanus&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Pandanus dubius &lt;/i&gt;Spreng.</item>
+        <item>
+            Berhabitus pohon dengan tinggi 2–20 m, batang kuat dan bercabang. Daun tebal, panjangnya 1-5 m, lebarnya 10-15 cm, kaku ke arah pangkal, tepi daun dan di bawah ibu tulang dau berduri. Perbungaan jantan, panjang 40 cm, berwarna kuning, berbentuk perahu, daun pelindung berduri, malai berwarna krem-putih. Bunga betina tunggal, bentuk bulat, daun pelindung kekuningan. Buah berbentuk elips atau bulat telur sungsang. Berakar serabut dan berduri.
+        </item>
+        <item>
+            Daun untuk membuat tikar, akar digunakan sebagai tali, benang, dan tambang.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=506610#null &lt;br&gt;
+            2. https://www.flickr.com/photos/guam-flora-fauna/sets/72157626669298670/
+        </item>
+    </string-array>
+    <string-array name="pandanusleram">
+        <item>Pandanus leram</item>
+        <item>(Pandanus leram)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Pandanales</item>
+        <item>Famili          : Pandanaceae</item>
+        <item>Genus           : &lt;i&gt;Pandanus&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Pandanus leram &lt;/i&gt;</item>
+        <item>
+            Sebuah tanaman dataran rendah tropis yang lembab, ditemukan di daerah-daerah di mana suhu berkisar 22 ° C - 32 ° c, dengan kelembaban relatif rata-rata sekitar 82% dan curah hujan tahunan berkisar antara 3.000 - 3.800 mm. &lt;br&gt;
+Cabang tidak memiliki tunas dorman sehingga tidak akan merespon jika dipotong kembali ke kayu tua. &lt;br&gt;
+Spesies dioecious, baik bentuk jantan maupun betina harus ditumbuhkan jika diperlukan buah dan biji.
+        </item>
+        <item>
+            Daun digunakan untuk jerami, membuat tikar, dll. Bagian-bagian berserat dari daun disisir ke dalam sejenis sikat yang digunakan untuk menghilangkan debu dari kaki.
+        </item>
+        <item>
+            1. https://eol.org/pages/48109393/names &lt;br&gt;
+            2. http://tropical.theferns.info/viewtropical.php?id=Pandanus+leram &lt;br&gt;
+            3. https://www.flickr.com/photos/adaduitokla/6779292408
+        </item>
+    </string-array>
+    <string-array name="warulaut">
+        <item>Waru Laut</item>
+        <item>(Thespesia populnea)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malvales</item>
+        <item>Famili          : Malvaceae</item>
+        <item>Genus           : &lt;i&gt;Thespesia&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Thespesia populnea &lt;/i&gt;(L.) Sol. Ex Correa</item>
+        <item>
+            Pohon dengan ketinggian 2-10 m. Daun tebal, berkulit dan permukaannya halus. Unit &amp; Letak: sederhana dan bersilangan. Bentuk: seperti hati. Ujung: meruncing. Ukuran: 7-24 x 5-16 cm. Bunga berbentuk lonceng, kuning muda dengan warna jingga/gelap di bagian tengah dasar. Tangkai putik menyatu, berwarna kuning dan ujungnya tumpul. Bunga berisi cairan seperti susu berwarna kuning yang kemudian akan berubah menjadi merah. Terdapat 3-8 pinak daun di bagian luar kelopak bunga. Bakal buah juga memiliki cairan berwarna kuning. Buah seperti bola dan bersegmen, diameter 2,5-4,5 cm. Terdapat 3-4 biji pada setiap ruang/segmen buah yang padat ditutupi oleh rambut pendek.
+        </item>
+        <item>
+            Daun muda dimakan sebagai sayuran, mereka juga bisa direbus atau ditambahkan ke sup. Buah mentah dimakan mentah, direbus atau digoreng sebagai sayuran. Empulur mengandung beberapa quinones sesquiterpenoid, termasuk mansonone D dan H, thespone dan thesponeone, yang diketahui menginduksi dermatitis kontak, untuk menghambat pembentukan tumor dan memiliki sifat antijamur. Jantung dan bagian tanaman lainnya mengandung gossypol. Buah dan daun mengandung senyawa dengan aktivitas antibakteri, sedangkan ekstrak metanol dari bunga. &lt;br&gt;
+Tunas telah menunjukkan aktivitas antijamur. Ekstrak etanol bunga telah menunjukkan aktivitas antihepatotoksik. Minyak biji memiliki aktivitas anti-amoebic. Empulur adalah karminatif. Ini berguna untuk mengobati radang selaput dada, kolera, kolik, dan demam tinggi. Jus buah digunakan untuk mengobati herpes. Buah yang dihancurkan digunakan dalam pengobatan untuk masalah saluran kemih dan pembengkakan perut. Buah yang dimasak, dilumatkan dengan minyak kelapa, memberikan salep, yang jika diaplikasikan pada rambut, akan membunuh kutu. Ekstrak buah diterapkan pada buah zakar yang membengkak. Teh daun diambil sebagai pengobatan untuk rematik dan retensi urin. Rebusan daun digunakan untuk mengobati batuk, influenza, sakit kepala dan relaps pada penyakit.&lt;br&gt;
+Getah daun, dan decoctions sebagian besar tanaman, digunakan secara eksternal untuk mengobati berbagai penyakit kulit. Jus dari buah yang ditumbuk, dicampur dengan daun yang ditumbuk digunakan dalam tapal untuk mengobati sakit kepala dan gatal. Rebusan kulit kayu dan buah dicampur dengan minyak dan digunakan untuk mengobati kudis.&lt;br&gt;
+Rebusan kulit astringen digunakan untuk mengobati disentri dan hemoroid, dan maserasi itu diminum untuk masuk angin. Infus dingin pada kulit digunakan untuk mengobati disentri, diabetes, gonore, urin kuning, dan sariawan. Gangguan pencernaan, infeksi panggul, dismenorea, infertilitas, amenorrhoea sekunder, kehilangan nafsu makan, bisul dan cacing juga diobati dengan kulit batang. Kulit dalam digunakan untuk mengobati sembelit dan tifoid. Batang digunakan dalam mengobati kanker payudara. Ekstrak lain dari tanaman memiliki aktivitas antimalaria yang signifikan . Decoctions daun dan kulit diambil sebagai obat untuk tekanan darah tinggi. Biji bersifat pencahar.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=21762#null &lt;br&gt;
+            2. http://www.wetlands.or.id/mangrove/mangrove_species.php?id=68 &lt;br&gt;
+            3. https://florafaunaweb.nparks.gov.sg/special-pages/plant-detail.aspx?id=3190
+        </item>
+    </string-array>
+    <string-array name="warulengis">
+        <item>Waru Lengis</item>
+        <item>(Hibiscus tiliaceus)</item>
+        <item>Kingdom      : Plantae</item>
+        <item>Subkingdom : Viridiplantae</item>
+        <item>Superdivisi  : Embryophyta</item>
+        <item>Divisi           : Tracheophyta</item>
+        <item>Kelas            : Magnoliopsida</item>
+        <item>Ordo            : Malvales</item>
+        <item>Famili          : Malvaceae</item>
+        <item>Genus           : &lt;i&gt;Hibiscus&lt;/i&gt;</item>
+        <item>Spesies         : &lt;i&gt;Hibiscus tiliaceus &lt;/i&gt;L.</item>
+        <item>
+            Pohon yang tumbuh tersebar dengan ketinggian hingga mencapai 15 m. Kulit kayu halus, burik-burik, berwarna cokelat keabu-abuan. Daun agak tipis (jika dibanding Thespesia populnea), berkulit dan permukaan bawah berambut halus dan berwarna agak putih. Unit &amp; Letak: sederhana dan bersilangan. Bentuk: seperti hati. Ujung: meruncing. Ukuran: 7,5-15 x 7,5- 14,5 cm. Bunga berbentuk lonceng. Saat mekar (sore hari) berwarna kuning muda dengan warna jingga/gelap di bagian tengah dasar, lalu keesokan harinya keseluruhan bunga jadi jingga dan rontok. Dasar dari gagang tandan bunga yang memanjang ditutupi oleh pinak daun yang kemudian akan jatuh dan menyisakan tonjolan berbentung cincin. Letak: di ketiak daun. Formasi: soliter atau berkelompok (2-5). Daun mahkota: kuning, diameter 5-7 cm. Kelopak bunga: 5, bergerigi. Tangkai putik: ada 5 (tidak menyatu), dengan kepala putik berwarna ungu kecoklatan. Bunga membuka menjadi 5 bagian, dan memiliki biji khas yang berambut. Ukuran: diameter buah sekitar 2 cm.
+        </item>
+        <item>
+            Ditanam sebagai pohon peneduh di taman. Akarnya digunakan sebagai obat demam. Serat kayu digunakan sebagai tali. Daun kadang-kadang digunakan sebagai makanan ternak. Kayu digunakan sebagai bahan pembuatan bagian dalam perahu. Serat dari kulit kayu yang digunakan untuk membuat tali, jaring ikan dan tempat tidur gantung. Kayu dapat digosok dengan kuat dengan sepotong kayu keras lain untuk menyalakan api. Biji digunakan dalam oinments, parfum dan minyak untuk rambut.
+        </item>
+        <item>
+            1. https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=845742#null &lt;br&gt;
+            2. http://www.wetlands.or.id/mangrove/mangrove_species.php?id=55 &lt;br&gt;
+            3. https://florafaunaweb.nparks.gov.sg/Special-Pages/plant-detail.aspx?id=2954
+        </item>
     </string-array>
 
     <!--Hutan Tanaman-->
