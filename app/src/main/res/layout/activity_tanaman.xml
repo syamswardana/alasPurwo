@@ -56,7 +56,7 @@
                     android:layout_height="175dp"
                     android:layout_alignParentTop="true"
                     android:layout_centerHorizontal="true"
-                    app:srcCompat="@drawable/adem_ati" />
+                    app:srcCompat="@drawable/apel_mangrove" />
             </RelativeLayout>
 
 

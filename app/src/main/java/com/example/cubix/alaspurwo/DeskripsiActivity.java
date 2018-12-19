@@ -29,7 +29,7 @@ public class DeskripsiActivity extends AppCompatActivity {
         if (baris == 0) {
             txt_title.setText("Hutan Bambu");
         } else if (baris == 1) {
-            txt_title.setText("Daratan Rendah");
+            txt_title.setText("Hutan Daratan Rendah");
         } else if (baris == 2) {
             txt_title.setText("Hutan Mangrove");
         } else if (baris == 3) {

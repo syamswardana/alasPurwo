@@ -20,6 +20,7 @@ import java.util.List;
 public class DaftarTumbuhanActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
 
     String namaTumbuhan[];
+    String namaLatin[];
     List<RowItemTumbuhan> rowItems;
     List<RowItemLatin> latin;
     ListView listTumbuhan;
@@ -65,20 +66,20 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
             txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Savana");
         }
 
-        Log.d("panjang",String.valueOf(namaTumbuhan.length));
-
+        namaLatin = new String[namaTumbuhan.length];
         for (int i=0;i < namaTumbuhan.length;i++){
             String tanaman = namaTumbuhan[i];
             tanaman = tanaman.toLowerCase();
             tanaman = tanaman.replaceAll("\\s","");
             tanaman = tanaman.replaceAll("-","");
+            Log.d("Tanaman: ", tanaman);
             String resTanaman[] = getResources().getStringArray(getResources().getIdentifier(tanaman,"array",getPackageName()));
+            namaLatin[i] = resTanaman[1];
             RowItemLatin item = new RowItemLatin(resTanaman[1]);
             latin.add(item);
         }
         for (int i = 0; i < namaTumbuhan.length; i++) {
             RowItemTumbuhan item = new RowItemTumbuhan(namaTumbuhan[i]);
-            Log.d("resTanaman: ", namaTumbuhan[i]);
             rowItems.add(item);
         }
         listTumbuhan = (ListView) findViewById(R.id.list_tumbuhan);
@@ -109,13 +110,22 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
             public boolean onQueryTextChange(String newText) {
                 if (newText != null && !newText.isEmpty()){
                     List<RowItemTumbuhan> hasil = new ArrayList<RowItemTumbuhan>();
+                    List<RowItemLatin> hasil2 = new ArrayList<RowItemLatin>();
                     for (int i = 0; i < namaTumbuhan.length; i++) {
                         if (namaTumbuhan[i].toLowerCase().contains(newText.toLowerCase())){
                             RowItemTumbuhan item = new RowItemTumbuhan(namaTumbuhan[i]);
+                            RowItemLatin item2 = new RowItemLatin(namaLatin[i]);
                             hasil.add(item);
+                            hasil2.add(item2);
+                        }
+                        if (namaLatin[i].toLowerCase().contains(newText.toLowerCase())){
+                            RowItemTumbuhan item = new RowItemTumbuhan(namaTumbuhan[i]);
+                            RowItemLatin item2 = new RowItemLatin(namaLatin[i]);
+                            hasil.add(item);
+                            hasil2.add(item2);
                         }
                     }
-                    AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, hasil,latin);
+                    AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, hasil,hasil2);
                     listTumbuhan.setAdapter(adapter);
                 } else {
                     listTumbuhan = (ListView) findViewById(R.id.list_tumbuhan);
