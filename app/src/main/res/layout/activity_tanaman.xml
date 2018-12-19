@@ -43,8 +43,7 @@
                 android:text="Nama tanaman"
                 android:textAlignment="center"
                 android:textColor="@android:color/white"
-                android:textSize="18sp"
-                app:layout_constraintEnd_toStartOf="@+id/linearLayout" />
+                android:textSize="18sp" />
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -103,6 +102,22 @@
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
                     android:text="Manfaat :"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp">
+
+                <TextView
+                    android:id="@+id/txt_referensi"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:text="Referensi :"
                     android:textColor="@android:color/white"
                     android:textSize="16sp" />
 

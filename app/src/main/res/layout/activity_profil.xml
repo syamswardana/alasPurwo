@@ -59,16 +59,121 @@
                     android:id="@+id/textView"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:paddingLeft="10dp"
+
+                    android:paddingRight="10dp"
+                    android:text="Status Kawasan"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="fill"
                     android:paddingLeft="10dp"
                     android:paddingRight="10dp"
-                    android:text="Kawasan Alas Purwo, sebelum ditetapkan sebagai taman nasional, semula berstatus Suaka Margasatwa Banyuwangi Selatan berdasarkan Surat Keputusan Gubernur Jenderal Hindia Belanda Nomor 6 stbl 456 tanggal 01 September 1939 dengan luas areal 62.000 ha. Kemudian, diubah menjadi Taman Nasional Alas Purwo.dengan luas 43.420 ha melalui Surat Keputusan Menteri Kehutanan pada tahun 1992.\n\nTaman Nasional Alas Purwo, sebagaimana diamanatkan dalam Undang-Undang Nomor 5 tahun 1990 tentang Konservasi Sumberdaya Alam Hayati dan Ekosistemnya mempunyai tiga fungsi pokok, yaitu\n
-        1. Perlindungan proses ekologis sistem penyangga kehidupan.\n
-        2. Pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya.\n
-        3. Pemanfaatan secara lestari sumberdaya alam hayati dan ekosistemnya dalam bentuk penelitian, ilmu pengetahuan, pendidikan, penunjang budidaya, dan pariwisata alam\n\n
-        Taman Nasional Alas Purwo merupakan kawasan hutan yang mempunyai berbagai macam tipe ekosistem yang tergolong utuh di Pulau Jawa. Ekosistem yang dimiliki mulai dari pantai (hutan pantai) sampai hutan hujan  dataran rendah, hutan mangrove, hutan bambu, savana dan hutan tanaman\n\n
-        Keanekaragaman jenis flora darat di kawasan Taman Nasional Alas Purwo termasuk tinggi. Diketahui lebih dari 700 jenis tumbuhan mulai dari tingkat tumbuhan bawah sampai tumbuhan tingkat pohon dari berbagai tipe/formasi vegetasi.  Tumbuhan khas dan endemik pada taman nasional ini yaitu sawo kecik (Manilkara kauki). Selain itu tumbuhan yang sering dijumpai yaitu ketapang (Terminalia catapa), nyamplung (Calophyllum inophyllum), kepuh (Sterculia foetida), keben (Barringtonia asiatica), dan 10 jenis bambu."
 
+                    android:text="Kawasan Alas Purwo, sebelum ditetapkan sebagai taman nasional, semula berstatus Suaka Margasatwa Banyuwangi Selatan berdasarkan Surat Keputusan Gubernur Jenderal Hindia Belanda Nomor 6 stbl 456 tanggal 01 September 1939 dengan luas areal 62.000 ha. Kemudian, diubah menjadi Taman Nasional Alas Purwo.dengan luas 43.420 ha melalui Surat Keputusan Menteri Kehutanan pada tahun 1992. Pada tahun 2008, berdasarkan Peraturan Pemerintah Nomor 26 Tahun 2008 tentang Rencana Tata Ruang Wilayah Nasional, Taman Nasional Alas Purwo ditetapkan sebagai Kawasan Strategis Nasional (KSN) dengan fungsi kawasan lindung nasional. Sedangkan berdasarkan Rencana Induk Pembangunan Kepariwisataan Kabupaten Banyuwangi Tahun 2012, Taman Nasional Alas Purwo (Objek dan Daya Tarik Wisata Alam Plengkung) ditetapkan sebagai salah satu bagian dari tiga objek wisata utama “Triangle Diamond” yaitu Kawah Ijen, Plengkung, dan Sukamade.\n
+Taman Nasional Alas Purwo, sebagaimana diamanatkan dalam Undang-Undang Nomor 5 tahun 1990 tentang Konservasi Sumberdaya Alam Hayati dan Ekosistemnya mempunyai tiga fungsi pokok, yaitu\n
+1. Perlindungan proses ekologis sistem penyangga kehidupan.\n
+2. Pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya.\n
+3. Pemanfaatan secara lestari sumberdaya alam hayati dan ekosistemnya dalam bentuk penelitian, ilmu pengetahuan, pendidikan, penunjang budidaya, dan pariwisata alam.\n"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:paddingLeft="10dp"
+
+                    android:paddingRight="10dp"
+                    android:text="Kondisi Fisik Kawasan"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView14"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
                     android:gravity="fill"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+
+                    android:text="1.Luas dan Letak\n
+Kawasan Taman Nasional Alas Purwo memiliki luasan sebesar 43.420 Ha. Secara geografis kawasan ini terletak di ujung timur pulau Jawa antara 80 26’ 45” – 80 47’ 00” LS dan 1140 20’ 16” – 1140 36’ 00” BT dan secara administratif berada di 2 kecamatan yaitu Kecamatan Tegaldlimo dan Kecamatan Purwoharjo, Kabupaten Banyuwangi, Provinsi Jawa Timur. Adapun batas-batas wilayah Taman Nasional Alas Purwo meliputi :\n
+\t-Sebelah utara, berbatasan dengan Teluk Pangpang, Selat Bali, Desa Kedungringin dan Desa Wringinputih Kecamatan Muncar serta Desa Kedungsari, Kecamatan Tegaldlimo.\n
+\t-Sebelah timur, berbatasan dengan Selat Bali dan Samudra Indonesia.\n
+\t-Sebelah selatan, berbatasan dengan Samudra Indonesia.\n
+\t-Sebelah barat, berbatasan dengan Teluk Grajagan, kawasan hutan produksi Perum Perhutani Kesatuan Pemangkuan Hutan Banyuwangi Selatan, Desa Grajagan dan Desa Sumberasri Kecamatan Purwoharjo serta Desa Purwoagung dan Desa Kendalrejo Kecamatan Tegaldlimo.\n
+2.Tanah\n
+Jenis tanah di kawasan Taman Nasional Alas Purwo terdiri atas 4 kelompok, yaitu tanah komplek mediteran merah-litosol seluas 2.106 Ha, tanah regosol kelabu seluas 6.238 Ha, tanah grumosol kelabu seluas 379 Ha, dan tanah aluvial hidromof seluas 34.697 Ha.\n
+Tanah di kawasan Taman Nasional Alas Purwo didominasi jenis tanah aluvial hidromof. Jenis tanah ini mempunyai ciri-ciri fisik berwarna kelabu, bertekstur liat, dan memiliki permiabilitas lambat. Jenis ini juga biasanya banyak digenangi air sehingga warnanya menjadi tua kelabu sampai kehitaman. Daerah penyebarannya berada di berbagai ketinggian tetapi umumnya di dataran rendah, dengan topografi datar sampai bergelombang.\n
+3.Geologi\n
+Secara fisiografis kawasan Taman Nasional Alas Purwo terdiri atas 4 unit bentuk lahan, yaitu : bentuk lahan fluvial, organik, marin, dan karst. Bentuk lahan fluvial menempati daerah bagian barat, memanjang dari Teluk Pangpang sampai ke Pantai Triangulasi dengan luas 2.097,7 Ha. Bentuk lahan organik menempati bagian tepi kawasan, terbagi menjadi dua, yaitu daerah mangrove dan terumbu karang dengan luas yang belum dipastikan, karena bersifat sangat dinamik, utamanya dipengaruhi oleh pasang surut air laut. Bentuk lahan marin juga menempati bagian tepi kawasan, berasosiasi dengan bentuk lahan organik. Bentuk lahan karst menempati sebagian besar kawasan, mulai dari Gunung Sembulungan, Tanjung Purwo, Tanjung Bantenan, dan Teluk Banyubiru.\n
+4.Iklim\n
+Menurut sistem klasifikasi Schmidth dan Ferguson, kawasan Taman Nasional Alas Purwo termasuk ke dalam tipe iklim D (agak lembab) sampai E (agak kering). Secara umum, bulan basah terjadi pada bulan November sampai April dan bulan kering terjadi pada bulan Mei sampai Oktober dengan curah hujan tidak merata sepanjang tahun. Suhu udara rata-rata bulanan berkisar antara 25,90C – 28,20C. Kelembaban udara mempunyai fluktuasi tergolong kecil, yaitu berkisar antara 75% - 81%. Arah angin terbanyak adalah arah selatan dengan kecepatan antara 2,3 – 4,2 knot.\n
+5.Topografi\n
+Kawasan Taman Nasional Alas Purwo terdiri dari daerah pantai, daratan hingga daerah perbukitan dan pegunungan, berketinggian 0 – 322 mdpl dengan puncak tertinggi Gunung Lingga Manis. Daerah pantai melingkar mulai dari Segoro Anak sampai Muncar. Kelerengan kawasan dibedakan menjadi daerah datar (0-8%) seluas 10.554 Ha, landai (8-15%) seluas 19.474 Ha, agak curam (15-25%) seluas 11.091 Ha, dan curam (25-40%) seluas 2.301 Ha.\n
+6.Hidrologi\n
+Sebagian kawasan Taman Nasional Alas Purwo yang didominasi bentuk lahan karst, menyimpan potensi air yang cukup besar, hanya saja potensi tersebut merupakan potensi air tanah yang berada pada lapisan dalam, sedangkan air yang muncul ke permukaan terbatas pad lokasi-lokasi tertentu yang muncul sebagai mata air.\n"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/textView15"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:paddingLeft="10dp"
+
+                    android:paddingRight="10dp"
+                    android:text="Flora"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView16"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="fill"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+
+                    android:text="Taman Nasional Alas Purwo merupakan kawasan hutan yang mempunyai berbagai macam tipe ekosistem yang tergolong utuh di Pulau Jawa. Ekosistem yang dimiliki mulai dari pantai (hutan pantai) sampai hutan hujan  dataran rendah, hutan mangrove, hutan bambu, savana dan hutan tanaman. Keanekaragaman jenis flora darat di kawasan Taman Nasional Alas Purwo termasuk tinggi. Diketahui lebih dari 700 jenis tumbuhan mulai dari tingkat tumbuhan bawah sampai tumbuhan tingkat pohon dari berbagai tipe/formasi vegetasi. Jenis-jenis tumbuhan yang telah teridentifikasi tersebut terbagi dalam 138 famili, di mana famili Poaceae, Euphorbiaceae, Fabaceae, dan Araceae merupakan famili yang memiliki jumlah jenis terbanyak di dalam kawasan."
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp" />
+                <TextView
+                    android:id="@+id/textView17"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:paddingLeft="10dp"
+
+                    android:paddingRight="10dp"
+                    android:text="Fauna"
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView18"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="fill"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+
+                    android:text="Di Taman Nasional Alas Purwo terdapat 50 jenis mamalia dari 26 famili yang teridentifikasi sampai dengan saat ini. Dari 50 jenis tersebut, 16 jenis merupakan jenis yang dilindungi diantaranya yaitu Banteng (Bos javanicus), Rusa (Cervus timorensis), Kijang (Muntiacus muntjak), Macan Tutul (Panthera pardus), Ajag (Cuon alpinus), Kucing Hutan (Prionailurus bengalensis).\n
+Aves di Taman Nasional Alas Purwo sampai saat ini telah teridentifikasi kurang lebih 302 jenis dari 65 famili. Dari 302 jenis tersebut, 83 jenis merupakan jenis yang dilindungi, di antaranya yaitu Elang Bondol (Haliastur indus), Elang Brontok (Spizaetus cirrhatus), Kangkareng Perut Putih (Anthracoceros albirostris), Merak Hijau (Pavo muticus), dan Elang Jawa (Nisateus bartelsi).\n
+Sampai saat ini tercatat 64 jenis hepterofauna yang terdiri dari 15 jenis amfibi dan 49 jenis reptil. Di antara jenis hepterofauna yang ada di kawasan, terdapat 6 jenis reptil yang dilindungi yaitu Penyu Lekang/ Abu-Abu (Lepidochelys olivacea), Penyu Hijau (Chelonia mydas), Penyu Sisik (Eretmochelys imbricata), Penyu Belimbing (Dermochelys coriacea), Biawak Abu-Abu (Varanus nebulosus), dan Sanca Bodo (Phyton molurus).\n
+Jenis ikan yang telah berhasil diidentifikasi di Taman Nasional Alas Purwo berjumlah lebih dari 20 jenis, diantaranya: Sepat (Trichogaster sp.), Lele (Clarias sp.), Blodok (Periopthalamus sp.), dan Bedul (Acentrogobius caninus). Jenis-jenis ikan tersebut dijumpai di Segoro Anak dan sungai yang mengalir di dalam kawasan Taman Nasional Alas Purwo. diantara jenis-jenis ikan tersebut, Bedul merupakan jenis yang cukup banyak dijumpai di sekitar Segoro Anak hingga sebagian kawasan tersebut dikenal dengan Blok Bedul. Selain jenis Bedu;, Blodok juga merupakan jenis yang khas dan mudah dijumpai ‘berjalan’ di sekitar dermaga Blok Bedul terutama pada saat surut."
                     android:textColor="@android:color/white"
                     android:textSize="16sp" />
 
