@@ -71,51 +71,24 @@ Di kawasan Taman Nasional Alas Purwo formasi savana terdapat di padang pengembal
         <item>@drawable/hutan_tanaman</item>
         <item>@drawable/savana</item>
     </array>
-    <string-array name="hutanPantai">
-        <item>Keben</item>
-        <item>Ketapang</item>
-        <item>Legaran Pantai</item>
-        <item>Nyamplung</item>
-        <item>Sawo Kecik</item>
-    </string-array>
+
+
+    <!--Hutan Bambu-->
     <string-array name="hutanBambu">
         <item>Bambu Ampel</item>
         <item>Bambu Apus</item>
         <item>Bambu Petung</item>
         <item>Bambu Wulung</item>
-    </string-array>
-    <string-array name="hutanDaratanRendah">
-        <item>Andong</item>
-        <item>Anting-Anting</item>
-        <item>Asam</item>
-        <item>Bendo</item>
-        <item>Beringin</item>
-        <item>Kedawung</item>
-        <item>Kedondong Hutan</item>
-        <item>Kemiri</item>
-        <item>Kepuh</item>
-    </string-array>
-    <string-array name="hutanMangrove">
-        <item>Api Api Pantai</item>
-        <item>Bakau</item><!--Rhizophora Mucronata-->
-        <item>Bako Bako</item>
-        <item>Dungun</item><!--Heritiera Littoralis-->
-        <item>Mangrove Pedada</item>
-        <item>Nyiri Agang</item><!--Xylocarpus Granatum-->
-        <item>Pohon Kendal</item><!--Cordia Bantamensi-->
-        <item>Apel Mangrove</item><!-- Sonneratia alba-->
-        <item>Tanjang</item>
-    </string-array>
-    <string-array name="hutanTanaman">
-        <item>Adem Ati</item>
-        <item>Akasia</item>
-        <item>Jati</item>
-    </string-array>
-    <string-array name="savana">
-        <item>Alang-Alang</item>
+        <item>Bambu Gesing</item>
+        <item>Bambu Jajang</item>
+        <item>Bambu Jalar</item>
+        <item>Bambu Jawa</item>
+        <item>Bambu Manggong</item>
+        <item>Bambu Ori</item>
+        <item>Bambu Rampal</item>
+        <item>Bambu Wuluh</item>
     </string-array>
 
-    <!--Hutan Bambu-->
     <string-array name="bambuampel">
         <item>Bambu Ampel </item>
         <item>(Bambusa vulgaris)</item>
@@ -413,9 +386,57 @@ Karakteristik perakaran bambu yang mempunyai sistem perakaran serabut dengan aka
             2. http://www.bambooland.com.au/schizostachyum-iraten
         </item>
     </string-array>
-    <!--done-->
+    <!--hutan bambu bwh-->
 
     <!--Hutan daratan rendah-->
+    <string-array name="hutanDaratanRendah">
+        <item>Andong</item>
+        <item>Anting-Anting</item>
+        <item>Asam</item>
+        <item>Bendo</item>
+        <item>Beringin</item>
+        <item>Kedawung</item>
+        <item>Kedondong Hutan</item>
+        <item>Kemiri</item>
+        <item>Kepuh</item>
+        <item>Antidesma ghaesembilla</item>
+        <item>Budengan</item>
+        <item>Buni</item>
+        <item>Ceri</item>
+        <item>Dandang Gulo</item>
+        <item>Girang</item>
+        <item>Joho Keling</item>
+        <item>Katimaha</item>
+        <item>Kayu Aro</item>
+        <item>Kelerak</item>
+        <item>Kemuning</item>
+        <item>Keranji</item>
+        <item>Laban</item>
+        <item>Lamtoro</item>
+        <item>Mahang Ketam</item>
+        <item>Majapahit</item>
+        <item>Mangga</item>
+        <item>Mangir</item>
+        <item>Mengkudu</item>
+        <item>Menjalin</item>
+        <item>Mimba</item>
+        <item>Nipah</item>
+        <item>Nyatoh</item>
+        <item>Pancal Kidang</item>
+        <item>Popohan</item>
+        <item>Pulai</item>
+        <item>Putat Rowo</item>
+        <item>Rau</item>
+        <item>Sempu</item>
+        <item>Serut</item>
+        <item>Talok</item>
+        <item>Trangguli</item>
+        <item>Trenggulun</item>
+        <item>Turi</item>
+        <item>Walangan</item>
+        <item>Walikukun</item>
+    </string-array>
+
     <string-array name="andong">
         <item>Andong </item>
         <item>(Cordyline fruticosa)</item>
@@ -666,7 +687,7 @@ Asam lemak minyak kepuh juga dapat digunakan sebagai zat adaptif biodiesel (biof
         </item>
     </string-array>
     <string-array name="antidesmaghaesembilla">
-        <item>Antidesma ghaesembilla </item>
+        <item>Antidesma ghaesembilla</item>
         <item>(Antidesma ghaesembilla)</item>
         <item>Kingdom      : Plantae</item>
         <item>Subkingdom : Tracheobionta</item>
@@ -1526,8 +1547,27 @@ Tumbuh sampai ketinggian 900 m dpl., walikukun umumnya ditemukan di dataran rend
             3. https://id.wikipedia.org/wiki/Walikukun
         </item>
     </string-array>
+    <!--hutan daratan rendah bwh-->
 
     <!--Hutan Mangrove-->
+    <string-array name="hutanMangrove">
+        <item>Api Api Pantai</item>
+        <item>Bakau</item><!--Rhizophora Mucronata-->
+        <item>Bako Bako</item>
+        <item>Dungun</item><!--Heritiera Littoralis-->
+        <item>Apel Mangrove</item><!-- Sonneratia alba-->
+        <item>Mangrove Pedada</item>
+        <item>Nyiri Agang</item><!--Xylocarpus Granatum-->
+        <item>Pohon Kendal</item><!--Cordia Bantamensi-->
+        <item>Tanjang</item>
+        <item>Api-Api</item>
+        <item>Bukau Putih</item>
+        <item>Bukau Tampusing</item>
+        <item>Biduri</item>
+        <item>Biko-Biko</item>
+        <item>Soga Tingi</item>
+    </string-array>
+
     <string-array name="apiapipantai">
         <item>Api Api Pantai </item>
         <item>(Avicennia marina)</item>
@@ -1633,7 +1673,7 @@ Buah berwarna hijau hingga coklat mengkilat, berkayu. Memiliki 1 biji dan masak 
             2. http://www.wetlands.or.id/mangrove/mangrove_species.php?id=29
         </item>
     </string-array>
-    <string-array name="mangroveapel">
+    <string-array name="apelmangrove">
         <item>Apel Mangrove </item>
         <item>(Sonneratia alba)</item>
         <item>Kingdom      : Plantae</item>
@@ -1912,6 +1952,22 @@ Buah berbentuk telur hingga mengerucut, berwarna kecoklatan dengan panjang 2 cm 
     </string-array>
 
     <!--Hutan Pantai-->
+    <string-array name="hutanPantai">
+        <item>Keben</item>
+        <item>Ketapang</item>
+        <item>Legaran Pantai</item>
+        <item>Nyamplung</item>
+        <item>Sawo Kecik</item>
+        <item>Dadap Laut</item>
+        <item>Jati Pasir</item>
+        <item>Katang-Katang</item>
+        <item>Pandan Duri</item>
+        <item>Pandanus dubius</item>
+        <item>Pandanus leram</item>
+        <item>Waru Laut</item>
+        <item>Waru Lengis</item>
+    </string-array>
+
     <string-array name="keben">
         <item>Keben </item>
         <item>(Barringtonia asiatica)</item>
@@ -2143,7 +2199,7 @@ Buah berbentuk kapsul bundar hingga agak datar degan 4 biji berwarna hitam dan b
         </item>
     </string-array>
     <string-array name="pandanusdubius">
-        <item>Pandan Duri</item>
+        <item>Pandanus dubius</item>
         <item>(Pandanus tectorius)</item>
         <item>Kingdom      : Plantae</item>
         <item>Subkingdom : Viridiplantae</item>
@@ -2244,6 +2300,17 @@ Rebusan kulit astringen digunakan untuk mengobati disentri dan hemoroid, dan mas
     </string-array>
 
     <!--Hutan Tanaman-->
+    <string-array name="hutanTanaman">
+        <item>Adem Ati</item>
+        <item>Akasia</item>
+        <item>Jati</item>
+        <item>Johar</item>
+        <item>Mahoni Daun Besar</item>
+        <item>Mahoni Daun Kecil</item>
+        <item>Mindi</item>
+        <item>Sono Keling</item>
+    </string-array>
+
     <string-array name="ademati">
         <item>Adem Ati </item>
         <item>(Litsea glutinosa)</item>
@@ -2439,6 +2506,18 @@ Daun jati memiliki beberapa kandungan yang dapat mengatasi berbagai penyakit yai
     </string-array>
 
     <!--savana-->
+    <string-array name="savana">
+        <item>Alang-Alang</item>
+        <item>Merakan</item>
+        <item>Rumput Balung</item>
+        <item>Rumput Tembun</item>
+        <item>Bekol</item>
+        <item>Kesambi</item>
+        <item>Rumput Jarum</item>
+        <item>Rumput Kipas</item>
+        <item>Sadeng</item>
+    </string-array>
+
     <string-array name="alangalang">
         <item>Alang-alang </item>
         <item>(Imperata cylindrica)</item>

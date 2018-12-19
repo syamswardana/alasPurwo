@@ -27,6 +27,7 @@
             android:padding="10dp"
             android:text="TextView"
             android:textColor="@android:color/white"
-            android:textSize="14dp" />
+            android:textSize="12dp"
+            android:textStyle="italic" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
