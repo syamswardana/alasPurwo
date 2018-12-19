@@ -18,14 +18,17 @@ public class AdapterTumbuhanActivity extends BaseAdapter {
 
     Context context;
     List<RowItemTumbuhan> rowItems;
+    List<RowItemLatin> latin;
     private RowItemTumbuhan row_pos;
+    private RowItemLatin row_Latin;
 
     public AdapterTumbuhanActivity() {
     }
 
-    public AdapterTumbuhanActivity(Context contetxt, List<RowItemTumbuhan> rowItems) {
-        this.context = contetxt;
+    public AdapterTumbuhanActivity(Context context, List<RowItemTumbuhan> rowItems, List<RowItemLatin> latin) {
+        this.context = context;
         this.rowItems = rowItems;
+        this.latin = latin;
     }
 
     @Override
@@ -45,6 +48,8 @@ public class AdapterTumbuhanActivity extends BaseAdapter {
 
     private class viewHolder{
         TextView text;
+        TextView textLatin;
+
     }
 
     @Override
@@ -53,12 +58,15 @@ public class AdapterTumbuhanActivity extends BaseAdapter {
         LayoutInflater inflater = (LayoutInflater) context.getSystemService(Activity.LAYOUT_INFLATER_SERVICE);
         if (convertView == null) {
             convertView = inflater.inflate(R.layout.activity_adapter_tumbuhan,null);
-            holder = new viewHolder();
-            holder.text = convertView.findViewById(R.id.txt_namaTumbuhan);
-            RowItemTumbuhan row_pos = rowItems.get(position);
-
-            holder.text.setText(row_pos.getNamaTumbuhan());
         }
+        holder = new viewHolder();
+        holder.text = convertView.findViewById(R.id.txt_namaTumbuhan);
+        holder.textLatin = convertView.findViewById(R.id.txt_namaLatin);
+        RowItemTumbuhan row_pos = rowItems.get(position);
+        RowItemLatin row_latin = latin.get(position);
+
+        holder.text.setText(row_pos.getNamaTumbuhan());
+        holder.textLatin.setText(row_latin.getNamaLatin());
         return convertView;
     }
 }

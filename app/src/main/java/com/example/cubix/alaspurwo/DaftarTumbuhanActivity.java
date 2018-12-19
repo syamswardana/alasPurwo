@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -19,8 +20,8 @@ import java.util.List;
 public class DaftarTumbuhanActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
 
     String namaTumbuhan[];
-    String namaLatin[];
     List<RowItemTumbuhan> rowItems;
+    List<RowItemLatin> latin;
     ListView listTumbuhan;
     int baris;
 
@@ -43,6 +44,7 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
 
         baris = getIntent().getIntExtra("baris", 0);
         rowItems = new ArrayList<RowItemTumbuhan>();
+        latin = new ArrayList<RowItemLatin>();
         if (baris == 0) {
             namaTumbuhan = getResources().getStringArray(R.array.hutanBambu);
             txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Hutan Bambu");
@@ -63,18 +65,24 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
             txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Savana");
         }
 
-        namaLatin = new String[namaTumbuhan.length];
+        Log.d("panjang",String.valueOf(namaTumbuhan.length));
 
         for (int i=0;i < namaTumbuhan.length;i++){
-//            String tanaman[] = getResources().getStringArray();
-//            namaLatin[i] = tanaman[1];
+            String tanaman = namaTumbuhan[i];
+            tanaman = tanaman.toLowerCase();
+            tanaman = tanaman.replaceAll("\\s","");
+            tanaman = tanaman.replaceAll("-","");
+            String resTanaman[] = getResources().getStringArray(getResources().getIdentifier(tanaman,"array",getPackageName()));
+            RowItemLatin item = new RowItemLatin(resTanaman[1]);
+            latin.add(item);
         }
         for (int i = 0; i < namaTumbuhan.length; i++) {
             RowItemTumbuhan item = new RowItemTumbuhan(namaTumbuhan[i]);
+            Log.d("resTanaman: ", namaTumbuhan[i]);
             rowItems.add(item);
         }
         listTumbuhan = (ListView) findViewById(R.id.list_tumbuhan);
-        AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(this, rowItems);
+        AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(this, rowItems,latin);
         listTumbuhan.setAdapter(adapter);
 
         searchView.setOnSearchViewListener(new MaterialSearchView.SearchViewListener() {
@@ -86,7 +94,7 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
             @Override
             public void onSearchViewClosed() {
                 listTumbuhan = (ListView) findViewById(R.id.list_tumbuhan);
-                AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, rowItems);
+                AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, rowItems,latin);
                 listTumbuhan.setAdapter(adapter);
             }
         });
@@ -107,11 +115,11 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
                             hasil.add(item);
                         }
                     }
-                    AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, hasil);
+                    AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, hasil,latin);
                     listTumbuhan.setAdapter(adapter);
                 } else {
                     listTumbuhan = (ListView) findViewById(R.id.list_tumbuhan);
-                    AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, rowItems);
+                    AdapterTumbuhanActivity adapter = new AdapterTumbuhanActivity(DaftarTumbuhanActivity.this, rowItems,latin);
                     listTumbuhan.setAdapter(adapter);
                 }
 

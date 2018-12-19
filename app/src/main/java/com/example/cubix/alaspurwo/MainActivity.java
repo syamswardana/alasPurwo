@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 //                Toast.makeText(getBaseContext(),String.valueOf(getResources().getIdentifier("ademAti","array",getPackageName())),Toast.LENGTH_LONG).show();
-                Toast.makeText(getBaseContext(),String.valueOf(R.array.ademAti),Toast.LENGTH_LONG).show();
+//                Toast.makeText(getBaseContext(),String.valueOf(R.array.ademAti),Toast.LENGTH_LONG).show();
                 startActivity(new Intent(MainActivity.this,ProfilActivity.class));
             }
         });
