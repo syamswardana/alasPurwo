@@ -23,6 +23,7 @@ public class TanamanActivity extends AppCompatActivity {
         TextView txt_deskripsi = findViewById(R.id.txt_deskripsi);
         TextView txt_manfaat = findViewById(R.id.txt_manfaat);
         TextView txt_referensi = findViewById(R.id.txt_referensi);
+        TextView txt_indexFoto = findViewById(R.id.txt_indexFoto);
 
         Toolbar ToolBarAtas2 = (Toolbar)findViewById(R.id.toolbar_satu);
         setSupportActionBar(ToolBarAtas2);
@@ -39,11 +40,15 @@ public class TanamanActivity extends AppCompatActivity {
 //
         txt_namaTanaman.setText(Html.fromHtml(Tanaman[0]+" <i>"+Tanaman[1]+"</i>"));
         for (int i=2;i<11;i++){
-            txt_klasifikasi.append(Html.fromHtml("<br/>"+Tanaman[i]));
+            txt_klasifikasi.append(Html.fromHtml("<br/>"));
+            for (int j = 0;j<i;j++){
+                txt_klasifikasi.append("  ");
+            }
+            txt_klasifikasi.append(Html.fromHtml(Tanaman[i]));
         }
         txt_deskripsi.append(Html.fromHtml("<br/>"+Tanaman[11]));
         txt_manfaat.append(Html.fromHtml("<br>"+Tanaman[12]));
         txt_referensi.append(Html.fromHtml("<br>"+Tanaman[13]));
-
+        txt_indexFoto.setText(Tanaman[14]);
     }
 }
