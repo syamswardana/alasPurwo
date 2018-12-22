@@ -7,9 +7,78 @@
     android:background="@drawable/bg2"
     tools:context="com.example.cubix.alaspurwo.TentangActivity">
 
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:text="(0333) 428675"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="486dp" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="47dp"
+        android:layout_height="47dp"
+        android:layout_below="@+id/imageView8"
+        android:layout_alignStart="@+id/imageView8"
+        android:layout_alignLeft="@+id/imageView8"
+        app:srcCompat="@drawable/icon_phone"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="473dp" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:text="btnap@tnalaspurwo.org"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="425dp" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="47dp"
+        android:layout_height="47dp"
+        app:srcCompat="@drawable/icon_location"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="345dp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:text="Jl. Brawijaya No. 20 Banyuwangi - 68417"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="359dp" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="47dp"
+        android:layout_height="47dp"
+        android:layout_below="@+id/imageView8"
+        android:layout_alignStart="@+id/imageView8"
+        android:layout_alignLeft="@+id/imageView8"
+        app:srcCompat="@drawable/icon_email"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="413dp" />
+
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent" android:orientation="vertical">
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar_satu"
@@ -45,73 +114,89 @@
 
             <ImageView
                 android:id="@+id/imageView7"
-                android:layout_width="65dp"
-                android:layout_height="65dp"
-                android:layout_alignParentLeft="true"
-                android:layout_alignParentStart="true"
+                android:layout_width="47dp"
+                android:layout_height="47dp"
                 android:layout_below="@+id/textView2"
-                android:layout_marginLeft="22dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
                 android:layout_marginStart="22dp"
-                android:layout_marginTop="65dp"
+                android:layout_marginLeft="22dp"
+                android:layout_marginTop="24dp"
                 app:srcCompat="@drawable/icon_facebook" />
 
             <ImageView
                 android:id="@+id/imageView8"
-                android:layout_width="65dp"
-                android:layout_height="65dp"
+                android:layout_width="47dp"
+                android:layout_height="47dp"
+                android:layout_below="@+id/imageView7"
                 android:layout_alignEnd="@+id/imageView7"
                 android:layout_alignRight="@+id/imageView7"
-                android:layout_below="@+id/imageView7"
-                android:layout_marginTop="41dp"
+                android:layout_marginTop="17dp"
+                android:layout_marginEnd="1dp"
+                android:layout_marginRight="1dp"
                 app:srcCompat="@drawable/icon_wa" />
 
             <ImageView
                 android:id="@+id/imageView9"
-                android:layout_width="65dp"
-                android:layout_height="65dp"
-                android:layout_alignLeft="@+id/imageView8"
-                android:layout_alignStart="@+id/imageView8"
+                android:layout_width="47dp"
+                android:layout_height="47dp"
                 android:layout_below="@+id/imageView8"
-                android:layout_marginTop="44dp"
+                android:layout_alignStart="@+id/imageView8"
+                android:layout_alignLeft="@+id/imageView8"
+                android:layout_marginStart="-2dp"
+                android:layout_marginLeft="-2dp"
+                android:layout_marginTop="16dp"
                 app:srcCompat="@drawable/icon_email" />
 
             <TextView
                 android:id="@+id/textView3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_alignLeft="@+id/textView5"
-                android:layout_alignStart="@+id/textView5"
-                android:layout_alignTop="@+id/imageView9"
-                android:layout_marginTop="17dp"
+                android:layout_alignEnd="@+id/textView2"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="192dp"
                 android:text="sindiayuastari@gmail.com"
                 android:textColor="@android:color/white"
-                android:textSize="18sp" />
+                android:textSize="14sp" />
 
             <TextView
                 android:id="@+id/textView5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_above="@+id/imageView9"
-                android:layout_alignLeft="@+id/textView4"
-                android:layout_alignStart="@+id/textView4"
-                android:layout_marginBottom="19dp"
+                android:layout_alignStart="@+id/textView3"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="131dp"
                 android:text="081234871937"
                 android:textColor="@android:color/white"
-                android:textSize="18sp" />
+                android:textSize="14sp" />
 
             <TextView
                 android:id="@+id/textView4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_above="@+id/imageView8"
-                android:layout_marginBottom="20dp"
-                android:layout_marginLeft="24dp"
-                android:layout_marginStart="24dp"
-                android:layout_toEndOf="@+id/imageView7"
-                android:layout_toRightOf="@+id/imageView7"
+                android:layout_alignStart="@+id/textView3"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="66dp"
                 android:text="Sindi Ayu Astari"
                 android:textColor="@android:color/white"
-                android:textSize="18sp" />
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="84dp"
+                android:layout_marginLeft="84dp"
+                android:layout_marginTop="244dp"
+                android:text="Contact Alas Purwo"
+                android:textColor="@android:color/white"
+                android:layout_centerHorizontal="true"
+                android:textSize="20sp"
+                tools:layout_editor_absoluteX="163dp"
+                tools:layout_editor_absoluteY="48dp" />
 
         </RelativeLayout>
 
