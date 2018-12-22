@@ -1,6 +1,5 @@
 package com.example.cubix.alaspurwo;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.res.TypedArray;
 import android.support.v7.app.AppCompatActivity;
@@ -9,7 +8,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
-import android.widget.ListView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -27,7 +25,7 @@ public class MenuUtamaActivity extends AppCompatActivity implements AdapterView.
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu_utama);
 
-        TextView txt_title = (TextView) findViewById(R.id.txt_title);
+        TextView txt_title = (TextView) findViewById(R.id.txt_tanaman);
 
         Toolbar ToolBarAtas2 = (Toolbar)findViewById(R.id.toolbar_satu);
         setSupportActionBar(ToolBarAtas2);

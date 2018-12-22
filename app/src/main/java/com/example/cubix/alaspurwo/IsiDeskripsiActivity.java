@@ -14,8 +14,6 @@ import android.widget.TextView;
 import com.synnapps.carouselview.CarouselView;
 import com.synnapps.carouselview.ImageListener;
 
-import java.lang.reflect.Array;
-
 public class IsiDeskripsiActivity extends AppCompatActivity {
 
     Intent i;
@@ -35,7 +33,7 @@ public class IsiDeskripsiActivity extends AppCompatActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        TextView txt_title = (TextView) findViewById(R.id.txt_title);
+        TextView txt_title = (TextView) findViewById(R.id.txt_tanaman);
         TextView txt_deskripsi = (TextView) findViewById(R.id.txt_deskripsi);
         Button btn_youtube = (Button) findViewById(R.id.btn_youtube);
 

@@ -15,6 +15,7 @@ import android.widget.TextView;
 import com.miguelcatalan.materialsearchview.MaterialSearchView;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class DaftarTumbuhanActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
@@ -33,7 +34,7 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_daftar_tumbuhan);
 
-        TextView txt_title = (TextView) findViewById(R.id.txt_title);
+        TextView txt_title = (TextView) findViewById(R.id.txt_tanaman);
 
         Toolbar ToolBarAtas2 = (Toolbar) findViewById(R.id.toolbar_satu);
         setSupportActionBar(ToolBarAtas2);
@@ -66,6 +67,7 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
             txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Savana");
         }
 
+        Arrays.sort(namaTumbuhan);
         namaLatin = new String[namaTumbuhan.length];
         for (int i=0;i < namaTumbuhan.length;i++){
             String tanaman = namaTumbuhan[i];

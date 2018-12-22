@@ -47,7 +47,7 @@
 
 
         <TextView
-            android:id="@+id/txt_title"
+            android:id="@+id/txt_tanaman"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
@@ -66,7 +66,7 @@
             android:layout_height="match_parent"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
-            android:layout_below="@+id/txt_title"
+            android:layout_below="@+id/txt_tanaman"
             android:layout_marginTop="28dp"
             android:paddingRight="10dp"
             android:paddingLeft="10dp"

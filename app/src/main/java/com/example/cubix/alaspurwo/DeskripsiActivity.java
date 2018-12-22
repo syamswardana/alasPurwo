@@ -24,7 +24,7 @@ public class DeskripsiActivity extends AppCompatActivity {
 
         Button btn_deskripsi = (Button) findViewById(R.id.btn_deskripsi);
         Button btn_daftarTanaman = (Button) findViewById(R.id.btn_daftarTanaman);
-        TextView txt_title = (TextView) findViewById(R.id.txt_title);
+        TextView txt_title = (TextView) findViewById(R.id.txt_tanaman);
         baris = getIntent().getIntExtra("baris",0);
         if (baris == 0) {
             txt_title.setText("Hutan Bambu");

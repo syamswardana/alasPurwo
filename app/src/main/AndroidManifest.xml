@@ -56,9 +56,13 @@
             android:name=".DeskripsiActivity"
             android:parentActivityName=".MenuUtamaActivity"
             android:theme="@style/noActionBar" />
-        <activity android:name=".IsiDeskripsiActivity"
+        <activity
+            android:name=".IsiDeskripsiActivity"
             android:parentActivityName=".DeskripsiActivity"
-            android:theme="@style/noActionBar"></activity>
+            android:theme="@style/noActionBar" />
+        <activity android:name=".DetailTanamanActivity"
+            android:parentActivityName=".DeskripsiActivity"
+            android:theme="@style/noActionBar" />
     </application>
 
 </manifest>

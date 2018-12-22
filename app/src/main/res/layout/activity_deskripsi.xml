@@ -44,7 +44,7 @@
 
 
         <TextView
-            android:id="@+id/txt_title"
+            android:id="@+id/txt_tanaman"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
