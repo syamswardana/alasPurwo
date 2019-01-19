@@ -49,22 +49,22 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
         latin = new ArrayList<RowItemLatin>();
         if (baris == 0) {
             namaTumbuhan = getResources().getStringArray(R.array.hutanBambu);
-            txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Hutan Bambu");
+            txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Hutan Bambu");
         } else if (baris == 1) {
             namaTumbuhan = getResources().getStringArray(R.array.hutanDaratanRendah);
-            txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Hutan Daratan Rendah");
+            txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Hutan Daratan Rendah");
         } else if (baris == 2) {
             namaTumbuhan = getResources().getStringArray(R.array.hutanMangrove);
-            txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Hutan Mangrove");
+            txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Hutan Mangrove");
         } else if (baris == 3) {
             namaTumbuhan = getResources().getStringArray(R.array.hutanPantai);
-            txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Hutan Pantai");
+            txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Hutan Pantai");
         } else if (baris == 4) {
             namaTumbuhan = getResources().getStringArray(R.array.hutanTanaman);
-            txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Hutan Tanaman");
+            txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Hutan Tanaman");
         } else {
             namaTumbuhan = getResources().getStringArray(R.array.savana);
-            txt_title.setText("Daftar Tumbuhan Dalam Ekosistem Savana");
+            txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Savana");
         }
 
         Arrays.sort(namaTumbuhan);

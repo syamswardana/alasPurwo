@@ -21,8 +21,9 @@ public class DetailTanamanActivity extends AppCompatActivity {
         TextView txt_deskripsi = findViewById(R.id.txt_deskripsi);
         TextView txt_manfaat = findViewById(R.id.txt_manfaat);
         TextView txt_referensi = findViewById(R.id.txt_referensi);
+        TextView txt_namaTanaman = findViewById(R.id.txt_tanaman);
 
-
+        txt_namaTanaman.setText(Html.fromHtml(getIntent().getStringExtra("Tanaman")));
         txt_deskripsi.append(Html.fromHtml("<br/>"+getIntent().getStringExtra("Deskripsi")));
         txt_manfaat.append(Html.fromHtml("<br>"+getIntent().getStringExtra("Manfaat")));
         txt_referensi.append(Html.fromHtml("<br>"+getIntent().getStringExtra("Referensi")));

@@ -58,6 +58,7 @@ public class TanamanActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(TanamanActivity.this,DetailTanamanActivity.class);
+                i.putExtra("Tanaman",Tanaman[0]);
                 i.putExtra("Deskripsi",Tanaman[11]);
                 i.putExtra("Manfaat",Tanaman[12]);
                 i.putExtra("Referensi",Tanaman[13]);

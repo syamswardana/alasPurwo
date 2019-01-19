@@ -39,7 +39,7 @@
             android:layout_gravity="center_vertical"
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
-            android:text="Daftar Tumbuhan dalam Ekosistem Taman Nasional Alas Purwo"
+            android:text="Daftar Vegetasi Utama Dalam Ekosistem Taman Nasional Alas Purwo"
             android:textAlignment="center"
             android:textColor="@android:color/white"
             android:textSize="20sp"
