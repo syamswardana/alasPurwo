@@ -53,7 +53,7 @@
             android:paddingRight="10dp"
             android:text="Deskripsi Hutan Bambu"
             android:textAlignment="center"
-            android:textColor="@android:color/white"
+            android:textColor="@color/vpi__background_holo_dark"
             android:textSize="18dp" />
 
         <ScrollView
@@ -76,13 +76,14 @@
                     app:slideInterval="3000"
                     app:strokeColor="#FF777777"
                     app:strokeWidth="1dp"/>
+
                 <TextView
                     android:id="@+id/txt_deskripsi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="10dp"
                     android:text="TextView"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="18sp" />
 
                 <Button

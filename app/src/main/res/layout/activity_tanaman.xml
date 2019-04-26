@@ -42,7 +42,7 @@
                 android:gravity="center_vertical"
                 android:text="Nama tanaman"
                 android:textAlignment="center"
-                android:textColor="@android:color/white"
+                android:textColor="@color/vpi__background_holo_dark"
                 android:textSize="18sp" />
 
             <RelativeLayout
@@ -70,7 +70,7 @@
                     android:layout_marginTop="175dp"
                     android:gravity="center"
                     android:text=""
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
             </RelativeLayout>
 
@@ -87,7 +87,7 @@
                     android:layout_alignParentTop="true"
                     android:layout_centerHorizontal="true"
                     android:text="Klasifikasi :"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
 
             </RelativeLayout>

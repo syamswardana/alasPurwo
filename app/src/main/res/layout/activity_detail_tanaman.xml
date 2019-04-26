@@ -65,7 +65,7 @@
                     android:paddingRight="10dp"
                     android:text="Asam"
                     android:textAlignment="center"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="18dp" />
 
             </RelativeLayout>
@@ -83,7 +83,7 @@
                     android:layout_marginLeft="15dp"
                     android:layout_marginRight="15dp"
                     android:text="Manfaat :"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
             </RelativeLayout>
 
@@ -96,11 +96,11 @@
                     android:id="@+id/txt_deskripsi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
                     android:layout_marginLeft="15dp"
                     android:layout_marginRight="15dp"
-                    android:layout_centerHorizontal="true"
                     android:text="Deskripsi :"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
             </RelativeLayout>
 
@@ -117,7 +117,7 @@
                     android:layout_marginLeft="15dp"
                     android:layout_marginRight="15dp"
                     android:text="Referensi :"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
             </RelativeLayout>
 

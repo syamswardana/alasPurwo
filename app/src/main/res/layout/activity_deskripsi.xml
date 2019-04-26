@@ -53,7 +53,7 @@
             android:paddingRight="10dp"
             android:text="Hutan Bambu"
             android:textAlignment="center"
-            android:textColor="@android:color/white"
+            android:textColor="@color/vpi__background_holo_dark"
             android:textSize="18dp" />
 
         <Button

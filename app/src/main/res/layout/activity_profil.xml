@@ -64,7 +64,7 @@
 
                     android:paddingRight="10dp"
                     android:text="Status Kawasan"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp"
                     android:textStyle="bold" />
 
@@ -81,7 +81,7 @@ Taman Nasional Alas Purwo, sebagaimana diamanatkan dalam Undang-Undang Nomor 5 t
 1. Perlindungan proses ekologis sistem penyangga kehidupan.\n
 2. Pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya.\n
 3. Pemanfaatan secara lestari sumberdaya alam hayati dan ekosistemnya dalam bentuk penelitian, ilmu pengetahuan, pendidikan, penunjang budidaya, dan pariwisata alam.\n\n"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
 
                 <TextView
@@ -93,7 +93,7 @@ Taman Nasional Alas Purwo, sebagaimana diamanatkan dalam Undang-Undang Nomor 5 t
 
                     android:paddingRight="10dp"
                     android:text="Kondisi Fisik Kawasan"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp"
                     android:textStyle="bold" />
 
@@ -122,7 +122,7 @@ Menurut sistem klasifikasi Schmidth dan Ferguson, kawasan Taman Nasional Alas Pu
 Kawasan Taman Nasional Alas Purwo terdiri dari daerah pantai, daratan hingga daerah perbukitan dan pegunungan, berketinggian 0 – 322 mdpl dengan puncak tertinggi Gunung Lingga Manis. Daerah pantai melingkar mulai dari Segoro Anak sampai Muncar. Kelerengan kawasan dibedakan menjadi daerah datar (0-8%) seluas 10.554 Ha, landai (8-15%) seluas 19.474 Ha, agak curam (15-25%) seluas 11.091 Ha, dan curam (25-40%) seluas 2.301 Ha.\n
 \n6.Hidrologi\n
 Sebagian kawasan Taman Nasional Alas Purwo yang didominasi bentuk lahan karst, menyimpan potensi air yang cukup besar, hanya saja potensi tersebut merupakan potensi air tanah yang berada pada lapisan dalam, sedangkan air yang muncul ke permukaan terbatas pad lokasi-lokasi tertentu yang muncul sebagai mata air.\n\n"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
 
                 <TextView
@@ -134,7 +134,7 @@ Sebagian kawasan Taman Nasional Alas Purwo yang didominasi bentuk lahan karst, m
 
                     android:paddingRight="10dp"
                     android:text="Flora"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp"
                     android:textStyle="bold" />
 
@@ -147,8 +147,9 @@ Sebagian kawasan Taman Nasional Alas Purwo yang didominasi bentuk lahan karst, m
                     android:paddingRight="10dp"
 
                     android:text="Taman Nasional Alas Purwo merupakan kawasan hutan yang mempunyai berbagai macam tipe ekosistem yang tergolong utuh di Pulau Jawa. Ekosistem yang dimiliki mulai dari pantai (hutan pantai) sampai hutan hujan  dataran rendah, hutan mangrove, hutan bambu, savana dan hutan tanaman. Keanekaragaman jenis flora darat di kawasan Taman Nasional Alas Purwo termasuk tinggi. Diketahui lebih dari 700 jenis tumbuhan mulai dari tingkat tumbuhan bawah sampai tumbuhan tingkat pohon dari berbagai tipe/formasi vegetasi. Jenis-jenis tumbuhan yang telah teridentifikasi tersebut terbagi dalam 138 famili, di mana famili Poaceae, Euphorbiaceae, Fabaceae, dan Araceae merupakan famili yang memiliki jumlah jenis terbanyak di dalam kawasan.\n\n"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
+
                 <TextView
                     android:id="@+id/textView17"
                     android:layout_width="match_parent"
@@ -158,7 +159,7 @@ Sebagian kawasan Taman Nasional Alas Purwo yang didominasi bentuk lahan karst, m
 
                     android:paddingRight="10dp"
                     android:text="Fauna"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp"
                     android:textStyle="bold" />
 
@@ -174,7 +175,7 @@ Sebagian kawasan Taman Nasional Alas Purwo yang didominasi bentuk lahan karst, m
 Aves di Taman Nasional Alas Purwo sampai saat ini telah teridentifikasi kurang lebih 302 jenis dari 65 famili. Dari 302 jenis tersebut, 83 jenis merupakan jenis yang dilindungi, di antaranya yaitu Elang Bondol (Haliastur indus), Elang Brontok (Spizaetus cirrhatus), Kangkareng Perut Putih (Anthracoceros albirostris), Merak Hijau (Pavo muticus), dan Elang Jawa (Nisateus bartelsi).\n\n
 Sampai saat ini tercatat 64 jenis hepterofauna yang terdiri dari 15 jenis amfibi dan 49 jenis reptil. Di antara jenis hepterofauna yang ada di kawasan, terdapat 6 jenis reptil yang dilindungi yaitu Penyu Lekang/ Abu-Abu (Lepidochelys olivacea), Penyu Hijau (Chelonia mydas), Penyu Sisik (Eretmochelys imbricata), Penyu Belimbing (Dermochelys coriacea), Biawak Abu-Abu (Varanus nebulosus), dan Sanca Bodo (Phyton molurus).\n\n
 Jenis ikan yang telah berhasil diidentifikasi di Taman Nasional Alas Purwo berjumlah lebih dari 20 jenis, diantaranya: Sepat (Trichogaster sp.), Lele (Clarias sp.), Blodok (Periopthalamus sp.), dan Bedul (Acentrogobius caninus). Jenis-jenis ikan tersebut dijumpai di Segoro Anak dan sungai yang mengalir di dalam kawasan Taman Nasional Alas Purwo. diantara jenis-jenis ikan tersebut, Bedul merupakan jenis yang cukup banyak dijumpai di sekitar Segoro Anak hingga sebagian kawasan tersebut dikenal dengan Blok Bedul. Selain jenis Bedu;, Blodok juga merupakan jenis yang khas dan mudah dijumpai ‘berjalan’ di sekitar dermaga Blok Bedul terutama pada saat surut.\n\n"
-                    android:textColor="@android:color/white"
+                    android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
 
             </LinearLayout>

@@ -41,7 +41,7 @@
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
                 android:text="Hubungi Kami"
-                android:textColor="@android:color/white"
+                android:textColor="@color/vpi__background_holo_dark"
                 android:textSize="20sp"
                 tools:layout_editor_absoluteX="163dp"
                 tools:layout_editor_absoluteY="48dp" />
@@ -93,7 +93,7 @@
                 android:layout_marginEnd="-21dp"
                 android:layout_marginRight="-21dp"
                 android:text="sindiayuastari@gmail.com"
-                android:textColor="@android:color/white"
+                android:textColor="@color/vpi__background_holo_dark"
                 android:textSize="14sp" />
 
             <TextView
@@ -101,24 +101,24 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignStart="@+id/textView3"
+                android:layout_alignLeft="@+id/textView3"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="131dp"
                 android:text="081234871937"
-                android:textColor="@android:color/white"
-                android:textSize="14sp"
-                android:layout_alignLeft="@+id/textView3" />
+                android:textColor="@color/vpi__background_holo_dark"
+                android:textSize="14sp" />
 
             <TextView
                 android:id="@+id/textView4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignStart="@+id/textView3"
+                android:layout_alignLeft="@+id/textView3"
                 android:layout_alignParentTop="true"
                 android:layout_marginTop="66dp"
                 android:text="Sindi Ayu Astari"
-                android:textColor="@android:color/white"
-                android:textSize="14sp"
-                android:layout_alignLeft="@+id/textView3" />
+                android:textColor="@color/vpi__background_holo_dark"
+                android:textSize="14sp" />
 
             <TextView
                 android:id="@+id/textView19"
@@ -132,7 +132,7 @@
                 android:layout_marginLeft="84dp"
                 android:layout_marginTop="244dp"
                 android:text="Contact Alas Purwo"
-                android:textColor="@android:color/white"
+                android:textColor="@color/vpi__background_holo_dark"
                 android:textSize="20sp"
                 tools:layout_editor_absoluteX="163dp"
                 tools:layout_editor_absoluteY="48dp" />
@@ -144,9 +144,9 @@
                 android:layout_alignStart="@+id/textView3"
                 android:layout_alignParentBottom="true"
                 android:layout_marginStart="0dp"
-                android:layout_marginBottom="173dp"
+                android:layout_marginBottom="260dp"
                 android:text="Jl. Brawijaya No. 20 Banyuwangi - 68417"
-                android:textColor="@android:color/white"
+                android:textColor="@color/vpi__background_holo_dark"
                 android:textSize="14sp" />
 
             <ImageView
@@ -156,7 +156,7 @@
                 android:layout_alignStart="@+id/imageView7"
                 android:layout_alignParentBottom="true"
                 android:layout_marginStart="0dp"
-                android:layout_marginBottom="37dp"
+                android:layout_marginBottom="122dp"
                 app:srcCompat="@drawable/icon_email" />
 
             <TextView
@@ -166,9 +166,9 @@
                 android:layout_alignStart="@+id/textView3"
                 android:layout_alignParentBottom="true"
                 android:layout_marginStart="0dp"
-                android:layout_marginBottom="48dp"
+                android:layout_marginBottom="135dp"
                 android:text="btnap@tnalaspurwo.org"
-                android:textColor="@android:color/white"
+                android:textColor="@color/vpi__background_holo_dark"
                 android:textSize="14sp" />
 
             <ImageView
@@ -180,7 +180,7 @@
                 android:layout_alignParentBottom="true"
                 android:layout_marginStart="0dp"
                 android:layout_marginLeft="0dp"
-                android:layout_marginBottom="161dp"
+                android:layout_marginBottom="248dp"
                 app:srcCompat="@drawable/icon_location"
                 tools:ignore="RtlCompat"
                 tools:layout_editor_absoluteX="16dp"
@@ -193,7 +193,7 @@
                 android:layout_alignStart="@+id/imageView7"
                 android:layout_alignParentBottom="true"
                 android:layout_marginStart="0dp"
-                android:layout_marginBottom="97dp"
+                android:layout_marginBottom="184dp"
                 app:srcCompat="@drawable/icon_phone" />
 
             <TextView
@@ -203,9 +203,9 @@
                 android:layout_alignStart="@+id/textView3"
                 android:layout_alignParentBottom="true"
                 android:layout_marginStart="0dp"
-                android:layout_marginBottom="109dp"
+                android:layout_marginBottom="196dp"
                 android:text="(0333) 428675"
-                android:textColor="@android:color/white"
+                android:textColor="@color/vpi__background_holo_dark"
                 android:textSize="14sp" />
 
         </RelativeLayout>
