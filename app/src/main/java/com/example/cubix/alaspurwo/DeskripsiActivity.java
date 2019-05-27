@@ -35,7 +35,7 @@ public class DeskripsiActivity extends AppCompatActivity {
         } else if (baris == 3) {
             txt_title.setText("Hutan Pantai");
         } else if (baris == 4) {
-            txt_title.setText("Hutan Tanaman");
+            txt_title.setText("Hutan Produksi");
         } else {
             txt_title.setText("Savana");
         }

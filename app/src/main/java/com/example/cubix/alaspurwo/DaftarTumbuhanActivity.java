@@ -60,8 +60,8 @@ public class DaftarTumbuhanActivity extends AppCompatActivity implements Adapter
             namaTumbuhan = getResources().getStringArray(R.array.hutanPantai);
             txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Hutan Pantai");
         } else if (baris == 4) {
-            namaTumbuhan = getResources().getStringArray(R.array.hutanTanaman);
-            txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Hutan Tanaman");
+            namaTumbuhan = getResources().getStringArray(R.array.hutanProduksi);
+            txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Hutan Produksi");
         } else {
             namaTumbuhan = getResources().getStringArray(R.array.savana);
             txt_title.setText("Daftar Vegetasi Utama Dalam Ekosistem Savana");

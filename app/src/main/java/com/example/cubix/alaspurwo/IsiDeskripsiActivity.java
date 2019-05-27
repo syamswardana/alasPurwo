@@ -65,7 +65,7 @@ public class IsiDeskripsiActivity extends AppCompatActivity {
             sampleImages = new int[]{R.drawable.hutanpantai1, R.drawable.hutanpantai2, R.drawable.hutanpantai3};
             i = new Intent(Intent.ACTION_VIEW, Uri.parse(youtube[3]));
         } else if (baris == 4) {
-            txt_title.setText("Deskripsi Hutan Tanaman");
+            txt_title.setText("Deskripsi Hutan Produksi");
             txt_deskripsi.setText(Html.fromHtml(deskripsi[4]));
             sampleImages = new int[]{R.drawable.hutantanaman2, R.drawable.hutantanaman3, R.drawable.hutantanaman4, R.drawable.hutantanaman5, R.drawable.hutantanaman6};
             i = new Intent(Intent.ACTION_VIEW, Uri.parse(youtube[4]));
