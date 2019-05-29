@@ -69,18 +69,14 @@
                     android:textStyle="bold" />
 
                 <TextView
-                    android:id="@+id/textView8"
+                    android:id="@+id/txt_statuskawasan"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="fill"
                     android:paddingLeft="10dp"
                     android:paddingRight="10dp"
 
-                    android:text="Kawasan Alas Purwo, sebelum ditetapkan sebagai taman nasional, semula berstatus Suaka Margasatwa Banyuwangi Selatan berdasarkan Surat Keputusan Gubernur Jenderal Hindia Belanda Nomor 6 stbl 456 tanggal 01 September 1939 dengan luas areal 62.000 ha. Kemudian, diubah menjadi Taman Nasional Alas Purwo.dengan luas 43.420 ha melalui Surat Keputusan Menteri Kehutanan pada tahun 1992. Pada tahun 2008, berdasarkan Peraturan Pemerintah Nomor 26 Tahun 2008 tentang Rencana Tata Ruang Wilayah Nasional, Taman Nasional Alas Purwo ditetapkan sebagai Kawasan Strategis Nasional (KSN) dengan fungsi kawasan lindung nasional. Sedangkan berdasarkan Rencana Induk Pembangunan Kepariwisataan Kabupaten Banyuwangi Tahun 2012, Taman Nasional Alas Purwo (Objek dan Daya Tarik Wisata Alam Plengkung) ditetapkan sebagai salah satu bagian dari tiga objek wisata utama “Triangle Diamond” yaitu Kawah Ijen, Plengkung, dan Sukamade.\n\n
-Taman Nasional Alas Purwo, sebagaimana diamanatkan dalam Undang-Undang Nomor 5 tahun 1990 tentang Konservasi Sumberdaya Alam Hayati dan Ekosistemnya mempunyai tiga fungsi pokok, yaitu\n
-1. Perlindungan proses ekologis sistem penyangga kehidupan.\n
-2. Pengawetan keanekaragaman tumbuhan dan satwa beserta ekosistemnya.\n
-3. Pemanfaatan secara lestari sumberdaya alam hayati dan ekosistemnya dalam bentuk penelitian, ilmu pengetahuan, pendidikan, penunjang budidaya, dan pariwisata alam.\n\n"
+                    android:text="Kawasan Alas Purwo, sebelum ditetapkan sebagai taman nasional, semula berstatus Suaka Margasatwa Banyuwangi Selatan berdasarkan Surat Keputusan Gubernur Jenderal Hindia Belanda Nomor 6 stbl 456 tanggal 01 September 1939 dengan luas areal 62.000 ha, kemudian diubah menjadi Taman Nasional Alas Purwo dengan luas 43.420 ha melalui Surat Keputusan Menteri Kehutanan pada tahun 1992. Tahun 2008, berdasarkan Peraturan Pemerintah Nomor 26 Tahun 2008 tentang Rencana Tata Ruang Wilayah Nasional, Taman Nasional Alas Purwo ditetapkan sebagai Kawasan Strategis Nasional (KSN) dengan fungsi kawasan lindung nasional. Berdasarkan Rencana Induk Pembangunan Kepariwisataan Kabupaten Banyuwangi Tahun 2012, Taman Nasional Alas Purwo (Objek dan Daya Tarik Wisata Alam Plengkung) ditetapkan sebagai salah satu bagian dari tiga objek wisata utama “&lt;i&gt;Triangle Diamond&lt;/i&gt;” yaitu Kawah Ijen, Plengkung, dan Sukamade.\n\n"
                     android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
 
@@ -98,7 +94,7 @@ Taman Nasional Alas Purwo, sebagaimana diamanatkan dalam Undang-Undang Nomor 5 t
                     android:textStyle="bold" />
 
                 <TextView
-                    android:id="@+id/textView14"
+                    android:id="@+id/txt_kondisifisik"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="fill"
@@ -113,15 +109,15 @@ Kawasan Taman Nasional Alas Purwo memiliki luasan sebesar 43.420 Ha. Secara geog
 \t-Sebelah barat, berbatasan dengan Teluk Grajagan, kawasan hutan produksi Perum Perhutani Kesatuan Pemangkuan Hutan Banyuwangi Selatan, Desa Grajagan dan Desa Sumberasri Kecamatan Purwoharjo serta Desa Purwoagung dan Desa Kendalrejo Kecamatan Tegaldlimo.\n
 \n2.Tanah\n
 Jenis tanah di kawasan Taman Nasional Alas Purwo terdiri atas 4 kelompok, yaitu tanah komplek mediteran merah-litosol seluas 2.106 Ha, tanah regosol kelabu seluas 6.238 Ha, tanah grumosol kelabu seluas 379 Ha, dan tanah aluvial hidromof seluas 34.697 Ha.\n
-Tanah di kawasan Taman Nasional Alas Purwo didominasi jenis tanah aluvial hidromof. Jenis tanah ini mempunyai ciri-ciri fisik berwarna kelabu, bertekstur liat, dan memiliki permiabilitas lambat. Jenis ini juga biasanya banyak digenangi air sehingga warnanya menjadi tua kelabu sampai kehitaman. Daerah penyebarannya berada di berbagai ketinggian tetapi umumnya di dataran rendah, dengan topografi datar sampai bergelombang.\n
+Tanah di kawasan Taman Nasional Alas Purwo didominasi jenis tanah aluvial hidromof. Jenis tanah ini mempunyai ciri-ciri fisik berwarna kelabu, bertekstur liat, dan memiliki permiabilitas lambat. \n
 \n3.Geologi\n
-Secara fisiografis kawasan Taman Nasional Alas Purwo terdiri atas 4 unit bentuk lahan, yaitu : bentuk lahan fluvial, organik, marin, dan karst. Bentuk lahan fluvial menempati daerah bagian barat, memanjang dari Teluk Pangpang sampai ke Pantai Triangulasi dengan luas 2.097,7 Ha. Bentuk lahan organik menempati bagian tepi kawasan, terbagi menjadi dua, yaitu daerah mangrove dan terumbu karang dengan luas yang belum dipastikan, karena bersifat sangat dinamik, utamanya dipengaruhi oleh pasang surut air laut. Bentuk lahan marin juga menempati bagian tepi kawasan, berasosiasi dengan bentuk lahan organik. Bentuk lahan karst menempati sebagian besar kawasan, mulai dari Gunung Sembulungan, Tanjung Purwo, Tanjung Bantenan, dan Teluk Banyubiru.\n
+Secara fisiografis kawasan TNAP terdiri atas 4 unit bentuk lahan, yaitu : bentuk lahan fluvial, organik, marin, dan karst. Bentuk lahan fluvial menempati daerah bagian barat, memanjang dari Teluk Pangpang sampai ke Pantai Triangulasi dengan luas 2.097,7 Ha. Bentuk lahan organik menempati bagian tepi kawasan, terbagi menjadi dua, yaitu daerah mangrove dan terumbu karang dengan luas yang belum dipastikan, karena bersifat sangat dinamik, utamanya dipengaruhi oleh pasang surut air laut. Bentuk lahan marin juga menempati bagian tepi kawasan, berasosiasi dengan bentuk lahan organik. Bentuk lahan karst menempati sebagian besar kawasan, mulai dari Gunung Sembulungan, Tanjung Purwo, Tanjung Bantenan, dan Teluk Banyubiru.\n
 \n4.Iklim\n
-Menurut sistem klasifikasi Schmidth dan Ferguson, kawasan Taman Nasional Alas Purwo termasuk ke dalam tipe iklim D (agak lembab) sampai E (agak kering). Secara umum, bulan basah terjadi pada bulan November sampai April dan bulan kering terjadi pada bulan Mei sampai Oktober dengan curah hujan tidak merata sepanjang tahun. Suhu udara rata-rata bulanan berkisar antara 25,90C – 28,20C. Kelembaban udara mempunyai fluktuasi tergolong kecil, yaitu berkisar antara 75% - 81%. Arah angin terbanyak adalah arah selatan dengan kecepatan antara 2,3 – 4,2 knot.\n
+Menurut sistem klasifikasi Schmidth dan Ferguson, kawasan TNAP termasuk ke dalam tipe iklim D (agak lembab) sampai E (agak kering). Secara umum, bulan basah terjadi pada bulan November sampai April dan bulan kering terjadi pada bulan Mei sampai Oktober dengan curah hujan tidak merata sepanjang tahun. Suhu udara rata-rata berkisar antara 25,90C – 28,20C. Kelembaban udara mempunyai fluktuasi tergolong kecil, yaitu berkisar antara 75% - 81%. Arah angin terbanyak adalah arah selatan dengan kecepatan antara 2,3 – 4,2 knot.\n
 \n5.Topografi\n
-Kawasan Taman Nasional Alas Purwo terdiri dari daerah pantai, daratan hingga daerah perbukitan dan pegunungan, berketinggian 0 – 322 mdpl dengan puncak tertinggi Gunung Lingga Manis. Daerah pantai melingkar mulai dari Segoro Anak sampai Muncar. Kelerengan kawasan dibedakan menjadi daerah datar (0-8%) seluas 10.554 Ha, landai (8-15%) seluas 19.474 Ha, agak curam (15-25%) seluas 11.091 Ha, dan curam (25-40%) seluas 2.301 Ha.\n
+Kawasan TNAP terdiri dari daerah pantai, daratan hingga daerah perbukitan dan pegunungan, berketinggian 0 – 322 mdpl dengan puncak tertinggi Gunung Lingga Manis. Daerah pantai melingkar mulai dari Segoro Anak sampai Muncar. Kelerengan kawasan dibedakan menjadi daerah datar (0-8%) seluas 10.554 Ha, landai (8-15%) seluas 19.474 Ha, agak curam (15-25%) seluas 11.091 Ha, dan curam (25-40%) seluas 2.301 Ha.\n
 \n6.Hidrologi\n
-Sebagian kawasan Taman Nasional Alas Purwo yang didominasi bentuk lahan karst, menyimpan potensi air yang cukup besar, hanya saja potensi tersebut merupakan potensi air tanah yang berada pada lapisan dalam, sedangkan air yang muncul ke permukaan terbatas pad lokasi-lokasi tertentu yang muncul sebagai mata air.\n\n"
+Sebagian kawasan TNAP yang didominasi bentuk lahan karst yang menyimpan potensi air yang cukup besar, hanya saja potensi tersebut merupakan potensi air tanah yang berada pada lapisan dalam, sedangkan air yang muncul ke permukaan terbatas pada lokasi-lokasi tertentu yang muncul sebagai mata air.\n\n"
                     android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
 
@@ -139,14 +135,14 @@ Sebagian kawasan Taman Nasional Alas Purwo yang didominasi bentuk lahan karst, m
                     android:textStyle="bold" />
 
                 <TextView
-                    android:id="@+id/textView16"
+                    android:id="@+id/txt_flora"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="fill"
                     android:paddingLeft="10dp"
                     android:paddingRight="10dp"
 
-                    android:text="Taman Nasional Alas Purwo merupakan kawasan hutan yang mempunyai berbagai macam tipe ekosistem yang tergolong utuh di Pulau Jawa. Ekosistem yang dimiliki mulai dari pantai (hutan pantai) sampai hutan hujan  dataran rendah, hutan mangrove, hutan bambu, savana dan hutan tanaman. Keanekaragaman jenis flora darat di kawasan Taman Nasional Alas Purwo termasuk tinggi. Diketahui lebih dari 700 jenis tumbuhan mulai dari tingkat tumbuhan bawah sampai tumbuhan tingkat pohon dari berbagai tipe/formasi vegetasi. Jenis-jenis tumbuhan yang telah teridentifikasi tersebut terbagi dalam 138 famili, di mana famili Poaceae, Euphorbiaceae, Fabaceae, dan Araceae merupakan famili yang memiliki jumlah jenis terbanyak di dalam kawasan.\n\n"
+                    android:text="Taman Nasional Alas Purwo merupakan kawasan hutan yang mempunyai berbagai macam tipe ekosistem yang tergolong utuh di Pulau Jawa. Ekosistem yang dimiliki mulai dari pantai (hutan pantai) sampai hutan hujan  dataran rendah, hutan mangrove, hutan bambu, savana dan hutan tanaman. Keanekaragaman jenis flora darat di kawasan TNAP  termasuk tinggi, yaitu lebih dari 700 jenis tumbuhan mulai dari tumbuhan tingkat bawah sampai tumbuhan tingkat tinggi dari berbagai tipe vegetasi. Jenis-jenis tumbuhan yang telah teridentifikasi tersebut terbagi dalam 138 famili, yaitu famili Poaceae, Euphorbiaceae, Fabaceae, dan Araceae yang merupakan famili yang memiliki jumlah jenis terbanyak di dalam kawasan.\n\n"
                     android:textColor="@color/vpi__background_holo_dark"
                     android:textSize="16sp" />
 
